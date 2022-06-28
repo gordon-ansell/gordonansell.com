@@ -1,0 +1,45 @@
+---
+bodyClass: page
+deps: _layouts/includes/base.njk
+computed:
+    schema:
+        webpage:
+            "@type": "WebPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+        article:
+            "@type": "Article"
+            "@id": "/#article"
+            mainEntityOfpage: 
+                "@id": "/#webpage"
+            name: "{{title}}"
+            headline: "{{headline or title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+computedLate:
+    schema:
+        webpage:
+            url: "{{permalink | absoluteUrl(hostname)}}"
+        article:
+            url: "{{permalink | absoluteUrl(hostname)}}"
+---
+{% extends 'includes/base.njk' %}
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+<article class="h-entry">
+    <header>
+        <h1>{{ title }}</h1>
+    </header>
+    <section class="e-content">
+        {{ content | safe }}
+    </section>
+    <footer>
+    </footer>
+</article>
+{% endblock %}

@@ -1,0 +1,60 @@
+---
+title: "Tag: [[tag]]"
+deps: _layouts/includes/base.njk
+headline: Articles tagged with [[tag]]
+description: All articles on this site tagged with '[[tag]]', ordered by date. 
+parse: last
+pageTag: [[tag]]
+sitemap: false
+robots: noindex, follow
+breadcrumb:
+    -
+        loc: home
+    -
+        loc: tags
+    -
+        title: [[tag]]
+computed:
+    permalink: "/tags/{{pageTag | slugify}}/"
+computedLate:
+    schema:
+        webpage:
+            "@type": "CollectionPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+---
+{% extends 'includes/base.njk' %}
+{% import 'includes/byline.njk' as byline %}
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+<div class="h-feed article-list">
+
+    <h1>Tag: {{ pageTag }}</h1>
+
+    {% for tpl in collections.tags[pageTag].getAll() %}
+        {% set post = tpl.getData() %}
+        <article class="h-entry">
+            <header>
+                <h2><a class="p-name u-url entry-title" property="url" href="{{post.permalink | url('/', 'Post Link')}}">{{ post.title }}</a></h2>
+                {{ byline.all(post,site) }}
+            <header>
+            {% if (post.ratingStars or 0 === post.ratingStars) %}
+                {% ratingstars post.ratingStars, size=30 %}
+            {% endif %}
+            {% if (post.description) %}
+                <section class="description p-summary entry-summary" property="description">
+                    {{ post.description | safe }}
+                </section>
+            {% endif %}
+        </article>
+
+    {% endfor %}
+
+</div>
+{% endblock %}
+

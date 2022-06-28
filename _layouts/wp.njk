@@ -1,0 +1,48 @@
+---
+deps: _layouts/includes/base.njk
+type: page
+computed: 
+    permalink: "{{fdir}}/{{fbasenoindex}}"
+---
+{% set bodyClass="wpdocs" %}
+{% extends 'includes/base.njk' %}
+
+{% block menutop %}{% endblock %}
+{% block menubottom %}{% endblock %}
+
+{% block main %}
+<div class="wpwrapper">
+    <div class="wprow">
+        <nav class="menu-wp wpcolumn">
+            <input type="checkbox" id="menu-btn" />
+            <label for="menu-btn"><span class="icon"></span></label>
+            <ul class="menu-items">
+                {% menu "wp" %}
+            </ul>
+        </nav>
+        <article class="h-entry wpcolumn">
+            <header>
+                <h1>{{ title }}</h1>
+                <a style="display:none" class="u-url" href="{{permalink | url}}">{{ title }}</a>
+            </header>
+
+            <section class="e-content">
+                {{ content | safe }}
+            </section>
+
+            {% block wpextra %}{% endblock %}
+
+            <footer>
+                <div class="prevnext">
+                    <span class="prev">
+                        {% menuseq "wp", "prev" %}
+                    </span>
+                    <span class="next">
+                        {% menuseq "wp", "next" %}
+                    </span>
+                </div>
+            </footer>
+        </article>
+    </div>
+</div>
+{% endblock %}

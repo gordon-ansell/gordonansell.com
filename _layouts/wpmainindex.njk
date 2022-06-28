@@ -1,0 +1,16 @@
+---
+deps: _layouts/wp.njk
+type: page
+computed: 
+    permalink: "{{fdir}}/{{fbasenoindex}}"
+---
+{% extends 'wp.njk' %}
+
+{% block menutop %}{% endblock %}
+{% block menubottom %}{% endblock %}
+
+{% block wpextra %}
+    <section class="subsindex">
+        {% menusubs "wp", "_main" %}
+    </section>
+{% endblock %}

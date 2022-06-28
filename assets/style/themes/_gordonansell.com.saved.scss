@@ -1,0 +1,47 @@
+/*
+   ==========================================================================
+   gordonansell.com theme.
+   ==========================================================================
+*/
+
+// Light.
+$theme-col-body-bg-light: #FFFFFF !default;
+$theme-col-body-bg-animation-light: none !default;
+$theme-col-body-text-light: $col-black !default;
+$theme-col-body-text-dimmer-light: lighten($theme-col-body-text-light, 20%) !default;
+$theme-col-secondary-bg-light: #F7E7CE !default;
+$theme-col-secondary-bg-offset-light: #d8d8d8 !default;         // Darker creamy colour.
+$theme-col-secondary-text-light: #217972 !default;
+$theme-col-secondary-text-offset-light: #b56357 !default;
+$theme-col-tertiary-bg-light: #265d73 !default;                
+$theme-col-opposite-text-light: $col-white !default;
+$theme-col-link-text-light: $theme-col-secondary-text-light !default;
+$theme-col-link-text-hover-light: $theme-col-secondary-text-offset-light !default;
+$theme-col-muted-light: $col-light-gray !default;
+$theme-col-code-text-light: $col-light-green !default;
+$theme-col-code-bg-light: $col-dark-green !default;
+$theme-col-border-light: $col-black-40 !default;
+$theme-col-header-bg-light: transparent !default;
+$theme-col-footer-bg-light: $col-white-80 !default;
+
+// Dark.
+$theme-col-body-bg-dark: #313638;
+$theme-col-body-bg-animation-dark: none !default;
+$theme-col-body-text-dark: $col-white-80 !default;
+$theme-col-body-text-dimmer-dark: darken($theme-col-body-text-dark, 20%) !default;
+$theme-col-secondary-bg-dark: $col-black-40 !default;
+$theme-col-secondary-bg-offset-dark: $col-black-60 !default;
+$theme-col-secondary-text-dark: #3de0d3;
+$theme-col-secondary-text-offset-dark: #e0897b;
+$theme-col-tertiary-bg-dark: #265d73 !default;                
+$theme-col-opposite-text-dark: $col-black !default;
+$theme-col-link-text-dark: $theme-col-secondary-text-dark !default;
+$theme-col-link-text-hover-dark: $theme-col-secondary-text-offset-dark;
+$theme-col-muted-dark: $col-black-40 !default;
+$theme-col-code-text-dark: #00ff80;
+$theme-col-code-bg-dark: #003d00;
+$theme-col-border-dark: $col-white-40 !default;
+$theme-col-header-bg-dark: transparent;
+$theme-col-footer-bg-dark: $col-black-80 !default;
+
+

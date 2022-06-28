@@ -1,0 +1,39 @@
+title: Gordy's Discourse
+description: News, reviews and opinion about technology, science, weight training, entertainment and society, to name but a few subjects.
+authors: 
+    gordonansell: 
+        name: Gordon Ansell
+        image: /assets/images/logos/logo-thumbnail-gordonansell-com.png
+        url: /about/
+defaultAuthor: gordonansell
+publisher:
+    name: Gordy's Discourse
+    logo: /assets/images/logos/logo-amp.png
+    description: The personal blog of Gordon Ansell.
+    url: /
+copyright: Copyright &copy; Gordon Ansell 2018-2022. Powered by boiled eggs.
+defaultArticleImage: /assets/images/logos/logo-thumbnail-gordys-discourse.png
+feedMax: 20
+cache: true
+cacheCssJsMax: 86400
+cacheImagesMax: 2592000
+redirect301:
+    /cats/citation/:          /tags/citation/
+    /cats/disquisition/:      /tags/disquisition/ 
+    /cats/entertainment/:     /tags/entertainment/ 
+    /cats/how-to/:            /tags/how-to/
+    /cats/misc/:              /tags/misc/
+    /cats/news/:              /tags/news/ 
+    /cats/opinion/:           /tags/opinion/ 
+    /cats/personal/:          /tags/personal/ 
+    /cats/review/:            /tags/review/ 
+    /cats/rtm/:               /tags/rtm/
+    /cats/science/:           /tags/science/ 
+    /cats/society/:           /tags/society/ 
+    /cats/tech/:              /tags/tech/ 
+    /cats/weight-training/:   /tags/weight-training/ 
+    /cats/writing/:           /tags/writing/ 
+    /cats/:                   /tags/ 
+    /films-and-distrations/:  /films-and-distractions/
+    /statico/:                /greenfedora/
+

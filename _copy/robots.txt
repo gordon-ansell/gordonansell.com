@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /2461/
+Disallow: /_temp/
+Disallow: /ssg/
+Disallow: /wtcalcs/
+Disallow: /packages/
+
+Sitemap: https://gordonansell.com/sitemap.xml

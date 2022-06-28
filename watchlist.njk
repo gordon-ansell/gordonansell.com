@@ -1,0 +1,59 @@
+---
+title: Watch List
+headline: Films and TV programmes I've watched
+description: The tags used to indicate the content of posts on this site. Tags are minor divisions, whereas categories are major divisions.
+type: page
+layout: page.njk
+deps: 
+    -
+        _layouts/includes/base.njk 
+    -
+        _data/watchlist/films.yaml 
+    -   
+        _data/watchlist/series.yaml
+navigation:
+    url: /watchlist/
+    menu: bottom
+    pos: 6
+---
+{% set bodyClass="watchlist" %}
+{% extends 'includes/base.njk' %}
+
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+
+<h1>{{ headline }}</h1>
+
+<p>Some notable things I've watched since I started this blog, along with ratings and, where I've written them, reviews.</p>
+
+<p><a href="#films">Films</a> and <a href="#series">Series</a>.</p>
+
+{%if not watchlist %}
+    <p>No watchlist.</p>
+{% endif %}
+
+<h2 id="films">Films</h2>
+
+<table>
+    {% if watchlist.films %}
+        {%- for entry in watchlist.films -%}
+            {% include "includes/watchListItem.njk" %}
+        {%- endfor -%}
+    {% else %}
+        <p>No films in watchlist.</p>
+    {% endif %}
+</table>
+
+<h2 id="series">Series</h2>
+
+<table>
+    {% if watchlist.series %}
+        {%- for entry in watchlist.series -%}
+            {% include "includes/watchListItem.njk" %}
+        {%- endfor -%}
+    {% else %}
+        <p>No series' in watchlist.</p>
+    {% endif %}
+</table>
+
+{% endblock %}

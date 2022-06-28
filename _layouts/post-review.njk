@@ -1,0 +1,24 @@
+---
+bodyClass: review
+layout: includes/post-core.njk
+computed:
+    schema:
+        article:
+            "@type": "Review"
+            "@id": "/#article"
+            mainEntityOfpage: 
+                "@id": "/#webpage"
+            name: "{{title}}"
+            headline: "{{headline or title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+            reviewRating:
+                "@type": Rating
+                ratingValue: "{{ratingStars}}"
+                bestRating: 5
+                worstRating: 0
+            itemReviewed:
+                "@id": /#product
+---
+{% extends 'includes/post-core.njk' %}

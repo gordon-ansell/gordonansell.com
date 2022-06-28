@@ -1,0 +1,234 @@
+- 
+  name: Stranger Things
+  seasons: 1-3
+  type: Netflix
+  rating: 4.5
+  review: /stranger-things-you-either-love-it-or-hate-it-it-seems/
+  comment: The best television I've seen in a decade. It does take time for it to get under your skin, though. You need to push through until it does, but then you'll be hooked.
+  imdb: tt4574334
+- 
+  name: Ozark
+  seasons: 1-3
+  type: Netflix
+  rating: 4.5
+  comment: Gripping thriller with some fantastic characters. Everyone's a baddie, just pick the ones you sympathise with most.
+  imdb: tt5071412
+-
+  name: Hawkeye
+  seasons: 1
+  type: Disney+
+  rating: 4.5
+  comment: For my tastes this is the best of the post-Endgame Marvel series' so far. I wish there had been more than 6 episodes.
+  imdb: tt10160804
+-
+  name: Mare of Easttown
+  seasons: 1
+  type: Sky
+  rating: 4.5
+  comment: Awesome series. It's dark and gritty and Kate Winslet is fantastic in the lead role. I hope there's another series of this.
+  imdb: tt10155688
+- 
+  name: The Queen's Gambit
+  seasons: 1
+  type: Netflix
+  rating: 4.5
+  comment: Excellent show. Don't be put off by this being about chess; if you like a good story and good drama, you'll like this. Anya Taylor-Joy is fantastic in the lead role.
+  imdb: tt10048342
+- 
+  name: Lucifer
+  seasons: 1-5
+  type: Prime/Netflix
+  rating: 4.5
+  comment: Thoroughly entertaining; good concepts, good storylines and good humour.
+  imdb: tt4052886
+-
+  name: Jessica Jones
+  seasons: 1-3
+  type: Netflix
+  rating: 4.0
+  comment: Watched this for a second time. Gritty and dark. JJ is grumpy superhero with loads of character flaws.
+  imdb: tt2357547
+-
+  name: WandaVision
+  seasons: 1
+  type: Disney+
+  rating: 4.0
+  comment: If you're looking for a Marvel fix after Endgame, this should serve. You'll wonder what on Earth is going on for the first few episodes.
+  imdb: tt9140560
+-
+  name: The Falcon and the Winter Soldier
+  seasons: 1
+  type: Disney+
+  rating: 4.0
+  comment: More of the original MCU and I like it.
+  imdb: tt9208876
+- 
+  name: "Star Trek: Discovery"
+  seasons: 1-3
+  type: Netflix
+  rating: 4.0
+  comment: It has taken over from The Next Generation as my favourite Star Trek.
+  imdb: tt5171438
+  review: /star-trek-discover-review-old-meets-new-in-a-pleasing-balance/
+- 
+  name: Sex Education
+  seasons: 1-2
+  type: Netflix
+  rating: 4.0
+  comment: I really enjoyed this, but 6th form wasn't like this my day. Stars Gillian Anderson.
+  imdb: tt7767422
+- 
+  name: Messiah
+  seasons: 1
+  type: Netflix
+  rating: 4.0
+  comment: A great story. Disappointingly, Netflix don't have the balls for a second series.
+  imdb: tt7671598
+- 
+  name: Daredevil
+  seasons: 1-3
+  type: Netflix
+  rating: 4.0
+  comment: Marvel, but a dark, gritty and brutal version of it. Vincent D'Onofrio is awesome as baddie Wilson Fisk.
+  imdb: tt3322312
+- 
+  name: Ms Marvel
+  seasons: 1
+  type: Disney+
+  rating: 3.5
+  comment: I'm enjoying this. It's a change of pace from most Marvel stuff. I might revise this up when I've watched the whole series.
+  imdb: tt10857164
+- 
+  name: The Sinner
+  seasons: 4
+  type: Netfix
+  rating: 3.5
+  comment: This is a mixed bag. Series 1 is excellent, series 3 is poor and the other two series are above average. Bill Pullman stars.
+  imdb: tt6048596
+- 
+  name: The Flight Attendant
+  seasons: 1
+  type: HBO/Sky(UK)
+  rating: 3.5
+  comment: Thriller starring Kaley Cuoco (Big Bang Theory). Very watchable indeed.
+  imdb: tt7569576
+-
+  name: Away
+  seasons: 1
+  type: Netflix
+  rating: 3.5
+  comment: The trip to Mars this is about is often incidental to the drama surrounding the characters. Pretty good. Stars Hilary Swank.
+  imdb: tt8787802
+- 
+  name: Devs
+  seasons: 1
+  type: BBC
+  rating: 3.5
+  comment: Tech and quantum mechanics. Right up my street, this one.
+  imdb: tt8134186
+- 
+  name: Salvation
+  seasons: 1-2
+  type: Netflix
+  rating: 3.5
+  comment: Meteor heading for Earth drama. This was on the cusp of 4 stars - an intriguing watch.
+  imdb: tt6170874
+- 
+  name: Designated Survivor
+  seasons: 1-2
+  type: Netflix
+  rating: 3.5
+  comment: Fate makes last politician standing Kiefer Sutherland the US president. Worth a watch.
+  imdb: tt5296406
+- 
+  name: Travelers
+  seasons: 1-3
+  type: Netflix
+  rating: 3.5
+  comment: Entertaining time travel romp.
+  imdb: tt5651844
+- 
+  name: Lost In Space
+  seasons: 1-3
+  type: Netflix
+  rating: 3.5
+  comment: Danger Will Robinson! Enjoyable remake of the 60s classic. Series 2 and 3 are particularly exciting.
+  imdb: tt5232792
+-
+  name: Snowpiercer 
+  seasons: 1-3
+  type: Netflix
+  rating: 3.5
+  comment: Post-apocalyptic thriller. It starts getting properly good in series 2.
+  imdb: tt6156584
+-
+  name: In From The Cold
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: Fairly entertaining romp. Probably didn't need the sci-fi elements.
+  imdb: tt11859542
+-
+  name: Witcher
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: It's okay, fairly entertaining but not outstanding.
+  imdb: tt5180504
+-
+  name: Jupiter's Legacy 
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: Another dark and moral-questioning superhero outing. It's fine and I'd hope it improves from 3 stars in series 2.
+  imdb: tt5774002
+-
+  name: Lupin 
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: French series about a 'gentleman burglar' that's quite entertaining.
+  imdb: tt2531336
+-
+  name: The Umbrella Academy 
+  seasons: 1-2
+  type: Netflix
+  rating: 3.0
+  comment: Entertaining and funny sci-fi/superhero romp.
+  imdb: tt1312171
+-
+  name: Better Than Us
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: Russian series about androids, which is not as bad as it sounds.
+  imdb: tt8285216
+-
+  name: The Boys 
+  seasons: 1
+  type: Netflix
+  rating: 3.0
+  comment: Gritty take on the superhero genre. This is probably what it would really be like if we had superheros.
+  imdb: tt1190634
+-
+  name: Altered Carbon 
+  seasons: 1-2
+  type: Netflix
+  rating: 3.0
+  comment: I enjoyed this sci-fi series more than my rating suggests, it just went on a bit too long.
+  imdb: tt2261227
+-
+  name: Titans 
+  seasons: 1-2
+  type: Netflix
+  rating: 2.5
+  comment: It’s okay — plenty dark and plenty gritty — but, I dunno, DC just isn’t as gripping as Marvel.
+  imdb: tt1043813
+  review: /titans-review-and-a-bit-of-dc-vs-marvel-comparison/
+-
+  name: Warrior Nun 
+  seasons: 1
+  type: Netflix
+  rating: 2.5
+  comment: I can take it or leave it, despite being in love with Alba Baptista.
+  imdb: tt9059350

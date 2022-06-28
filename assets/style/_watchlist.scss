@@ -1,0 +1,24 @@
+.watchlist table {
+
+    tbody {
+
+        td {
+            border: solid 0.5px;
+            border-color: var(--col-secondary-text);
+            padding: 0.25em 0.5em;
+        }
+
+        tr:first-of-type {
+            background-color: var(--col-tertiary-bg);
+            h5 {
+                margin: 0;
+            }
+        }
+
+        tr:not(:first-of-type) {
+            font-size: 80%;
+        }
+
+    }
+
+}

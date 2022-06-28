@@ -1,0 +1,127 @@
+---
+bodyClass: home
+deps: _layouts/includes/base.njk
+type: collection
+pagination:
+    data: collections.type.post
+    perPage: 40
+    alias: posts
+    order: date-desc
+    tpl: dummy/home-tpl.njk
+computed:
+    permalink: "/{% if pagination.page > 0 %}{{pagination.page + 1}}/{% endif %}index.html"
+computedLate:
+    schema:
+        webpage:
+            "@type": "CollectionPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+---
+{% extends 'includes/base.njk' %}
+{% import 'includes/byline.njk' as byline %}
+{% block main %}
+<div class="h-feed article-list hometable">
+    {% set colclasses = cycler("odd", "even") %}
+    {% for tpl in posts %}
+        {% set colcls = colclasses.next() %}
+        {% if colcls == "odd" %}
+            <div class="homerow">
+        {% endif %}
+        {% set post = tpl.getData() %}
+        <article class="h-entry">
+            <header>
+                <h2><a class="p-name u-url entry-title" href="{{ post.permalink | url('/', 'Home Page Post Link') }}">{{ post.title }}</a></h2>
+                {{ byline.all(post,site) }}
+            </header>
+            {% if (post.ratingStars or 0 === post.ratingStars) %}
+                {% ratingstars post.ratingStars, size=30 %}
+            {% endif %}
+            {% if post.inline and post.allowInlinePosts %}
+                <section class="e-content embedded-headers">
+                    {{ post.extracted.content | safe }}
+                </section>
+                {% if post.citation %}
+                    <div class-"citation-block">
+                        <h6>Citations</h6>
+                        {% citations post %}
+                    </div>
+                {% endif %}
+                 <footer>
+                    <div class="contactme">
+                        <a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{post.title}}" title="Contact me about this post.">
+                            Contact me about this post
+                        </a>
+                    </div>
+                </footer>
+            {% elif post.extracted.excerpt %}
+                <section class="excerpt p-summary entry-summary">
+                    {% if (post.excerptImage) %}
+                        <a href="{{post.permalink | url}}" title="Read this post." class="excerpt-image-link">
+                            {% simpleimg post.excerptImage, alt=post.title, class="excerpt-image fixed" %}
+                        </a>
+                    {% endif %}
+                    {{ post.extracted.excerpt | safe }}
+                </section>
+            {% elif post.description %}
+                <section class="excerpt p-summary entry-summary">
+                    {{ post.description | safe }}
+                </section>
+            {% endif %}
+        </article>
+        {% if colcls == "even" or loop.last %}
+            </div>
+        {% endif %}
+    {% endfor %}
+    {% if pagination and pagination.pageCount > 1 %}
+    <div class="pagination">
+        <div>
+            Page {{ pagination.page + 1 }} of {{ pagination.pageCount }}.
+        </div>
+        <nav>
+            <span class="left">
+                {% if pagination.page > 0 %}
+                    {% if pagination.page == 1 %}
+                        <a href="/" title="Go to the previous page.">
+                    {% else %}
+                        <a href="/{{ pagination.page }}/" title="Go to the previous page (newer posts).">
+                    {% endif %}
+                        <span>&larr; Newer Posts</span>
+                    </a>
+                {% else %}
+                    &nbsp;
+                {% endif %}
+            </span>
+            <span class="middle">
+                {% for i in range(0, pagination.pageCount) -%}
+                    {% if (i == pagination.page) %}
+                        <span><span class="current">{{ i + 1 }}</span></span>
+                    {% else %}           
+                        {% if i == 0 %}
+                            <a href="/" title="Go to page {{ i + 1 }}.">
+                        {% else %}
+                            <a href="/{{ i + 1 }}/" title="Go to the page {{ i + 1 }}.">
+                        {% endif %}
+                            <span><span>{{ i + 1 }}</span></span>
+                        </a>
+                    {% endif %}
+                {% endfor %}
+            </span>
+            <span class="right">
+                {% if pagination.page < pagination.pageCount - 1 %}
+                    <a href="/{{ pagination.page + 2 }}/" title="Go to the next page (older posts).">
+                        <span>Older Posts &rarr;</span>
+                    </a>
+                {% else %}
+                    &nbsp;
+                {% endif %}
+            </span>
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,37 @@
+---
+bodyClass: review
+layout: includes/post-core.njk
+computed:
+    schema:
+        webpage:
+            "@type": "FAQPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+        article:
+            "@type": "Review"
+            "@id": "/#article"
+            name: "{{title}}"
+            headline: "{{headline or title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+            reviewRating:
+                "@type": Rating
+                ratingValue: "{{ratingStars}}"
+                bestRating: 5
+                worstRating: 0
+            itemReviewed:
+                "@id": /#product
+computedLate:
+    schema:
+        webpage:
+            url: "{{permalink | url | absoluteUrl(hostname)}}"
+        article:
+            url: "{{permalink | url | absoluteUrl(hostname)}}"
+---
+{% extends 'includes/post-core.njk' %}

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+saved=$PWD;
+
+echo "Running tests."
+cd ../js/greenfedora && npm run test && cd $saved

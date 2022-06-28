@@ -1,0 +1,399 @@
+/*
+   ==========================================================================
+   Local styles.
+   ==========================================================================
+*/
+
+@import './fonts-include/_open-sans';
+$typ-base-font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+@import './fonts-include/_roboto-slab';
+$typ-heading-font-family: "Roboto Slab", "Noe Display", Georgia, Times, serif;
+
+
+
+/* Import the framework up to the theme.
+   ========================================================================== */
+
+$type-scale-method: fluid;
+
+@import '../../../scss-fw/fw/_reset.scss';
+@import '../../../scss-fw/fw/_utils.scss';
+@import '../../../scss-fw/fw/_layout.scss';
+@import '../../../scss-fw/fw/_typography.scss';
+@import '../../../scss-fw/fw/_media.scss';
+@import '../../../scss-fw/fw/_colours.scss';
+
+/* Theme overrides.
+   ========================================================================== */
+
+//$theme-force: dark;
+
+/*
+$theme-col-body-bg: linear-gradient(45deg, #130c31, #40284c);
+$theme-col-secondary-text: #3de0d3;
+$theme-col-secondary-text-offset: #e0897b;
+$theme-col-link-text-hover-dark: #e0897b;
+$theme-col-code-text: #00ff80;
+$theme-col-code-bg: #003d00;
+$theme-col-header-bg: transparent;
+*/
+
+/* Import the rest of the framework.
+   ========================================================================== */
+
+//@import '../../../scss-fw/fw/themes/1/_basic-dark.scss';
+@import 'themes/_gordonansell.scss';
+@import '../../../scss-fw/fw/_theme2.scss';
+@import '../../../scss-fw/fw/components/_article.scss';
+@import '../../../scss-fw/fw/components/_article-list.scss';
+@import '../../../scss-fw/fw/components/_menu-responsive.scss';
+@import '../../../scss-fw/fw/components/_menu-offcanvas.scss';
+@import '../../../scss-fw/fw/components/_menu-simple.scss';
+@import '../../../scss-fw/fw/components/_bigdot-separated.scss';
+@import '../../../scss-fw/fw/components/_webmentions.scss';
+@import '_watchlist.scss';
+@import '_wpmenu.scss';
+@import '_wpdocs.scss';
+
+
+/* HTML/Body.
+   ========================================================================== */
+/*
+.bgimg {
+    @include full-vw-nomb;
+
+    &:before {
+        content: "";
+        background-image: url('/assets/images/logos/hat-statue.jpeg');
+        background-size: cover;
+        background-attachment: fixed;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: 0.15;
+        width: 100%;
+        display: block;
+        z-index: -9999;
+    }
+}
+*/
+
+.all-hero {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    z-index: -9999;
+    //display: none;
+
+    & > div {
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        width: 100%;
+        height: 100%;   
+        opacity: 0.1;     
+        padding: 0;
+        margin: 0;
+
+        img {
+            margin: 0;
+        }
+    }
+}
+
+.tmpl-home {
+    .all-hero {
+        display: block;
+    }
+
+    & > header {
+        border-bottom: none;
+    }
+}
+
+/* Heading overrides.
+   ========================================================================== */
+
+h2, .h2 {
+    color: var(--col-secondary-text-offset);
+}
+
+h3, .h3, h4, .h4, h5, .h5, h5, .h6 {
+    color: var(--col-body-text-dimmer);
+}
+
+
+/* Site header.
+   ========================================================================== */
+
+:root .sitehdr-branding, :root.light .sitehdr-branding {
+    background-image: url("/assets/style/images/logo-light.png");
+}
+
+@media (prefers-color-scheme: dark) {
+    :root .sitehdr-branding {
+    background-image: url("/assets/style/images/logo-dark.png");
+    }
+}
+
+:root.dark .sitehdr-branding {
+    background-image: url("/assets/style/images/logo-dark.png");
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+
+    .wrapper {
+        min-height: 100%;
+    }
+}
+
+body > header {
+
+    height: auto;
+    border-bottom: solid 0.5px;
+
+    .dmform {
+        input { 
+            border: 0;
+            clip: rect(0, 0, 0, 0);
+            height: 1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute !important;
+            white-space: nowrap;
+            width: 1px;
+            cursor: pointer;
+        }
+
+        label {
+            svg {
+                width: 1.2rem;
+                height: 1.2rem;
+            }
+        }
+
+        label.light {
+            display: block;
+            svg {
+                fill: var(--col-body-text);
+            }
+        }
+
+        label.dark {
+            display: none;
+            svg {
+                fill: var(--col-body-text);
+            }
+        }
+    }
+
+    .sitehdr-branding {
+        width: 250px;
+        height: 141px;
+        display: inline-block;
+    }
+
+    .header-left {
+        float: left;
+    }
+
+    .header-right {
+        float: right;
+    }
+
+    .darktoggle {
+        float: right;
+    }
+}
+
+.dark body > header {
+    label.light {
+        display: none;
+    }
+
+    label.dark {
+        display: block;
+    }
+}
+
+.byline {
+    @extend .bigdot-separated;
+}
+
+/* Indent the archive.
+   ========================================================================== */
+
+.archive {
+    h3 {
+        padding-left: 2rem;
+    }
+
+    h4 {
+        padding-left: 3rem;
+        margin-bottom: 0.25em;
+    }
+
+    article {
+        margin-left: 4rem;
+
+        h4 {
+            padding-left: 0;
+            margin-bottom: 0;
+        }
+    }
+}
+
+/* How-to steps.
+   ========================================================================== */
+
+.howto {
+    .howtostep {
+        img, figure {
+            float: left;
+            width: 33%;
+            padding: 0 1em 1em 0;
+        }
+
+        figure img {
+            float: none;
+            width: 100%;
+            padding: 0;
+        }
+        
+        @include clearfix;
+    }
+}
+
+/* Outtake.
+   ========================================================================== */
+
+.outtake {
+    border: 0.5px solid;
+    border-color: var(--col-border);
+    background-color: var(--col-secondary-bg);
+    padding: 0.5em;
+    margin: 0.5em 0.5em 0.5em 0;
+
+    .left {
+        float: left;
+    }
+    .right {
+        float: right;
+    }
+    .full {
+        width: 100%;
+    }
+}
+
+/* Bits.
+   ========================================================================== */
+.socialshare {
+    img {
+        max-width: 32px;
+    }
+}
+
+/* Flex for post listing pages.
+   ========================================================================== */
+
+@include bp-min($menu-responsive-bp) {
+
+    .hometable {
+        margin-top: 1em;
+        width: 90vw;
+        max-width: 90vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -45vw;
+        margin-right: -45vw;
+
+        .homerow {
+            display: grid;
+            grid-template-columns: 50% 50%;
+            grid-auto-flow: column;
+            grid-auto-columns: 1fr;
+            gap: 1em;
+            margin: 0 auto;            
+            width: 100%;
+
+            article {
+                background-color: var(--col-tertiary-bg);
+                padding: 1em;
+                border-radius: 0.25em;
+            }
+        }
+
+    }
+
+
+    /*
+    .flex-across-2 {
+
+        margin-top: 1em;
+        width: 90vw;
+        max-width: 90vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -45vw;
+        margin-right: -45vw;
+
+        .flex-across-2-row {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            width: 100%;
+            margin: 0 auto;
+            row-gap: 2em;
+            gap: 2em;
+
+            .flex-across-2-col {
+                display: flex;
+                flex-direction: column;
+                flex-basis: 100%;
+                flex: 1;
+                background-color: var(--col-tertiary-bg);
+                padding: 1em;
+                border-radius: 0.25em;
+            }
+        }
+    }
+    */
+}
+
+/* Tag table.
+   ========================================================================== */
+.tagtable {
+    width: 100%;
+
+    tr {
+        display: grid;
+        grid-template-columns: 33.3% 33.3% 33.3%;
+        grid-auto-flow: column;
+        grid-auto-columns: 1fr;
+        gap: 1em;
+        margin: 0 auto;
+        width: 100%;
+    }
+}
+
+
+/* FOUC.
+   ========================================================================== */
+html {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+

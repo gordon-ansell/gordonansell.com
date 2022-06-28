@@ -1,0 +1,46 @@
+{% if wmention.author.photo %}
+    <div class="wm-authorphoto">
+        {% if lazyload %}
+            <img class="u-photo lazyload fixed" data-src="{{wmention.author.photo}}" alt="" />
+        {% else %}
+            <img class="u-photo fixed" src="{{wmention.author.photo}}" alt="" />
+        {% endif %}
+    </div>
+{% endif %}
+<div class="wm-data{% if isOwnWebmention(ctx(), wmention) %} wm-own{% endif %}">
+    <span class="wm-meta">
+        By&nbsp;
+        {% if wmention.author %}
+            <a class="h-card u-url p-author"{% if wmention.url %} href="{{wmention.url}}" {% endif %}target="_blank" 
+                rel="noopener noreferer">
+                <strong class="p-name">{{wmention.author.name}}</strong>
+            </a>
+        {% else %}
+            <strong>Anonymous</strong>
+        {% endif %} 
+        {% if wmention.published %}
+            &nbsp;on&nbsp;
+            <time class="dt-published" datetime="{{wmention.published}}">
+                {{ wmention.published | isoDateTime }}
+            </time>    
+        {% endif %}
+        {% if wmention['mention-of'] %}
+            <p class="wm-post">
+                (In reply to: <a class="u-in-reply-to" href="{{wmention['mention-of']}}">{{ title }}</a>)
+            </p>
+        {% endif %}
+    </span>
+    <span class="p-content e-content">
+        {{wmention.content.html | safe}}
+    </span>
+</div>
+{% if webmentionsSpec.typeIcons %}
+    <div class="wm-typeicon">
+        {% set ticon = '/assets/images/webmention/' + wmention['wm-property'] + '.png' %}
+        {% if lazyload %}
+            <img data-src="{{ticon}}" alt="{{wmention['wm-property']}}" title="{{wmention['wm-property']}}" class="lazyload fixed" />
+        {% else %}
+            <img src="{{ticon}}" alt="{{wmention['wm-property']}}" title="{{wmention['wm-property']}}" class="fixed"  />
+        {% endif %}
+    </div>
+{% endif %}

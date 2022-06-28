@@ -1,0 +1,12 @@
+#!/bin/bash
+
+saved=$PWD;
+
+echo "Updating GreenFedora Utils."
+cd ../js/greenfedora-utils && npm update && cd $saved
+
+echo "Updating GreenFedora."
+cd ../js/greenfedora && npm update && cd $saved
+
+echo "Updating GordonAnsell.com."
+npm update

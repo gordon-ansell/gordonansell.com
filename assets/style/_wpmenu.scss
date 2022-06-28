@@ -1,0 +1,176 @@
+
+$menu-wp-bp: 850px;
+
+$menu-wp-bg-col: inherit !default;
+$menu-wp-font-family: $typ-base-font-family !default;
+
+$menu-wp-icon-padding: 28px 20px !default;
+$menu-wp-icon-width: 18px !default;
+
+$menu-wp-small-font-size: 100% !default;
+$menu-wp-small-item-padding: 5px 5px !default;
+$menu-wp-small-max-height: 960px !default;
+
+$menu-wp-big-font-size: 100% !default;
+$menu-wp-big-item-padding: 0 !default;
+$menu-wp-big-item-border-style: none !default;
+$menu-wp-big-item-border-width: 0 1px 0 0 !default;
+$menu-wp-big-item-font-variant: small-caps !default;
+
+$menu-wp-subitem-padding-left: 1em !default;
+$menu-wp-subitem-font-size: 90% !default;
+
+.menu-wp {
+    display: inline;
+    font-size: 90%;
+
+    input {
+        display: none;
+
+        &:checked ~ ul {
+            max-height: $menu-wp-small-max-height;
+        }
+  
+        &:checked ~ label .icon {
+            background: transparent;
+        }
+  
+        &:checked ~ label .icon:before {
+            transform: rotate(-45deg);
+        }
+  
+        &:checked ~ label .icon:after {
+            transform: rotate(45deg);
+        }
+  
+        &:checked ~ label:not(.steps) .icon:before,
+        &:checked ~ label:not(.steps) .icon:after {
+            top: 0;
+        }
+    
+        &:hover {
+            background-color: var(--col-muted);
+        }
+    }
+
+    label {
+        cursor: pointer;
+        float: right;
+        padding: $menu-wp-icon-padding;
+        position: relative;
+        user-select: none;
+    }
+
+    .icon {
+        display: block;
+        height: 2px;
+        position: relative;
+        transition: background .2s ease-out;
+        width: $menu-wp-icon-width;
+        background: var(--col-secondary-text-offset);       // The stripes on the hamburger menu.
+
+        &:before,
+        &:after {
+            content: '';
+            display: block;
+            height: 100%;
+            position: absolute;
+            transition: all .2s ease-out;
+            width: 100%;
+            background: var(--col-secondary-text-offset);       // The stripes on the hamburger menu.
+        }
+  
+        &:before {
+            top: 5px;
+        }
+  
+        &:after {
+            top: -5px;
+        }
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        overflow: hidden;
+
+        clear: both;
+        max-height: 0;
+        transition: max-height .2s ease-out;
+
+        font-family: $menu-wp-font-family;
+        font-size: $menu-wp-small-font-size;
+
+        background-color: $menu-wp-bg-col;
+
+        font-variant: $menu-wp-big-item-font-variant;
+
+        ul.menu-subitems {
+            display: block;
+            height: auto;
+            transition: none;
+            max-height: none;
+            padding-left: $menu-wp-subitem-padding-left;
+            font-size: $menu-wp-subitem-font-size;
+        }
+
+        li.subitem {
+            text-decoration: none;
+            border-bottom: none;
+            font-variant: none;
+        }
+
+        li.active {
+            background-color: var(--col-secondary-bp);
+        }
+
+    }
+
+    a {
+        display: block;
+        padding: $menu-wp-small-item-padding;
+        text-decoration: none;
+        border-color: var(--col-muted);
+
+        &, &:link, &:visited, &:hover, &:active {
+            border-bottom: none;
+        }
+
+        &:hover {
+            background-color: var(--col-muted);
+        }
+    }
+
+
+    /* Breakpoint. */
+    @include bp-min($menu-wp-bp) {
+        //float: right;
+
+        label {
+            display: none;
+        }
+
+        ul {
+            display: block;
+            clear: none;
+            max-height: none;
+            font-size: $menu-wp-big-font-size;
+        }
+
+        li {
+            text-decoration: none;
+        }
+
+        li.subitem {
+            text-decoration: none;
+            border-bottom: none;
+        }
+
+        a {
+            padding: $menu-wp-big-item-padding;
+            border-style: $menu-wp-big-item-border-style;
+            border-width: $menu-wp-big-item-border-width;
+        }
+    }
+}

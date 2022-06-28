@@ -1,0 +1,43 @@
+{
+	"name": "gordonansell.com",
+	"version": "0.0.1",
+	"description": "GordonAnsell.com Website.",
+	"homepage": "https://gordonansell.com",
+	"license": "MIT",
+	"minimum-stability": "dev",
+	"main": "index.js",
+	"scripts": {
+		"build": "greenfedora",
+        "build:clean": "greenfedora --clean",
+        "build:cleanall": "greenfedora --cleanall",
+        "build:incr": "greenfedora --incr",
+        "build:noimages": "greenfedora --noimages",
+		"serve": "greenfedora --serve",
+        "serve:clean": "greenfedora --clean --serve",
+        "serve:cleanall": "greenfedora --cleanall --serve",
+		"serve:incr": "greenfedora --serve --incr",
+		"watch": "greenfedora --watch",
+		"watch:incr": "greenfedora --watch --incr",
+        "version": "greenfedora --version"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gordon-ansell/gordonansell.new"
+	},
+	"authors": [
+		{
+			"name": "Gordon Ansell",
+			"email": "contact@gordonansell.com",
+			"url": "https://gordonansell.com"
+		}
+	],
+	"files": [
+		"src/"
+	],
+	"dependencies": {
+		"greenfedora": "../js/greenfedora/"
+	},
+	"engines": {
+		"node": ">=16"
+	}
+}

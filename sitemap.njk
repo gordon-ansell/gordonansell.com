@@ -1,0 +1,34 @@
+---
+title: Gordy's Discourse Sitemap
+parse: last
+sitemap: false
+feed: false
+computed:
+    permalink: /sitemap.xml
+    permalinkIsFile: true
+---
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{%- for tpl in collections.all.getAll() -%}
+    {% set item = tpl.getData() %}
+    {% set sm = true %}
+    {% if ('sitemap' in item) %}
+        {% set sm = item.sitemap %}
+    {% endif %}
+    {% set draft = false %}
+    {% if ('draft' in item) %}
+        {% set draft = item.draft %}
+    {% endif %}
+    {% if ((false === draft) and (true === sm)) -%}
+    {% if item.permalink %}
+    <url>
+        <loc>{{item.permalink | absoluteUrl(hostname, 'Sitemap Post URL')}}</loc>
+        <lastmod>{{ item.stats.mtimeMs | isoDateTime }}</lastmod>
+    </url>
+    {% else %}
+    NO VALID ITEM URL FOR {{tpl.relPath}}
+    {% endif %}
+    {%- endif %}
+{%- endfor -%}
+</urlset>

@@ -1,0 +1,11 @@
+<div class="webmentions">
+    <h6>Webmentions:</h6>
+    <ol id="webmentions" class="h-feed">
+        {% for mention in wmentions %}
+            {% set wmention = mention %}
+            <li class="h-entry" id="webmention-{{wmention['wm-id']}}">
+                {% include 'includes/webMention.njk' %}
+            </li>
+        {% endfor %}
+    </ol>
+</div>

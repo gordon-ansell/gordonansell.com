@@ -1,0 +1,15 @@
+---
+parse: late
+layout: home.njk
+navigation:
+    menu: top
+    title: Home
+    pos: 1
+    url: /
+pagination:
+    page: 0
+computed:
+    title: "{{site.title}}"
+    description: "{{site.description}}"
+---
+{% extends 'home.njk' %}

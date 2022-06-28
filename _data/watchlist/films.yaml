@@ -1,0 +1,201 @@
+- 
+  name: "Avengers: Infinity War"
+  type: Film
+  rating: 5.0
+  comment: The best movie to come out of Marvel Studios. Snobs will turn their noses up at Marvel stuff of course, but this is one of my favourite movies of all time.
+  imdb: tt4154756
+- 
+  name: Don't Look Up
+  type: Netflix Film
+  rating: 4.0
+  review: /dont-look-up-review/
+  comment: A parody (maybe) of our current society. Definitely worth watching.
+  imdb: tt11286314
+- 
+  name: No Time To Die
+  type: Cinema Film
+  rating: 4.0
+  comment: A fitting and thrilling end to Daniel Craig's run as James Bond. I still think Skyfall was Craig's best Bond movie, though.
+  imdb: tt2382320
+-
+  name: Birdbox
+  type: Netflix Film
+  rating: 4.0
+  review: /bird-box-2018-film-review-worth-watching/
+  comment: Well-acted and well-executed. The film grasped the essense of tense horror.
+  imdb: tt2737304
+- 
+  name: "Avengers: Endgame"
+  type: Film
+  rating: 4.0
+  review: /avengers-endgame-review-a-bit-disappointing/
+  comment: I love the Marvel stuff but felt this left itself too much to do. Better on the second viewing (and I upgraded the rating to 4.0).
+  imdb: tt4154796
+-
+  name: Stillwater
+  type: Film
+  rating: 3.5
+  comment: Matt Damon stars in this drama/thriller. It's not an action-packed thing - it's thoughtful.
+  imdb: tt10696896    
+-
+  name: A Quiet Place Part II
+  type: Film
+  rating: 3.5
+  comment: In some ways it's just another monster movie, but it has something about it. I liked it.
+  imdb: tt8332922    
+-
+  name: Collide
+  type: Film
+  rating: 3.5
+  comment: Entertaining action movie starring Nicholas Hoult, Anthony Hopkins and Ben Kingsley. Worth a watch.
+  imdb: tt2126235    
+-
+  name: The Little Things
+  type: Film
+  rating: 3.5
+  comment: Dark cop thriller with Denzil washington and Rami Malik. I liked it.
+  imdb: tt10016180    
+-
+  name: Anna
+  type: Film
+  rating: 3.5
+  comment: Think Atomic Blond with a smattering of Red Sparrow. Entertaining action flick.
+  imdb: tt7456310    
+- 
+  name: Promising Young Woman
+  type: Film
+  rating: 3.5
+  comment: I rarely like things that are BAFTA nominated, but this was on point. Powerful and sad. Stars Carey Mulligan.
+  imdb: tt9620292    
+- 
+  name: The Silencing
+  type: Film
+  rating: 3.5
+  comment: Dark and mood film about a former hunter who has lost is daughter. I enjoyed this.
+  imdb: tt7149730
+-
+  name: Equalizer 2 
+  type: Film
+  rating: 3.5
+  review: /equalizer-2-2018-film-review/
+  comment: Pretty good action movie. Denzel Washington does a good OCD version of Robert McCall.
+  imdb: tt3766354
+-
+  name: The Hunt
+  type: Film
+  rating: 3.5
+  comment: To start with, this has the look of something the like of which you've seen before. But there's a bit more too it than that.
+  imdb: tt8244784
+-
+  name: Once Upon a Time in Hollywood 
+  type: Film
+  rating: 3.5
+  review: /once-upon-a-time-in-hollywood-review-hard-to-rate/
+  comment: I enjoyed it but found it hard to rate. In some ways it's not typical Tarantino.
+  imdb: tt7131622
+-
+  name: The Girl in the Spider's Web 
+  type: Film
+  rating: 3.5
+  review: /the-girl-in-the-spiders-web-film-2018-review/
+  comment: Good movie, but the Scandanavian originals are better.
+  imdb: tt5177088
+-
+  name: The Invisible Man (2020) 
+  type: Film
+  rating: 3.5
+  comment: A good take on this old classic. Very tense but perhaps 20 minutes too long.
+  imdb: tt1051906
+-
+  name: Doctor Strange in the Multiverse of Madness 
+  type: Film
+  rating: 3.0
+  comment: As a standalone film this is fine - entertaining and fun. I just don't like the way the over all MCU is going.
+  imdb: tt9419884
+-
+  name: Focus 
+  type: Film
+  rating: 3.0
+  comment: One of those light but pleasant films. A conman/woman story starring Will Smith and the delightful Margot Robbie.
+  imdb: tt2381941
+-
+  name: "Spider-Man: No Way Home" 
+  type: Film
+  rating: 2.5
+  comment: Not a brilliant film, but it's made all the worse by the way way they're trying to jam all the other Spiderman films into the canon.
+  imdb: tt10872600
+-
+  name: The Eternals
+  type: Film
+  rating: 2.5
+  review: /eternals-review-i-struggled-with-it/
+  comment: It's okay, like, but it didn't do much for me.
+  imdb: tt9032400
+-
+  name: Birds of Prey
+  type: Film
+  rating: 2.5
+  review: /birds-of-prey-2020-movie-review-i-could-live-without-it/
+  comment: Meh. Some decent acting but the film didn't really float my boat.
+  imdb: tt7713068
+-
+  name: Hunter Killer
+  type: Film
+  rating: 2.5
+  review: /hunter-killer-tense-but-otherwise-average/
+  comment: Okay if you have nothing better to do, but it missed the mark in many areas.
+  imdb: tt1846589
+-
+  name: Villains
+  type: Film
+  rating: 2.5
+  comment: A generous 2.5 here. Allegedly a comedy-horror, but I think it's stretching the definitions of both comedy and horror. It's okay I suppose.
+  imdb: tt6378710
+-
+  name: Great White
+  type: Film
+  rating: 2.0
+  review: /great-white-yet-another-shark-movie/
+  comment: A promising concept that ultimately fails to deliver.
+  imdb: tt8435002
+-
+  name: In The Tall Grass
+  type: Netflix Film
+  rating: 2.0
+  review: /in-the-tall-grass-2019-movie-review-it-fails-to-deliver/
+  comment: A promising concept that ultimately fails to deliver.
+  imdb: tt4687108
+-
+  name: Mandy
+  type: Film
+  rating: 2.0
+  review: /mandy-2018-film-review-psychotic-psychedelia/
+  comment: I like bizarre and psychedelic but this didn't really work.
+  imdb: tt6998518
+-
+  name: Locked In
+  type: Film
+  rating: 1.5
+  comment: Poor story, wooden acting. This is one to miss.
+  imdb: tt6439792
+-
+  name: Wonder Woman 1984
+  type: Film
+  rating: 1.5
+  review: /wonder-woman-1984-review-no-no-no-no-no/
+  comment: Shockingly bad. Give it a miss.
+  imdb: tt7126948
+-
+  name: Serpent
+  type: Film
+  rating: 1.5
+  review: /serpent-2017-film-review-i-only-liked-the-snake/
+  comment: You'd have to be really, really bored to watch this.
+  imdb: tt5876412
+-
+  name: The Fast and The Furious 8 (The Fate of The Furious)
+  type: Film
+  rating: "0"
+  review: /the-fast-and-the-furious-8-the-fate-of-the-furious-review-complete-tosh/
+  comment: Ye Gods this needs burning.
+  imdb: tt4630562

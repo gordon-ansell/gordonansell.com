@@ -1,0 +1,54 @@
+{% if hcard %}
+<section style="display:none" class="h-card">
+    <ul style="display:none">
+        {% if hcard.name and hcard.url %}
+            <a rel="me" class="u-url u-uid" href="{{hcard.url | url}}">{{hcard.name.first}} {{hcard.name.last}}</a>
+        {% endif %}
+        {% if hcard.name %}
+            <li class="p-name">
+                <span class="p-honorific-prefix">{{hcard.name.title}}</span> 
+                <span class="p-given-name">{{hcard.name.first}}</span> 
+                <span class="p-family-name">{{hcard.name.last}}</span>
+            </li>
+        {% endif %}
+        {% if hcard.sex %}
+            <li class="p-sex">{{hcard.sex}}</li>
+        {% endif %}
+        {% if hcard.photo %}
+            <li>
+                <img class="u-photo" title="{{hcard.name.first}} {{hcard.name.last}}" src="{{hcard.photo | absoluteUrl(hostname)}}" 
+                    alt="{{hcard.name.first}} {{hcard.name.last}}" />
+            </li>
+        {% endif %}
+        <li>
+            <ul class="p-org">
+                <li>
+                    <a class="p-organization-name" href="{{hcard.url}}">{{site.title}}</a>
+                </li>
+                <li>
+                    <img class="u-logo" src="{{site.defaultArticleImage | absoluteUrl(hostname)}}" alt="" />
+                </li>
+            </ul>
+        </li>
+        {% if hcard.note %}
+            <li class="p-note">{{hcard.note}}</li>
+        {% endif %}
+        {% if indieAuth %}
+            <!-- Indieauth -->
+            <li>
+                <a rel="me" href="{{indieAuth}}">{{hcard.name.first}} {{hcard.name.last}}</a>
+            </li>
+        {% endif %}
+        {% if twitterid %}
+            <li>
+                <a rel="me" href="https://twitter.com/{{twitterid}}">{{twitterid}}</a>
+            </li>
+        {% endif %}
+        {% if microblogid %}
+            <li>
+                <a rel="me" href="https://micro.blog/{{microblogid}}">{{microblogid}}</a>
+            </li>
+        {% endif %}
+    </ul>
+</section>
+{% endif %}

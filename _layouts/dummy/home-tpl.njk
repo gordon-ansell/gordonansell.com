@@ -1,0 +1,12 @@
+---
+layout: home.njk
+parse: last
+sitemap: false
+robots: noindex, follow
+pagination:
+    page: [[pageIndex]]
+computed:
+    title: "{{site.title}} (Page [[page]])"
+    description: "{{site.description}} (Page [[page]])"
+---
+{% extends 'home.njk' %}

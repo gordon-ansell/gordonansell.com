@@ -1,0 +1,59 @@
+---
+title: Tags
+headline: Tags used on this site
+description: A list of the tags used to categorise posts on this site, arranged by the number of articles that use each tag.
+parse: late
+type: collection
+navigation:
+    menu: top
+    title: Tags
+    pos: 5
+    url: /tags/
+breadcrumb:
+    -
+        loc: home
+    -
+        loc: self
+computedLate:
+    schema:
+        webpage:
+            "@type": "CollectionPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+---
+{% extends 'includes/base.njk' %}
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+<div class="h-feed article-list">
+    <h1>Tags</h1>
+    <p>Tags used on this site with the associated number of articles with each tag.</p>
+    <section class="collection">
+        <table class="tagtable">
+            {% set lc = 0 %}
+            {% for tag,cnt in Collection.getStats(collections.tags) %}
+                {% if lc == 0 %}
+                    <tr>
+                {% endif %}
+                <td>
+                    <a href="/tags/{{ tag | slugify}}/" title="Tag: {{ tag }}">{{ tag }}</a> ({{ cnt }})
+                </td>
+                {% if lc == 2 %}
+                    </tr>
+                {% endif %}
+
+                {% set lc = lc + 1 %}
+                {% if lc > 2 %}
+                    {% set lc = 0 %}
+                    {% set colcount = 0 %}
+                {% endif %}
+
+            {% endfor %}
+        </table>
+    </section>
+</div>
+{% endblock %}

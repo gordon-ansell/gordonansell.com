@@ -1,0 +1,98 @@
+---
+deps: _layouts/includes/base.njk
+computed:
+    schema:
+        webpage:
+            "@type": "WebPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+computedLate:
+    schema:
+        webpage:
+            url: "{{permalink | absoluteUrl(hostname)}}"
+        article:
+            url: "{{permalink | absoluteUrl(hostname)}}"
+---
+{% extends 'includes/base.njk' %}
+{% import 'includes/byline.njk' as byline %}
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+<article class="h-entry">
+    <header>
+        {% if (externalLink) %}
+            <h1>
+                <a href="{{externalLink | url}}" title="Read the external article to which this article refers." target="_blank">
+                    <span class="p-name">{{ title }}</span> &#10149;
+                </a>
+            </h1>
+        {% else %}
+            <h1 class="p-name">{{ title }}</h1>
+        {% endif %}
+        <a style="display:none" class="u-url" href="{{permalink | url | absoluteUrl(hostname)}}">{{ title }}</a>
+        {{ byline.all(ctx(),site) }}
+    </header>
+    {% if (ratingStars or 0 === ratingStars) %}
+        {% ratingstars ratingStars %}
+    {% endif %}
+    {% if (leader) %}
+        <section class="leader p-summary">
+            {{ leader | safe }}
+        </section>
+    {% endif %}
+    <section class="e-content">
+        {{ content | safe }}
+    </section>
+    {% if citation %}
+        <div class-"citation-block">
+            <h6>Citations</h6>
+            {% citations ctx() %}
+        </div>
+    {% endif %}
+    <footer>
+        <div class="socialshares">
+            {% socialshares %}
+        </div>
+        <div class="contactme">
+            <a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{title}}" title="Contact me about this post.">
+                Contact me about this post
+            </a>
+        </div>
+        {% if wmentions %}
+            {% include 'includes/webMentionList.njk' %}
+        {% endif %}
+        {% if prev or next %}
+            <div class="prevnext">
+                <span>
+                    {% if (prev) %}
+                        {% set prevData = prev.getData() %}
+                        {% if prevData.permalink %}
+                            <a href="{{ prevData.permalink | url }}" title="Go to previous (newer) post.">&larr; {{ prevData.title }}</a>
+                        {% else %}
+                            WARNING: NO PREVIOUS PERMALINK
+                        {% endif %}
+                    {% else %}
+                        &nbsp;
+                    {% endif %}
+                </span>
+                <span>
+                    {% if (next) %}
+                        {% set nextData = next.getData() %}
+                        {% if nextData.permalink %}
+                            <a href="{{ nextData.permalink | url }}" title="Go to next (older) post.">{{ nextData.title }} &rarr;</a>
+                        {% else %}
+                            WARNING: NO NEXT PERMALINK
+                        {% endif %}
+                    {% else %}
+                        &nbsp;
+                    {% endif %}
+                </span>
+            </div>
+        {% endif %}
+    </footer>
+</article>
+{% endblock %}

@@ -1,0 +1,49 @@
+    <tbody>
+        <tr>
+            <td colspan="5">
+                <h5>{{ entry.name }}</h5>
+            </td>
+        </tr>
+
+        <tr>
+
+            {% if entry.rating %}
+                <td class="rating">
+                    {% ratingstars entry.rating, size=16 %} {{entry.rating}}/5
+                </td>
+            {% else %}
+                <td class="rating">&nbsp;</td>
+            {% endif %}
+
+            <td class="type">
+                {{ entry.type }}
+            </td>
+
+            {% if entry.seasons %}
+                <td>{{ entry.seasons }}</td>
+            {% else %}
+                <td>&nbsp;</td>
+            {% endif %}
+
+            {% if entry.review %}
+                <td>
+                    <a href="{{entry.review}}" title="Read my review">Review</a>
+                </td>
+            {% else %}
+                <td>&nbsp;</td>
+            {% endif %}
+
+            {% if entry.imdb %}
+                <td>
+                    <a href="https://www.imdb.com/title/{{entry.imdb}}/" title="See IMDB info." target="_blank">IMDB</a>
+                </td>
+            {% else %}
+                <td>&nbsp;</td>
+            {% endif %}
+        </tr>
+        {% if entry.comment %}
+            <tr class="commentRow">
+                <td colspan="5">{{ entry.comment }}</td>
+            </tr>
+        {% endif %}
+    </tbody>

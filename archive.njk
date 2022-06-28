@@ -1,0 +1,56 @@
+---
+title: Archive
+headline: Archive of posts
+description: Archive of posts on this site by year and month, sorted into descending date order.
+parse: late
+type: collection
+navigation:
+    menu: top
+    title: Archive
+    pos: 6
+    url: /archive/
+computedLate:
+    schema:
+        webpage:
+            "@type": "CollectionPage"
+            "@id": "/#webpage"
+            isPartOf: 
+                "@id": "/#website"
+            name: "{{title}}"
+            description: "{{description}}"
+            author: 
+                "@id": "/#author"
+---
+{% extends 'includes/base.njk' %}
+{% import 'includes/byline.njk' as byline %}
+{% block main %}
+<div class="breadcrumbs">{% breadcrumb %}</div>
+{% set year = "n/a" %}
+{% set month = "n/a" %}
+<div class="h-feed article-list archive">
+    <h1>Archive of all posts</h1>
+    <p>{{ collections.type.post.getSize() }} posts.</p>
+    {% for tpl in collections.type.post.getAll() %}
+        {% set post = tpl.getData() %}
+        {% set currYear = post.date | datePart('year') %}
+        {% set currMonth = post.date | datePart('monthname') %}
+
+        {% if (year != currYear) %}
+            {% set year = currYear %}
+            <h2>{{currYear}}</h2>
+        {% endif %}
+        {% if (month != currMonth) %}
+            {% set month = currMonth %}
+            <h3>{{currMonth}}, {{year}}</h3>
+        {% endif %}
+
+        <article class="h-entry">
+            <header>
+                <h4><a class="p-name u-url entry-title" property="url" href="{{post.permalink | url('/', 'Archive Post Link')}}">{{ post.title }}</a></h2>
+                {{ byline.all(post,site) }}
+            <header>
+        </article>
+
+    {% endfor %}
+</div>
+{% endblock %}

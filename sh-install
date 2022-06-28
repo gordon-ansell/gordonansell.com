@@ -1,0 +1,12 @@
+#!/bin/bash
+
+saved=$PWD;
+
+echo "Installing GreenFedora Utils."
+cd ../js/greenfedora-utils && npm install && cd $saved
+
+echo "Installing GreenFedora."
+cd ../js/greenfedora && npm install && cd $saved
+
+echo "Installing GordonAnsell.com."
+npm install
