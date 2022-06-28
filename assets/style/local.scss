@@ -17,12 +17,13 @@ $typ-heading-font-family: "Roboto Slab", "Noe Display", Georgia, Times, serif;
 
 $type-scale-method: fluid;
 
-@import '../../../scss-fw/fw/_reset.scss';
-@import '../../../scss-fw/fw/_utils.scss';
-@import '../../../scss-fw/fw/_layout.scss';
-@import '../../../scss-fw/fw/_typography.scss';
-@import '../../../scss-fw/fw/_media.scss';
-@import '../../../scss-fw/fw/_colours.scss';
+@import '../../node_modules/greenfedora-scss/fw/_reset.scss';
+@import '../../node_modules/greenfedora-scss/fw/_reset.scss';
+@import '../../node_modules/greenfedora-scss/fw/_utils.scss';
+@import '../../node_modules/greenfedora-scss/fw/_layout.scss';
+@import '../../node_modules/greenfedora-scss/fw/_typography.scss';
+@import '../../node_modules/greenfedora-scss/fw/_media.scss';
+@import '../../node_modules/greenfedora-scss/fw/_colours.scss';
 
 /* Theme overrides.
    ========================================================================== */
@@ -42,16 +43,16 @@ $theme-col-header-bg: transparent;
 /* Import the rest of the framework.
    ========================================================================== */
 
-//@import '../../../scss-fw/fw/themes/1/_basic-dark.scss';
+//@import '../../node_modules/greenfedora-scss/fw/themes/1/_basic-dark.scss';
 @import 'themes/_gordonansell.scss';
-@import '../../../scss-fw/fw/_theme2.scss';
-@import '../../../scss-fw/fw/components/_article.scss';
-@import '../../../scss-fw/fw/components/_article-list.scss';
-@import '../../../scss-fw/fw/components/_menu-responsive.scss';
-@import '../../../scss-fw/fw/components/_menu-offcanvas.scss';
-@import '../../../scss-fw/fw/components/_menu-simple.scss';
-@import '../../../scss-fw/fw/components/_bigdot-separated.scss';
-@import '../../../scss-fw/fw/components/_webmentions.scss';
+@import '../../node_modules/greenfedora-scss/fw/_theme2.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_article.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_article-list.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_menu-responsive.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_menu-offcanvas.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_menu-simple.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_bigdot-separated.scss';
+@import '../../node_modules/greenfedora-scss/fw/components/_webmentions.scss';
 @import '_watchlist.scss';
 @import '_wpmenu.scss';
 @import '_wpdocs.scss';

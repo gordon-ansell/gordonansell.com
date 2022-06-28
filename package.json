@@ -35,7 +35,9 @@
 		"src/"
 	],
 	"dependencies": {
-		"greenfedora": "../js/greenfedora/"
+		"greenfedora": "gordon-ansell/greenfedora",
+        "greenfedora-scss": "gordon-ansell/greenfedora-scss",
+        "greenfedora-utils": "gordon-ansell/greenfedora-utils"
 	},
 	"engines": {
 		"node": ">=16"
