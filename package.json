@@ -18,7 +18,9 @@
 		"serve:incr": "greenfedora --serve --incr",
 		"watch": "greenfedora --watch",
 		"watch:incr": "greenfedora --watch --incr",
-        "version": "greenfedora --version"
+        "version": "greenfedora --version",
+        "prod": "GF_MODE=prod greenfedora --noimages",
+        "sync": "GF_MODE=prod greenfedora --noimages && rsync -a _site/ ../../public_html"
 	},
 	"repository": {
 		"type": "git",
