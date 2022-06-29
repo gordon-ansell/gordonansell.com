@@ -8,8 +8,8 @@ description: >-
 title: Armageddon for the solar system may happen sooner than originally thought
 date: 2020-11-29T08:00:00.000Z
 tags:
-  - Science
   - Astronomy
+  - Science
   - News
 ---
 ![The solar system, showing the Sun and planets.](/assets/images/posts/2020/11/2020-11-29-solar-system.jpg "class=s40 right|@itemprop=image")Our solar system will disintegrate much sooner than scientists originally thought. Or at least that's what a couple of [astronomers at the University of California think](https://iopscience.iop.org/article/10.3847/1538-3881/abb8de.

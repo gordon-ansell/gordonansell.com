@@ -9,8 +9,9 @@ title: Facebook depressed about upcoming privacy restrictions
 date: 2020-08-28T08:15:00.000Z
 inline: true
 tags:
-  - Tech
+  - Privacy
   - Facebook
+  - Tech
   - News
   - Apple
   - Social Media

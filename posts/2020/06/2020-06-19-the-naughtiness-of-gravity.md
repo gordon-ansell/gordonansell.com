@@ -9,8 +9,8 @@ title: The naughtiness of gravity
 date: 2020-06-19T07:05:00.000Z
 inline: true
 tags:
-  - Science
   - Physics
+  - Science
   - Citation
 externalLink: >-
   https://www.quantamagazine.org/why-gravity-is-not-like-the-other-forces-20200615/

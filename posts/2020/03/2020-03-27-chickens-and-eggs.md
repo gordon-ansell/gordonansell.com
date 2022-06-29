@@ -5,8 +5,8 @@ title: Chickens and eggs
 date: 2020-03-27T09:00:00.000Z
 inline: true
 tags:
-  - Society
   - Eggs
+  - Society
   - Nonsense
 ---
 In 2011, there were about 6 billion egg-laying chickens in the world and they laid about 1.2 trillion eggs, which is about 3.2 billion eggs a day. That's roughly one egg every other day for everyone in the world.

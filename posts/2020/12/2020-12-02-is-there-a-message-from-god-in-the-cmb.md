@@ -9,8 +9,8 @@ title: Is there a message from God in the CMB?
 date: 2020-12-02T07:05:00.000Z
 inline: true
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Citation
   - Nonsense

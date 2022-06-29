@@ -9,8 +9,8 @@ description: >-
 title: Google to start charging for reCAPTCHA
 date: 2020-04-12T08:40:00.000Z
 tags:
-  - Tech
   - Google
+  - Tech
   - News
   - Rant
 ---

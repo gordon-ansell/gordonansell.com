@@ -7,8 +7,8 @@ title: Gears of awe
 date: 2020-03-07T07:15:00.000Z
 inline: true
 tags:
-  - News
   - Gadgets
+  - News
 ---
 I'm a big fan of pointless gadgets and big numbers, and someone called [Daniel de Bruin](https://www.instagram.com/daniel_de_bruin/) has built a gadget that satisfies both those qualities.
 

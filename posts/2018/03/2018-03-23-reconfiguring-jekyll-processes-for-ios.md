@@ -12,8 +12,8 @@ description: >-
 title: Reconfiguring Jekyll processes for iOS
 date: 2018-03-23T07:30:00.000Z
 tags:
-  - Tech
   - Jekyll
+  - Tech
   - Apple
   - iPad
   - iOS

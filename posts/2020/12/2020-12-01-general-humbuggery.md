@@ -9,8 +9,8 @@ title: General humbuggery
 date: 2020-12-01T10:40:00.000Z
 inline: true
 tags:
-  - Opinion
   - Christmas
+  - Opinion
   - Rant
 ---
 [I was reading an article on the BBC about Christmas tree sales](https://www.bbc.co.uk/news/business-55127966), and this made me frown and swear and stamp my feet in annoyance.

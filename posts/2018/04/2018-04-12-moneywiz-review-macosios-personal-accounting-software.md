@@ -14,8 +14,8 @@ leader: >-
   feature you'd expect. Split transactions and stock recording could do with a
   little work, but those are minor gripes.
 tags:
-  - Tech
   - Review
+  - Tech
   - Apple
 ratingStars: 4.5
 schema:

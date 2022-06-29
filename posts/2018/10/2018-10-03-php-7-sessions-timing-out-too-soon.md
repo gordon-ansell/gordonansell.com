@@ -9,8 +9,8 @@ _qa: true
 title: PHP 7 sessions timing out too soon
 date: 2018-10-03T09:30:00.000Z
 tags:
-  - Tech
   - PHP
+  - Tech
   - Web Development
   - Help
 ---

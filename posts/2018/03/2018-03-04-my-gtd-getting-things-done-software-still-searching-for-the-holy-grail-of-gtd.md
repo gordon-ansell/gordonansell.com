@@ -8,8 +8,8 @@ description: >-
   apps along with OmniFocus and Ulysses. I still want to find a Holy Grail of
   GTD though.
 tags:
-  - Tech
   - GTD
+  - Tech
   - Opinion
   - Ulysses
 excerpt: >-

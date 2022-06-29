@@ -14,8 +14,8 @@ leader: >-
   Sandra Bullock, and it works because it's all about tension instead of the
   tired slasher recipe many films in the genre employ.
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 excerptImage: /assets/images/posts/2019/05/2019-05-01-bird-box-film.png
 ratingStars: 4

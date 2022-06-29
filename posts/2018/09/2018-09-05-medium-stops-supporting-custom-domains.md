@@ -10,8 +10,8 @@ description: >-
 title: Medium stops supporting custom domains
 date: 2018-09-05T08:05:00.000Z
 tags:
-  - Tech
   - Blogging
+  - Tech
   - News
   - Social Media
 ---

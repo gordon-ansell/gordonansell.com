@@ -9,8 +9,8 @@ description: >-
 title: 'Epic, Apple and the Coalition for App Fairness'
 date: 2020-09-29T07:00:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
 ---
 ![Coalition for App Fairness](/assets/images/posts/2020/09/2020-09-29-caf-logo.jpg "class=s33 right|@itemprop=image")

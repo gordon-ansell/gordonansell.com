@@ -10,8 +10,8 @@ description: >-
 title: 'Filemaker 17, briefly'
 date: 2018-06-28T03:24:00.000Z
 tags:
-  - Tech
   - Filemaker
+  - Tech
   - Opinion
   - Apple
   - macOS

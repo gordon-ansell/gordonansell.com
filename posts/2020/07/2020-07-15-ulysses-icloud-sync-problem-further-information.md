@@ -8,8 +8,8 @@ description: >-
 title: Ulysses/iCloud sync problem — further information
 date: 2020-07-15T10:40:00.000Z
 tags:
-  - Tech
   - Ulysses
+  - Tech
   - iA Writer
   - iOS
   - iPadOS

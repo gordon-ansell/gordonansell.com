@@ -10,10 +10,10 @@ description: >-
 title: Coverage issues in Google Search Console
 date: 2020-03-17T14:15:00.000Z
 tags:
+  - Google
   - Tech
   - Web Development
   - Error
-  - Google
   - Help
 ---
 ![The coverage menu option in Search Console.](/assets/images/posts/2020/03/2020-03-17-coverage-menu.jpg "class=s33 right|@itemprop=image")

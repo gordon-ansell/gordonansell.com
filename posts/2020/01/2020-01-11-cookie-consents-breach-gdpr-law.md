@@ -9,8 +9,8 @@ title: Cookie consents breach GDPR law
 date: 2020-01-11T08:50:00.000Z
 inline: true
 tags:
-  - Tech
   - Privacy
+  - Tech
   - News
 externalLink: >-
   https://techcrunch.com/2020/01/10/cookie-consent-tools-are-being-used-to-undermine-eu-privacy-rules-study-suggests/

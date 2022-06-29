@@ -9,8 +9,8 @@ title: Bullshit tracking and computer misuse
 date: 2020-04-18T07:20:00.000Z
 inline: true
 tags:
-  - Tech
   - Privacy
+  - Tech
   - Opinion
   - Citation
 externalLink: 'https://pxlnv.com/blog/bullshit-web-ubiquity/'

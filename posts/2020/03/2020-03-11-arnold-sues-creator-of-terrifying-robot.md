@@ -9,8 +9,8 @@ title: Arnold sues creator of terrifying robot
 date: 2020-03-11T08:15:00.000Z
 inline: true
 tags:
-  - News
   - Gadgets
+  - News
   - Companies
 ---
 A Russian company called Promobot created a terrifying Terminator robot that was designed to work in customer services at trade fairs, answering questions and whatnot. It's supposed to mimic human expressions but I think it mimics serious illness much more.

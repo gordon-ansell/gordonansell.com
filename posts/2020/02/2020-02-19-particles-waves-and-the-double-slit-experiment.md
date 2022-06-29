@@ -9,8 +9,8 @@ description: >-
 title: 'Particles, waves and the double-slit experiment'
 date: 2020-02-19T08:05:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Disquisition
 ---
 Much fuss is made about quantum things being both waves and particles. This can be illuminated by the famous double-slit experiment. The nature of the experiment can be illustrated by using some everyday waves and particles before we delve into any quantum jiggery-pokery.

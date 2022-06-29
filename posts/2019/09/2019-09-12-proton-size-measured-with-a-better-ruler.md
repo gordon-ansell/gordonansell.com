@@ -11,8 +11,8 @@ title: Proton size measured with a better ruler
 date: 2019-09-12T06:00:00.000Z
 inline: true
 tags:
-  - Science
   - Physics
+  - Science
   - News
   - Citation
 externalLink: >-

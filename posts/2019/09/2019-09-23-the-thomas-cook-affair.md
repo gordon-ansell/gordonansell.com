@@ -9,8 +9,8 @@ title: The Thomas Cook Affair
 date: 2019-09-23T10:50:00.000Z
 inline: true
 tags:
-  - News
   - Companies
+  - News
 ---
 The bit I’m trying to understand about Thomas Cook’s collapse is why it costs me £100m to repatriate the people stranded by Thomas Cook. And when I say _me_ I mean the taxpayer — I don’t have £100m personally.
 

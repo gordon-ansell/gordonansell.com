@@ -9,8 +9,8 @@ title: Lockdown faff for Christmas 2020 and beyond
 date: 2020-11-25T11:15:00.000Z
 inline: true
 tags:
-  - Society
   - Coronavirus
+  - Society
   - Christmas
 ---
 The faffing over what to do with the coronavirus lockdown situation at Christmas and beyond is ludicrous.

@@ -9,8 +9,8 @@ description: >-
 title: The iPad at ten — success or failure?
 date: 2020-02-03T10:15:00.000Z
 tags:
-  - Tech
   - iPad
+  - Tech
   - Opinion
   - Apple
 ---

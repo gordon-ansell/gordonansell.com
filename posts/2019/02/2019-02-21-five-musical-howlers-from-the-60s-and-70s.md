@@ -10,8 +10,8 @@ description: >-
 title: Five musical howlers from the 60s and 70s
 date: 2019-02-21T06:45:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Opinion
 ---
 It was BBC2’s Eggheads that started me on this. The answer to one of their questions was ‘If’ by Telly Savalas, which was a song I’d blissfully forgotten about until that moment but the horror of it all came flooding back thanks to Jeremy Vine.

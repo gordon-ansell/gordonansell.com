@@ -8,8 +8,8 @@ description: >-
 title: Confirmation bias and how to avoid it
 date: 2020-05-12T10:20:00.000Z
 tags:
-  - Society
   - Politics
+  - Society
   - Opinion
   - Psychology
 ---

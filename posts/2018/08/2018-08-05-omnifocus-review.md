@@ -17,8 +17,8 @@ leader: >-
 title: OmniFocus review
 date: '2018-08-05 07:00:00 +0100'
 tags:
-  - Tech
   - OmniFocus
+  - Tech
   - Review
   - Apple
   - macOS

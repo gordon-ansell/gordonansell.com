@@ -8,6 +8,7 @@ description: >-
 title: Barclays Bank's Big Brother backlash
 date: 2020-02-21T07:55:00.000Z
 tags:
+  - Privacy
   - News
   - Companies
 ---

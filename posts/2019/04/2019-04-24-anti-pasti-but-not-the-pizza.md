@@ -8,8 +8,8 @@ title: 'Anti-Pasti, but not the pizza'
 date: 2019-04-24T11:05:00.000Z
 inline: true
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Opinion
 excerptImage: /assets/images/posts/2019/04/2019-04-24-four-sore-points.jpg
 ---

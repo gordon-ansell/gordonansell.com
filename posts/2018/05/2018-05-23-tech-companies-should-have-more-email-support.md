@@ -14,8 +14,8 @@ description: >-
 title: Tech companies should have more email support
 date: 2018-05-23T07:15:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - Email
 ---

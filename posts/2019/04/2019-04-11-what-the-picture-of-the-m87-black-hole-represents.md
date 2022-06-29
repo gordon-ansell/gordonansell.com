@@ -9,11 +9,10 @@ description: >-
 title: What the picture of the M87 black hole represents
 date: 2019-04-11T08:30:00.000Z
 tags:
+  - Astronomy
   - Science
   - Cosmology
   - News
-  - Astronomy
-  - Black Holes
 excerptImage: /assets/images/posts/2019/04/2019-04-11-m87-black-hole-icon.jpg
 ---
 The picture of the black hole at the centre of M87 is quite moving for anyone interested in physics. It’s 55 million light years away, about the diameter of our solar system, weighs about 6.5 billion times as much as our Sun and it’s rotating clockwise.

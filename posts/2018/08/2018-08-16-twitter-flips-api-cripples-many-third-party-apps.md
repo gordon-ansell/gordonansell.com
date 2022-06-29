@@ -9,8 +9,8 @@ title: 'Twitter flips API, cripples many third-party apps'
 date: 2018-08-16T07:45:00.000Z
 inline: true
 tags:
-  - Tech
   - Twitter
+  - Tech
   - News
   - Citation
   - Social Media

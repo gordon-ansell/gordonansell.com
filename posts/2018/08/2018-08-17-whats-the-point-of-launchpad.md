@@ -9,9 +9,9 @@ title: What's the point of Launchpad?
 date: 2018-08-17T07:15:00.000Z
 inline: true
 tags:
+  - macOS
   - Tech
   - Citation
-  - macOS
   - Apple
 externalLink: 'https://9to5mac.com/2018/08/16/launchpad-mac-tips/'
 citation:

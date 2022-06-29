@@ -9,8 +9,8 @@ title: Amazon review system rigged
 date: 2018-04-29T06:29:00.000Z
 inline: true
 tags:
-  - Tech
   - Amazon
+  - Tech
   - News
   - Citation
 externalLink: 'http://www.bbc.co.uk/news/technology-43907695'

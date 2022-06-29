@@ -9,10 +9,10 @@ description: >-
 title: M1-powered MacBook Pro heading this way
 date: 2020-11-13T09:40:00.000Z
 tags:
+  - MacBook
   - Tech
   - Apple
   - Opinion
-  - MacBook
 ---
 Four months ago, I posted an article about how [Apple are forcing me to upgrade my MacBook hardware](/apple-have-decided-i-need-to-give-them-more-money/). With the recent release of Big Sur and the new M1-powered MacBooks, I'm now at the sharp end of deciding what to do.
 

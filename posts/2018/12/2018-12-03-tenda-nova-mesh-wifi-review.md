@@ -16,7 +16,6 @@ leader: >-
 tags:
   - Tech
   - Review
-  - Tenda Nova
 ratingStars: 4.5
 schema:
   product:

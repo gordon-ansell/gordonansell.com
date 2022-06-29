@@ -9,8 +9,8 @@ description: >-
 title: The feud between Apple's Tim Cook and Facebook's Mark Zuckerberg
 date: 2020-11-26T10:15:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - Facebook
   - Social Media

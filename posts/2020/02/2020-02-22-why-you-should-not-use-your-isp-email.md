@@ -9,10 +9,10 @@ description: >-
 title: Why you should not use your ISP's email
 date: 2020-02-22T09:30:00.000Z
 tags:
+  - Email
   - Tech
   - Internet
   - Opinion
-  - Email
 ---
 There was recently [an article on the BBC](https://www.bbc.co.uk/news/business-51571275) about the extortionate charges ISPs sometimes levy if you move away from them but want to keep your email address.
 

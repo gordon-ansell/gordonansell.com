@@ -11,8 +11,8 @@ description: >-
 title: Privacy policies are still far too long
 date: 2019-06-17T10:20:00.000Z
 tags:
-  - Tech
   - Privacy
+  - Tech
   - Opinion
 excerptImage: /assets/images/posts/2019/06/2019-06-17-privacy-policy-icon.jpg
 ---

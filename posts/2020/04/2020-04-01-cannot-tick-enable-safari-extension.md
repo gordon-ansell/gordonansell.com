@@ -6,8 +6,8 @@ description: >-
   How to fix the problem of being unable to tick extensions to enable them via
   Safari's preferences dialog.
 tags:
-  - Tech
   - Safari
+  - Tech
   - macOS
   - Error
 title: Cannot tick-enable a Safari extension via preferences

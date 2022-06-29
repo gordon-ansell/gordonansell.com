@@ -9,8 +9,8 @@ title: Corbyn's plans for Big Tech
 date: 2018-08-26T08:15:00.000Z
 inline: true
 tags:
-  - Tech
   - Politics
+  - Tech
   - Society
   - News
   - Citation

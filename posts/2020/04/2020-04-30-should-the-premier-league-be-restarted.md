@@ -9,8 +9,8 @@ description: >-
 title: Should the Premier League be restarted?
 date: 2020-04-30T08:30:00.000Z
 tags:
-  - Opinion
   - Sport
+  - Opinion
   - Coronavirus
 ---
 The [Premier League are mulling over the idea of finishing the season](https://www.bbc.co.uk/sport/football/52443200), possibly starting in early June. There is huge financial pressure on them to do so. Contractually, they'd have to pay back £750 million to the TV companies if they don't finish the season and live up to their commitment to televise the appropriate number of games.

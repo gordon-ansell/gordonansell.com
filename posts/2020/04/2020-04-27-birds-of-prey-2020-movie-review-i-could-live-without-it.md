@@ -13,8 +13,8 @@ leader: >-
 title: Birds of Prey (2020) movie review — I could live without it
 date: 2020-04-27T06:00:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
   - DC
 ratingStars: 2.5

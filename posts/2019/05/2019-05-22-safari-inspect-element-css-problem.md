@@ -10,9 +10,9 @@ description: >-
 title: Safari inspect element CSS problem
 date: 2019-05-22T19:30:00.000Z
 tags:
+  - Safari
   - Tech
   - Web Development
-  - Safari
   - CSS
   - Error
   - Help

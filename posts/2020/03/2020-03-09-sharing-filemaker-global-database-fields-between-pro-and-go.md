@@ -10,8 +10,8 @@ description: >-
 title: Sharing Filemaker global database fields between Pro and Go
 date: 2020-03-09T09:30:00.000Z
 tags:
-  - Tech
   - Filemaker
+  - Tech
   - How-To
 layout: post-noarticleschema.njk
 ---

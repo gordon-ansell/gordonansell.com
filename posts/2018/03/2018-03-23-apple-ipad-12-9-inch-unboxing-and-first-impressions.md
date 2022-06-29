@@ -12,8 +12,8 @@ description: >-
 title: Apple iPad Pro 12.9 Inch - unboxing and first impressions
 date: 2018-03-23T09:00:00.000Z
 tags:
-  - Tech
   - iPad
+  - Tech
   - Opinion
   - Apple
   - iOS

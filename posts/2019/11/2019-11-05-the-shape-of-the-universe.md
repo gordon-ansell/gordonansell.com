@@ -8,8 +8,8 @@ description: >-
 title: The shape of the universe
 date: 2019-11-05T16:05:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Citation
 externalLink: >-

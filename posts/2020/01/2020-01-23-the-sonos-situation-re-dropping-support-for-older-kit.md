@@ -8,8 +8,8 @@ description: >-
 title: The Sonos situation re dropping support for older kit
 date: 2020-01-23T08:10:00.000Z
 tags:
-  - Opinion
   - Music
+  - Opinion
   - Companies
 ---
 ![Sonos Connect](/assets/images/posts/2020/01/2020-01-23-sonos-connect.jpg "class=s33 right|@itemprop=image")

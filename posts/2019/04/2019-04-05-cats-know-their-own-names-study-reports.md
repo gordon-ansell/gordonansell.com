@@ -8,11 +8,11 @@ description: >-
 title: 'Cats know their own names, study reports'
 date: 2019-04-05T20:15:00.000Z
 tags:
+  - Cats
   - Science
   - Zoology
   - News
   - Citation
-  - Cats
 externalLink: 'http://www.gizmodo.co.uk/2019/04/do-cats-know-their-own-names/'
 citation:
   title: Do Cats Know Their Own Names?

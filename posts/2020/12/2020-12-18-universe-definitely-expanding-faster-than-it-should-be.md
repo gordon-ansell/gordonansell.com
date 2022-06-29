@@ -8,8 +8,8 @@ description: >-
 title: Universe definitely expanding faster than it should be
 date: 2020-12-18T08:00:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
 ---
 Cosmologists like to know how fast the universe is expanding. To find this out they used Hubble's Law, which tells us how fast galaxies are receding from ours based on how far away from us those galaxies are.

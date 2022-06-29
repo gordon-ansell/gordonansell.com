@@ -14,8 +14,8 @@ leader: >-
   like the look of it and it has plenty on-board gadgets too, including things
   like a storm alarm and a bearing tracker.
 tags:
-  - Review
   - Watches
+  - Review
 ratingStars: 4
 schema:
   product:

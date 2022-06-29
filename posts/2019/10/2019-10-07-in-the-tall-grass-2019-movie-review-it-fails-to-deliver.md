@@ -14,8 +14,8 @@ leader: >-
   deliver. It lacks many of the key ingredients of a good horror movie, or at
   least fails to apply them after the first 20 minutes.
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 excerptImage: /assets/images/posts/2019/10/2019-10-07-in-the-tall-grass-poster.jpg
 ratingStars: 2

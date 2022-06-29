@@ -11,13 +11,13 @@ description: >-
 title: Apple's Reminders app needs two features
 date: 2018-10-25T06:20:00.000Z
 tags:
+  - Reminders
   - Tech
   - Review
   - Apple
   - iOS
   - macOS
   - OmniFocus
-  - Reminders
   - GTD
 ratingStars: 3
 schema:

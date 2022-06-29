@@ -5,8 +5,8 @@ description: >-
   My thoughts about Apple computers five years after switching to the platform
   from Windows. Would I now switch back to Windows again?
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - Windows
 excerpt: >-

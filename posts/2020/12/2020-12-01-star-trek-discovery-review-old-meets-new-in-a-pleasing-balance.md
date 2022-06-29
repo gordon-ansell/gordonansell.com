@@ -16,8 +16,8 @@ leader: >-
 title: 'Star Trek: Discovery review — old meets new in a pleasing balance'
 date: 2020-12-01T08:30:00.000Z
 tags:
-  - Entertainment
   - TV
+  - Entertainment
   - Review
   - Science Fiction
 ratingStars: 4

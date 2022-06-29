@@ -5,8 +5,8 @@ description: >-
   How to add Microsoft Exchange aliases to MacOS mail so that you can send email
   from multiple address via your Apple computer.
 tags:
-  - Tech
   - Microsoft Exchange
+  - Tech
   - macOS
   - Help
 excerpt: >-

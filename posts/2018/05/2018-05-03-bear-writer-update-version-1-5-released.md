@@ -10,8 +10,8 @@ description: >-
 title: Bear Writer update - version 1.5 released
 date: 2018-05-03T11:48:00.000Z
 tags:
-  - Tech
   - Bear
+  - Tech
   - News
   - Apple
   - GTD

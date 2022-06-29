@@ -8,8 +8,8 @@ description: >-
 title: Facebook threatens to withdraw from the EU (we should be so lucky)
 date: 2020-09-23T11:25:00.000Z
 tags:
-  - Tech
   - Facebook
+  - Tech
   - Opinion
   - News
   - Social Media

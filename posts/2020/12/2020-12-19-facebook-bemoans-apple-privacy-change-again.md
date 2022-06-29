@@ -8,8 +8,8 @@ description: >-
 title: Facebook bemoans Apple privacy change. Again.
 date: 2020-12-19T06:35:00.000Z
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Apple
   - Social Media

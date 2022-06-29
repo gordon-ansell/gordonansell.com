@@ -10,8 +10,8 @@ leader: >-
   prevail. There's some trial and error here but it should help you get Jekyll
   installed.
 tags:
-  - Tech
   - Jekyll
+  - Tech
   - macOS
   - Web Development
   - Help

@@ -10,8 +10,8 @@ description: >-
 title: Einstein's 'Equivalence Principle' passes the test
 date: 2019-07-26T07:50:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - News
   - Citation
 externalLink: >-

@@ -9,8 +9,8 @@ description: >-
 title: Apple's Epic battle
 date: 2020-08-14T08:35:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
   - iOS
   - iPadOS

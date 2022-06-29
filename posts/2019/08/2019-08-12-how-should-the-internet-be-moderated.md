@@ -8,8 +8,8 @@ description: >-
 title: How should the internet be moderated?
 date: 2019-08-12T09:20:00.000Z
 tags:
-  - Tech
   - Internet
+  - Tech
   - News
   - Citation
 externalLink: 'https://stratechery.com/2019/a-framework-for-moderation/'

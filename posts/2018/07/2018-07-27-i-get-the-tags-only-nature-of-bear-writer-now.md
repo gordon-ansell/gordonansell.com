@@ -9,8 +9,8 @@ description: >-
 title: I get the tags-only nature of Bear Writer now
 date: 2018-07-27T07:15:00.000Z
 tags:
-  - Tech
   - Bear
+  - Tech
   - Opinion
   - Apple
 ---

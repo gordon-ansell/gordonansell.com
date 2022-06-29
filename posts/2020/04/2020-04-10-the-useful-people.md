@@ -7,8 +7,8 @@ title: The useful people
 date: 2020-04-10T18:00:00.000Z
 inline: true
 tags:
-  - Society
   - Coronavirus
+  - Society
   - Opinion
 ---
 The current situation has taught us many things but perhaps one of the most prominent is who the useful people in society are. The people who really make a difference when the chips are down.

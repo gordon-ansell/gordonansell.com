@@ -8,8 +8,8 @@ description: >-
 title: What does quantum probability really mean?
 date: 2019-09-15T10:30:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - News
   - Citation
   - Mathematics

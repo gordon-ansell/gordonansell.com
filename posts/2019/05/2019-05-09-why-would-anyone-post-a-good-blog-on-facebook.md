@@ -9,6 +9,7 @@ title: Why would anyone post a good blog on Facebook?
 date: 2019-05-09T20:50:00.000Z
 inline: true
 tags:
+  - Blogging
   - Tech
   - Facebook
   - News

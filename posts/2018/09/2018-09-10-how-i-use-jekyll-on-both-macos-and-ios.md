@@ -11,8 +11,8 @@ description: >-
 title: How I use Jekyll on both macOS and iOS
 date: 2018-09-10T07:00:00.000Z
 tags:
-  - Tech
   - Jekyll
+  - Tech
   - macOS
   - iOS
   - Linux

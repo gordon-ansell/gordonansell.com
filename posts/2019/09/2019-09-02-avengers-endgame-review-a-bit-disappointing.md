@@ -13,8 +13,8 @@ leader: >-
   too much to do. It thus comes across as lacking fluency and it's a bit
   disjointed.
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
   - Marvel
 excerptImage: /assets/images/posts/2019/09/2019-09-02-avengers-endgame-icon.jpg

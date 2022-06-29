@@ -5,8 +5,8 @@ description: >-
   A review of the Fast and The Furious 8 (The Fate of The Furious), which in my
   opinion is a film without any redeeming features.
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 excerpt: >-
   __A review of the 8th film in 'The Fast and The Furious' franchise__. No, just

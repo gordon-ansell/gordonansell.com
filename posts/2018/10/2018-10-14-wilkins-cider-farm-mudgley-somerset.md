@@ -12,9 +12,9 @@ leader: >-
 title: 'Wilkins Cider Farm, Mudgley, Somerset'
 date: 2018-10-14T15:45:00.000Z
 tags:
+  - Local
   - Review
   - Companies
-  - Local
 ratingStars: 5
 schema:
   product:

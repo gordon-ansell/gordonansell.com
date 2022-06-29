@@ -8,8 +8,8 @@ description: >-
 title: 'Speed, velocity and acceleration'
 date: 2019-10-18T10:20:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Disquisition
 ---
 I can be a pedant at times. Misplaced, superfluous or omitted apostrophes, for example, have the power to drive me mad. I sometimes have to resist my pedantry in order not to offend — or indeed murder — people. I regularly see an advert in my local buy and sell forum that’s titled “_Vehicle’s for sale_” and the superfluous apostrophe therein results in me needing much therapy. Psychiatrists are called, straight-jackets are prepared and knives are removed from my kitchen drawer.

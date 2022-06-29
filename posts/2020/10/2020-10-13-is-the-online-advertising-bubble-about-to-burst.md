@@ -10,10 +10,9 @@ description: >-
 title: Is the online advertising bubble about to burst?
 date: 2020-10-13T08:30:00.000Z
 tags:
-  - Tech
   - Privacy
+  - Tech
   - Citation
-  - Advertising
 externalLink: 'https://www.wired.com/story/ad-tech-could-be-the-next-internet-bubble/'
 citation:
   title: Ad Tech Could Be the Next Internet Bubble

@@ -11,8 +11,8 @@ title: Google plans to comply with Chinese censorship
 date: 2018-08-02T11:25:00.000Z
 inline: true
 tags:
-  - Tech
   - Google
+  - Tech
   - News
   - Citation
   - Companies

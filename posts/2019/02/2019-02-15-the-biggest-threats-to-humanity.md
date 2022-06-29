@@ -9,8 +9,8 @@ title: The biggest threats to humanity
 date: 2019-02-15T07:50:00.000Z
 inline: true
 tags:
-  - Society
   - Environment
+  - Society
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/world-47030233'
 citation:

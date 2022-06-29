@@ -7,8 +7,8 @@ title: MS Code horizontal scroll bar
 date: 2020-03-24T17:40:00.000Z
 inline: true
 tags:
-  - Tech
   - Microsoft
+  - Tech
   - Opinion
 ---
 What gives with the horizontal scroll bar on Microsoft Code? When you move your mouse cursor down to it to use it, it disappears. Is this some sort of game? What you have to do to catch the bastard is sneak slowly up on it, then jump on it and click the left mouse button quickly.

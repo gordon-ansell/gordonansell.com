@@ -13,8 +13,8 @@ leader: >-
 title: Equalizer 2 (2018) film review
 date: 2019-03-26T08:19:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 ratingStars: 3.5
 schema:

@@ -9,8 +9,8 @@ title: 'AI tricks reCAPTCHA, but why do we have these things anyway?'
 date: 2019-03-25T09:30:00.000Z
 inline: true
 tags:
-  - Tech
   - AI
+  - Tech
   - News
   - Citation
 externalLink: 'https://www.wired.co.uk/article/google-captcha-recaptcha'

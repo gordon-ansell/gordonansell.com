@@ -10,8 +10,8 @@ description: >-
 title: Wordpress 5.3 critical error
 date: 2019-11-13T05:40:00.000Z
 tags:
-  - Tech
   - Wordpress
+  - Tech
   - Error
   - Help
 ---

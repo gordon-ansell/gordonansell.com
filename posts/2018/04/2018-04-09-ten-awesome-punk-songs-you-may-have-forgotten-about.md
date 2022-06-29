@@ -8,8 +8,8 @@ description: >-
 title: Ten awesome punk songs you may have forgotten about
 date: 2018-04-09T05:46:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Opinion
 ---
 Okay, one or two of them might be more appropriately categorised as Post-Punk or even New Wave but let’s not split hairs eh?

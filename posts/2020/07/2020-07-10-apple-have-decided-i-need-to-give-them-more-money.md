@@ -8,12 +8,12 @@ description: >-
 title: Apple have decided I need to give them more money
 date: 2020-07-10T07:30:00.000Z
 tags:
+  - Apple
   - Tech
   - macOS
   - Opinion
   - Citation
   - iOS
-  - Apple
 externalLink: 'https://www.macrumors.com/guide/buy-or-wait-intel-apple-silicon-mac/'
 citation:
   title: Should I Buy an Intel Mac Today or Wait to Buy an Arm-Based Mac?

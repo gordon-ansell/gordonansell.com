@@ -13,6 +13,7 @@ leader: >-
 title: 'Apple Reminders on iOS 13, iPadOS 13 and macOS Catalina — much improved'
 date: 2019-10-08T06:45:00.000Z
 tags:
+  - Reminders
   - Tech
   - Review
   - Apple

@@ -9,8 +9,8 @@ title: The Tumblr acquisition
 date: 2019-08-20T18:38:00.000Z
 inline: true
 tags:
-  - Tech
   - Blogging
+  - Tech
   - News
   - Citation
 externalLink: >-

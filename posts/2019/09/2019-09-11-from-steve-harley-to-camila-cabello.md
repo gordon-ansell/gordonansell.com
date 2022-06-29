@@ -8,8 +8,8 @@ description: >-
 title: From Steve Harley to Camila Cabello
 date: 2019-09-11T07:50:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Opinion
 ---
 I was up with the larks this morning. Actually I was up so early the larks kept telling me to keep the noise down.

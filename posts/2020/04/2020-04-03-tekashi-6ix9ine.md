@@ -5,8 +5,8 @@ title: Tekashi 6ix9ine
 date: 2020-04-03T09:00:00.000Z
 inline: true
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Society
 ---
 Apparently [Tekashi 6ix9ine has been released from prison](https://www.bbc.co.uk/news/newsbeat-52149538) because he has asthma and is therefore at high risk in any coronavirus scenario.

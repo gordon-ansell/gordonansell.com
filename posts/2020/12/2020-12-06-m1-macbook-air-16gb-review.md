@@ -14,10 +14,10 @@ leader: >-
 title: 'M1 MacBook Air 13 inch (16GB) review, compared to a 2013 MacBook Pro'
 date: 2020-12-06T08:00:00.000Z
 tags:
+  - MacBook
   - Tech
   - Apple
   - Review
-  - MacBook
 excerptImage: /assets/images/posts/2020/12/2020-12-06-air-icon.png
 ratingStars: 4.5
 schema:

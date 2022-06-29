@@ -8,8 +8,8 @@ excerpt: >-
   Just some instruction about how to access Working Copy repositories from iA
   Writer.
 tags:
-  - Tech
   - iA Writer
+  - Tech
   - How-To
   - iOS
 layout: post-noarticleschema.njk

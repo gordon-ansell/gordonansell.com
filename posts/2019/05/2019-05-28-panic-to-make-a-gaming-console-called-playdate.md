@@ -9,9 +9,9 @@ description: >-
 title: Panic to make a gaming console called Playdate
 date: 2019-05-28T22:10:00.000Z
 tags:
+  - Games
   - Tech
   - News
-  - Games
 excerptImage: /assets/images/posts/2019/05/2019-05-28-playdate-logo.png
 ---
 I’ve been using Panic’s software for many years now. I use [Coda](https://panic.com/coda/ "Find out more.") for a lot of my web development and [Transmit](https://panic.com/transmit/ "Find out more.") as my main macOS FTP client. I really like both those applications.

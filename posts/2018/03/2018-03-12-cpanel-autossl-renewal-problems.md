@@ -6,8 +6,8 @@ description: >-
   domain, this might just be the answer. It could be your htaccess file causing
   problems.
 tags:
-  - Tech
   - cPanel
+  - Tech
   - Linux
   - Error
   - Help

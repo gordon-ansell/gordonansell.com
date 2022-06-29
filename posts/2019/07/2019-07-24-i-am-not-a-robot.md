@@ -9,8 +9,8 @@ description: >-
 title: I am not a robot
 date: 2019-07-24T17:20:00.000Z
 tags:
-  - Tech
   - Internet
+  - Tech
   - Opinion
 ---
 ![Just a random robot.](/assets/images/posts/2019/07/2019-07-24-robot.png "class=s25 right|@itemprop=image")

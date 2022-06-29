@@ -10,8 +10,8 @@ description: >-
 title: How social media has changed the internet
 date: 2018-04-23T07:09:00.000Z
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Opinion
 ---
 The internet has changed significantly in the last decade or so and it’s mainly thanks to social media. Facebook, Twitter, Snapchat, Instagram et al have shaped the way we all subscribe to and interact with content.

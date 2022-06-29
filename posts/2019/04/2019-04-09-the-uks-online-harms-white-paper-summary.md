@@ -9,8 +9,8 @@ description: >-
 title: The UK’s Online Harms white paper - summary
 date: 2019-04-09T07:55:00.000Z
 tags:
-  - Tech
   - Politics
+  - Tech
   - Society
   - News
 excerptImage: /assets/images/posts/2019/04/2019-04-09-online-harms-white-paper-icon.png

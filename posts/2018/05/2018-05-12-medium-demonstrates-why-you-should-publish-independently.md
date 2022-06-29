@@ -9,8 +9,8 @@ title: Medium demonstrates why you should publish independently
 date: 2018-05-12T09:22:00.000Z
 inline: true
 tags:
-  - Tech
   - Blogging
+  - Tech
   - News
   - Citation
 externalLink: >-

@@ -8,8 +8,8 @@ description: >-
 title: Apple’s asynchronous iOS/iPadOS 13 and macOS Catalina release schedule
 date: 2019-10-04T08:20:00.000Z
 tags:
-  - Opinion
   - Apple
+  - Opinion
   - macOS
   - iOS
   - iPadOS

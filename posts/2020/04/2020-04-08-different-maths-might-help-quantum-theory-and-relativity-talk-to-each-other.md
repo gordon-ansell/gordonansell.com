@@ -8,8 +8,8 @@ description: >-
 title: Different maths might help quantum theory and relativity talk to each other
 date: 2020-04-08T08:00:00.000Z
 tags:
-  - Science
   - Mathematics
+  - Science
   - Citation
   - Physics
 externalLink: >-

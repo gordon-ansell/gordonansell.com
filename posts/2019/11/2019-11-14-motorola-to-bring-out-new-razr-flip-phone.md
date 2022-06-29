@@ -6,8 +6,8 @@ description: >-
 title: Motorola to bring out new Razr flip phone
 date: 2019-11-14T11:15:00.000Z
 tags:
-  - Tech
   - Gadgets
+  - Tech
   - News
 ---
 It’s a shame flip-phones went out of fashion. I can see why they did: most people only use the phone part of a mobile phone as a sort of secondary function these days. They are now fully fledged computers, messagers and cameras, and more screen real estate was desirable to support these new aspects. 

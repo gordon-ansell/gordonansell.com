@@ -6,8 +6,8 @@ description: >-
   How to fix CSF (ConfigServer Firewall) after upgrading your CPanel system from
   EasyApache 3 to EasyApache 4.
 tags:
-  - Tech
   - CSF
+  - Tech
   - Linux
   - cPanel
   - Help

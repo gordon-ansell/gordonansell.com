@@ -8,8 +8,8 @@ description: >-
 title: Why is the UK so bad at managing coronavirus?
 date: 2020-10-18T09:40:00.000Z
 tags:
-  - Society
   - Coronavirus
+  - Society
 ---
 I am wondering why we can't manage coronavirus as well as some other countries.
 

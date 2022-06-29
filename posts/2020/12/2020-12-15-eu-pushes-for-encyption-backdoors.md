@@ -10,8 +10,9 @@ description: >-
 title: EU pushes for encryption backdoors
 date: 2020-12-15T07:20:00.000Z
 tags:
-  - Tech
+  - Privacy
   - Security
+  - Tech
   - News
 ---
 [The EU has adopted a resolution about data encryption](https://www.consilium.europa.eu/en/press/press-releases/2020/12/14/encryption-council-adopts-resolution-on-security-through-encryption-and-security-despite-encryption/?utm_source=dsms-auto&utm_medium=email&utm_campaign=Encryption%3a+Council+adopts+resolution+on+security+through+encryption+and+security+despite+encryption#). The mantra that comes along with this resolution is:

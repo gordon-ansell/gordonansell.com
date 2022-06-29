@@ -9,8 +9,8 @@ title: Companion phone released by Japanese firm NTT Docomo
 date: 2018-10-18T16:15:00.000Z
 inline: true
 tags:
-  - Tech
   - Gadgets
+  - Tech
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/technology-45901284'

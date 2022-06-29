@@ -5,8 +5,8 @@ title: TSB's error message
 date: 2020-04-01T09:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Companies
+  - Tech
 ---
 I note [TSB has had some problems with their website](https://www.bbc.co.uk/news/technology-52121990), but the bit that interested me was that users were met with an *Unexpected Error* and I have to wonder if there's any other sort of error. Would you release software that's full of expected errors? I could just imagine an error along the lines of: *Expected error, we just couldn't be arsed to fix it*.
 

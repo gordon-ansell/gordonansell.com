@@ -8,8 +8,8 @@ description: >-
 title: Blondie’s Parallel Lines — top class album
 date: 2019-08-29T16:10:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Review
 ---
 I like a foray in music on this blog from time-to-time and today I’ve been spinning Parallel Lines on vinyl.

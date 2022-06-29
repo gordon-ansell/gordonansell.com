@@ -7,8 +7,8 @@ title: The UK coronavirus tracking app
 date: 2020-04-13T08:40:00.000Z
 inline: true
 tags:
-  - Tech
   - Coronavirus
+  - Tech
   - Society
   - News
   - Apple

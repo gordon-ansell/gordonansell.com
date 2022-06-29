@@ -13,8 +13,8 @@ leader: >-
 title: Once Upon a Time in Hollywood review — hard to rate
 date: 2020-01-19T08:30:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 excerptImage: /assets/images/posts/2020/01/2020-01-19-ouatih-poster.png
 ratingStars: 3.5

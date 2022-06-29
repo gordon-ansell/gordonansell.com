@@ -6,9 +6,9 @@ description: >-
 title: BEM notation and SCSS
 date: 2020-09-04T12:25:00.000Z
 tags:
+  - CSS
   - Tech
   - Web Development
-  - CSS
   - Help
 ---
 I've been looking at [BEM notation](http://getbem.com/introduction/) for SCSS styles recently. For the uninitiated, BEM stands for **B**lock-**E**lement-**M**odifier and it's a recommended way to name styles so they can be easily managed, easily identified and easily organised into reusable components.

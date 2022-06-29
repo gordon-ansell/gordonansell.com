@@ -13,8 +13,8 @@ leader: >-
 title: Wescot Credit Services — spammers (01482 590502)
 date: 2020-02-25T06:50:00.000Z
 tags:
-  - Review
   - Companies
+  - Review
 excerptImage: /assets/images/posts/2020/02/2020-02-25-no-spam-icon.png
 ratingStars: 0
 schema:

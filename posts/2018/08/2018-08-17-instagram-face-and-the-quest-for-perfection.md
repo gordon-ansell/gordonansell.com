@@ -11,8 +11,8 @@ title: Instagram face and the quest for perfection
 date: 2018-08-17T08:15:00.000Z
 inline: true
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Society
   - Citation
 externalLink: 'https://www.bbc.co.uk/bbcthree/article/5c237a34-7a47-4deb-a5b4-a23e77cc88f7'

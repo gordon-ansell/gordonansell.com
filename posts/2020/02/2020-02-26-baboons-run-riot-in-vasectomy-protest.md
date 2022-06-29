@@ -7,8 +7,8 @@ title: Baboons run riot in vasectomy protest
 date: 2020-02-26T06:45:00.000Z
 inline: true
 tags:
-  - Society
   - Zoology
+  - Society
   - News
 ---
 Baboons in Australia have run riot in protest because doctors were going to force one of them to have a vasectomy.

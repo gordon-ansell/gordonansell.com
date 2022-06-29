@@ -10,8 +10,8 @@ description: >-
 title: Zuckerberg gets roasted in Congress
 date: 2019-10-28T07:00:00.000Z
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Mark Zuckerberg

@@ -5,8 +5,8 @@ description: >-
   A review of Bear Writer, a markdown-based note-taking application from Shiny
   Frog. It supports tags and has multiple import and export options.
 tags:
-  - Tech
   - Bear
+  - Tech
   - Review
   - Software
   - GTD

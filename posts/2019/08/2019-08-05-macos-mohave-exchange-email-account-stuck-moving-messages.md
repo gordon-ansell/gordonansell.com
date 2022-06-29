@@ -8,8 +8,8 @@ description: >-
 title: macOS Mojave Exchange email account stuck ‘moving messages’
 date: 2019-08-05T10:15:00.000Z
 tags:
-  - Tech
   - Microsoft Exchange
+  - Tech
   - macOS
   - Help
 ---

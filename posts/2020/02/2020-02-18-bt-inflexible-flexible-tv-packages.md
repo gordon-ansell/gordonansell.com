@@ -9,10 +9,10 @@ title: BT's inflexible flexible TV packages
 date: 2020-02-18T11:45:00.000Z
 inline: true
 tags:
+  - TV
   - Entertainment
   - Companies
   - News
-  - TV
 ---
 [BT has announced a so-called 'flexible' product for their TV services](https://www.theguardian.com/business/2020/feb/18/bt-ready-to-break-with-tradition-to-chase-netflix-generation). You can basically plug together different packages on a month-by-month basis. However, it's only 'flexible' in certain respects because you have to sign up for a very inflexible 24 months to get it in the first place, and of course you're going to have to pay a fixed monthly fee for the base service regardless.
 

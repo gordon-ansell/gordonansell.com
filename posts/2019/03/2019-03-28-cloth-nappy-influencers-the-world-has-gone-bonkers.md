@@ -9,8 +9,8 @@ title: Cloth nappy influencers — the world has gone bonkers
 date: 2019-03-28T06:01:00.000Z
 inline: true
 tags:
-  - Society
   - Social Media
+  - Society
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/uk-england-47319641'

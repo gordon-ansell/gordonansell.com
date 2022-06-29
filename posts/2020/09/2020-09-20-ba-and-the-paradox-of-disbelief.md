@@ -9,8 +9,8 @@ title: BA and the Paradox of Disbelief
 inline: true
 date: 2020-09-20T10:15:00.000Z
 tags:
-  - News
   - Companies
+  - News
   - Nonsense
 ---
 [BA's insistence that its site cannot issue vouchers unless someone requests them](https://www.bbc.co.uk/news/business-54160376), despite much evidence to the contrary, shows they have fallen into the *Software Developers' Paradox of Disbelief*.

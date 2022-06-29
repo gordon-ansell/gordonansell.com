@@ -6,8 +6,8 @@ description: >-
 title: Constant objects in Javascript/Typescript
 date: 2020-05-13T08:45:00.000Z
 tags:
-  - Tech
   - Javascript
+  - Tech
   - Help
 ---
 You have to be careful with Javascript constants, particularly constant objects.

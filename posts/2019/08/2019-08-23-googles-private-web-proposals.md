@@ -9,8 +9,8 @@ description: >-
 title: Google's private web proposals
 date: 2019-08-23T08:40:00.000Z
 tags:
-  - Tech
   - Google
+  - Tech
 ---
 Google is devising a new initiative about [building a more private web](https://www.blog.google/products/chrome/building-a-more-private-web/ "Read the Google article about building a more private web."). They say:
 

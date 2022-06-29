@@ -9,8 +9,8 @@ description: >-
 title: Categories v tags on blogs
 date: 2018-03-24T09:59:00.000Z
 tags:
-  - Opinion
   - Blogging
+  - Opinion
 ---
 I’ve administrated, moderated and/or posted on a number of blogs over the years and one thing I’ve noticed is that there’s generally some confusion about how to use categories and tags. I therefore provide my thoughts on the subject here. I don’t claim to be a guru at this sort of stuff, just a reader and writer of many blogs over the years.
 

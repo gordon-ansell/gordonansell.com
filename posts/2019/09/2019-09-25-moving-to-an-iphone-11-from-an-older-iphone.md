@@ -7,8 +7,8 @@ description: My experiences transferring from a plain iPhone 6 to a standard iPh
 title: Moving to an iPhone 11 from an older iPhone (an iPhone 6 in my case)
 date: 2019-09-25T08:45:00.000Z
 tags:
-  - Tech
   - iPhone
+  - Tech
   - Apple
   - iOS
   - Help

@@ -10,8 +10,8 @@ title: Trump blustering on about Google
 date: 2018-08-29T08:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Google
+  - Tech
   - Society
   - News
   - Politics

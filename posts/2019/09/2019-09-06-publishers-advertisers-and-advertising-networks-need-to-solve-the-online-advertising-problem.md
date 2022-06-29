@@ -11,10 +11,9 @@ title: >-
   advertising problem
 date: 2019-09-06T06:35:00.000Z
 tags:
-  - Tech
   - Internet
+  - Tech
   - Opinion
-  - Advertising
 ---
 I roughly know how online advertising works. Either an advertiser goes directly to a publisher and negotiates the use of some space on the publisher’s website in which to display an advert, or — perhaps more likely these days — advertisers sign up to advertising networks and publishers do likewise, then the publisher includes the code supplied by the advertising network on their website and the advertising network delivers what it feels are appropriate adverts into the space the publisher has allocated.
 

@@ -12,8 +12,8 @@ description: >-
 title: Why reading beats video for information and instruction
 date: 2018-08-08T10:00:00.000Z
 tags:
-  - Tech
   - Writing
+  - Tech
   - Opinion
 ---
 When I want information or instruction, I want to _read_ it.

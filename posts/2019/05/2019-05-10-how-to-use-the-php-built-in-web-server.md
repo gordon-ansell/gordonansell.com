@@ -10,8 +10,8 @@ _qa: true
 title: How to use the PHP built-in web server
 date: 2019-05-10T04:40:00.000Z
 tags:
-  - Tech
   - PHP
+  - Tech
   - Web Development
   - Help
 ---

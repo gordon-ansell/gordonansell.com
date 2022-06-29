@@ -6,8 +6,8 @@ description: A look at the LiDAR system that comes with some of Apple's latest i
 title: What is the LiDAR system on the iPad all about?
 date: 2020-03-24T11:40:00.000Z
 tags:
-  - Tech
   - iPad
+  - Tech
   - News
   - Apple
 ---

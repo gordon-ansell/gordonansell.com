@@ -9,9 +9,9 @@ description: >-
 title: How to create a dark mode in CSS for your website
 date: 2020-02-06T07:35:00.000Z
 tags:
+  - CSS
   - Tech
   - Web Development
-  - CSS
   - Help
 ---
 Let's face it, dark modes make a lot of people wet their pants these days. In order to assist the underwear laundry industry, I set about investigating how to set up a dark mode on my site via CSS.

@@ -6,7 +6,6 @@ description: >-
   kit that has a relatively small footprint, making it ideal for a home gym.
 tags:
   - Weight Training
-  - Products
   - Review
 excerpt: >-
   __A review of the Powertec Workbench LeverGym__. This is the first bit of

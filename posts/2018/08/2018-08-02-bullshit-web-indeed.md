@@ -9,8 +9,8 @@ title: Bullshit web indeed
 inline: true
 date: 2018-08-02T11:30:00.000Z
 tags:
-  - Tech
   - Privacy
+  - Tech
   - Citation
 externalLink: 'https://pxlnv.com/blog/bullshit-web/'
 citation:

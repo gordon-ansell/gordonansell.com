@@ -14,8 +14,8 @@ leader: >-
   flexibility and more finely-grained filtering. You, rather than the software
   designers, can now choose how you view your projects and tasks.
 tags:
-  - Tech
   - OmniFocus
+  - Tech
   - Review
   - GTD
   - Apple

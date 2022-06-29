@@ -10,10 +10,10 @@ title: Paying off hackers
 inline: true
 date: 2020-07-25T09:40:00.000Z
 tags:
+  - Hacking
   - Tech
   - Security
   - News
-  - Hacking
 ---
 The university at Aberystwyth, which lacks for a few more vowels, [recently lost some data to hackers](https://www.bbc.co.uk/news/uk-wales-53534177).
 

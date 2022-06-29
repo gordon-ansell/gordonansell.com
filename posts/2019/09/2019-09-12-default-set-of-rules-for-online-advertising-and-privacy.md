@@ -11,11 +11,10 @@ description: >-
 title: A default set of rules for online advertising and privacy
 date: 2019-09-12T05:40:00.000Z
 tags:
+  - Privacy
   - Tech
   - Internet
   - Opinion
-  - Advertising
-  - Privacy
 ---
 Further to [my post of a few days ago about online advertising](/publishers-advertisers-and-advertising-networks-need-to-solve-the-online-advertising-problem), I thought I’d knock up some rules for how it _should_ operate.
 

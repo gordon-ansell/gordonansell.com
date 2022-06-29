@@ -9,8 +9,8 @@ title: Ryanair and social distancing
 inline: true
 date: 2020-04-24T09:00:00.000Z
 tags:
-  - Society
   - Coronavirus
+  - Society
   - Companies
 ---
 I neither "moo" nor "baa" so I generally dislike Ryanair, but I tend to agree that [the government's plans for social distancing on an aeroplane](https://www.bbc.co.uk/news/business-52394433) are crap.

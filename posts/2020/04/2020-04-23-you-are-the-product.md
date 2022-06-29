@@ -8,8 +8,8 @@ description: >-
 title: You are the product
 date: 2020-04-23T09:00:00.000Z
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Opinion
   - Google
   - Facebook

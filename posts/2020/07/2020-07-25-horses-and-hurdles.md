@@ -5,8 +5,8 @@ title: Hurdles and horses
 date: 2020-07-25T09:00:00.000Z
 inline: true
 tags:
-  - Misc
   - Sport
+  - Misc
   - Nonsense
 ---
 How is it that hurdlers can knock down a number of hurdles on the way and still be declared winners? The clue about what the participants must do is in the name: they must *hurdle*. If they’re going to allow that, they should rename the event to *the-running-through-planks-of-wood-whilst-occasionally-hurdling-one* race.

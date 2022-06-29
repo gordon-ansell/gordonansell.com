@@ -9,8 +9,8 @@ description: >-
 title: Hearing Direct HD500 hearing aid review
 date: 2019-12-30T09:34:00.000Z
 tags:
-  - Review
   - Hearing
+  - Review
 ratingStars: 4.5
 schema:
   product:

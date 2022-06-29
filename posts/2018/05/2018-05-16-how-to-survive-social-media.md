@@ -9,8 +9,8 @@ description: >-
 title: How to survive social media
 date: 2018-05-16T07:00:00.000Z
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Opinion
   - Twitter
 ---

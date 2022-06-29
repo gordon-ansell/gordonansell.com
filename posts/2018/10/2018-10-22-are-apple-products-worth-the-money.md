@@ -8,8 +8,8 @@ description: >-
 title: Are Apple products worth the money?
 date: 2018-10-22T08:10:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Citation
 externalLink: 'https://9to5mac.com/2018/10/21/do-apple-products-warrant-their-premium-price/'
 citation:

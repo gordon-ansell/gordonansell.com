@@ -9,8 +9,8 @@ title: Is it illegal to do something someone might 'take offence' to?
 date: 2018-05-06T09:50:00.000Z
 inline: true
 tags:
-  - News
   - Society
+  - News
   - Citation
 externalLink: 'http://www.bbc.co.uk/news/uk-england-stoke-staffordshire-43961019'
 citation:

@@ -9,8 +9,8 @@ description: >-
 title: iPhone 11 decisions — upgrading my old iPhone 6
 date: 2019-09-19T08:55:00.000Z
 tags:
-  - Tech
   - iPhone
+  - Tech
   - Opinion
   - Apple
 ---

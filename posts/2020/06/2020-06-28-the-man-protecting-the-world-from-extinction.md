@@ -9,8 +9,8 @@ title: The man protecting the world from extinction
 date: 2020-06-28T09:20:00.000Z
 inline: true
 tags:
-  - Science
   - Astronomy
+  - Science
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/uk-wales-53082475'
 citation:

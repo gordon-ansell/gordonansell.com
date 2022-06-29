@@ -9,8 +9,8 @@ title: Should fully automated AI be allowed?
 date: 2020-05-25T12:20:00.000Z
 inline: true
 tags:
-  - Tech
   - AI
+  - Tech
   - News
   - Citation
 externalLink: >-

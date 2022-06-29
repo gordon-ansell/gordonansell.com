@@ -9,8 +9,8 @@ title: How to actually get work done on an iPad
 date: 2018-04-20T04:25:00.000Z
 inline: true
 tags:
-  - Tech
   - iPad
+  - Tech
   - Citation
 externalLink: 'https://www.engadget.com/2018/04/12/ipad-laptop-replacement/'
 citation:

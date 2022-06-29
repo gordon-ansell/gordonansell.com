@@ -12,8 +12,8 @@ title: >-
   resource busy
 date: 2020-12-04T07:45:00.000Z
 tags:
-  - Tech
   - Linux
+  - Tech
   - CSF
   - Error
   - Help

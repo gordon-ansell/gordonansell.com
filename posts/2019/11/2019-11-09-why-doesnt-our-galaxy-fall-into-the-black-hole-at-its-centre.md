@@ -9,11 +9,10 @@ description: >-
 title: Why doesn't our galaxy fall into the black hole at its centre?
 date: 2019-11-09T20:45:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - Disquisition
   - Astronomy
-  - Black Holes
 ---
 I was asked this question the other day.
 

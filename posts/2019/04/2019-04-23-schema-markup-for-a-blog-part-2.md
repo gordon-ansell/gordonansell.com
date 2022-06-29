@@ -15,10 +15,10 @@ leader: >-
   logical structure. I believe it is important to define schema relationships
   alongside properties.
 tags:
+  - Structured Data
   - Tech
   - Web Development
   - Blogging
-  - Structured Data
   - Help
 excerptImage: /assets/images/posts/2019/04/2019-04-23-schema-icon.png
 ---

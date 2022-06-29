@@ -8,8 +8,8 @@ description: >-
 title: Do patterns in pulsar blips indicate cosmic strings?
 date: 2020-09-30T11:10:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Astronomy
 externalLink: >-

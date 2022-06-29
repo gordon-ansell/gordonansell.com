@@ -10,8 +10,8 @@ description: >-
 title: Five good books I’ve read in 2018
 date: 2018-08-11T07:30:00.000Z
 tags:
-  - Entertainment
   - Books
+  - Entertainment
   - Opinion
 ---
 I read a fair bit. Maybe 40+ books a year, two thirds of which are fiction and the other third are usually science-related non-fiction. I’ve selected five books I’ve read in 2018 so far as my favourites from the fictional part of my reading and I offer brief reviews below. Needless to say I recommend all five books.

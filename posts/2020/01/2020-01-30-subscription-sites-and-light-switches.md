@@ -9,8 +9,8 @@ title: Subscription sites and light switches
 date: 2020-01-30T09:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Google
+  - Tech
   - Nonsense
 ---
 ## Google search and subscription sites

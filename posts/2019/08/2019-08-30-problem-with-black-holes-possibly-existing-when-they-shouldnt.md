@@ -8,10 +8,9 @@ description: >-
 title: Problem with black holes possibly existing when they shouldn’t
 date: 2019-08-30T08:00:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
-  - Black Holes
 externalLink: >-
   https://www.quantamagazine.org/possible-detection-of-a-black-hole-so-big-it-should-not-exist-20190828/
 citation:

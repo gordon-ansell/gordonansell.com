@@ -10,10 +10,10 @@ description: >-
 title: Schema.org for a blog
 date: 2018-10-17T07:15:00.000Z
 tags:
+  - Structured Data
   - Tech
   - Web Development
   - Blogging
-  - Structured Data
   - Help
 ---
 

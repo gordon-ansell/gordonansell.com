@@ -9,9 +9,9 @@ title: Ocado's van colours
 date: 2020-11-16T10:30:00.000Z
 inline: true
 tags:
+  - Nonsense
   - Misc
   - Companies
-  - Nonsense
 ---
 When Ocado tell me my delivery will arrive in the "cabbage" van I look out for a green van rather than the purple van they send.[^1] 
 

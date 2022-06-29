@@ -7,8 +7,8 @@ title: Why does the universe have a cold spot?
 date: 2020-02-11T18:00:00.000Z
 inline: true
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Citation
 externalLink: 'https://physicsworld.com/a/the-enduring-enigma-of-the-cosmic-cold-spot/'

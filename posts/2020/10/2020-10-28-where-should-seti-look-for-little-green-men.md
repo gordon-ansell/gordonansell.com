@@ -9,8 +9,8 @@ description: >-
 title: Where should SETI look for little green men?
 date: 2020-10-28T05:55:00.000Z
 tags:
-  - Science
   - SETI
+  - Science
   - News
 ---
 Scientists at SETI are always refining the way they go about attempting to communicate with aliens. One problem is that there are just too many planets in our galaxy: 100 billion+ by one reasonable estimate. They need to find ways to whittle down the possibilities in order to target the planets where their efforts are likely to be most fruitful.

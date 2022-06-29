@@ -13,8 +13,8 @@ leader: >-
   and you can perform a full range of exercises, including squats, bench presses
   and cable work. Add some dumbbells too and you really are good to go.
 tags:
-  - Weight Training
   - Ironmaster
+  - Weight Training
   - Opinion
   - IM2000
 excerptImage: /assets/images/posts/2018/04/2018-04-11-im2000-summary-image.png

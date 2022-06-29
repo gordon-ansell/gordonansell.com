@@ -18,8 +18,8 @@ leader:
   - Don't reuse passwords or base them on a common root
   - Change them from time-to-time
 tags:
-  - Tech
   - Security
+  - Tech
   - Help
 maths: true
 ---

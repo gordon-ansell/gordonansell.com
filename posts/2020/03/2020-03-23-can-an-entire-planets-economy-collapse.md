@@ -6,8 +6,8 @@ description: >-
 title: Can an entire planet's economy collapse?
 date: 2020-03-23T13:40:00.000Z
 tags:
-  - Society
   - Coronavirus
+  - Society
   - Opinion
 ---
 How does an entire [planet's economy collapse](https://www.bbc.co.uk/news/business-52000219)?

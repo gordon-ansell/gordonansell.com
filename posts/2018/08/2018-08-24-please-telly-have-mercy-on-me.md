@@ -10,8 +10,8 @@ description: >-
 title: 'Please telly, have mercy on me'
 date: 2018-08-24T07:50:00.000Z
 tags:
-  - Entertainment
   - TV
+  - Entertainment
   - Opinion
   - Rant
 ---

@@ -9,8 +9,8 @@ description: >-
 title: 'The truth is out there, maybe'
 date: 2019-09-23T07:40:00.000Z
 tags:
-  - Science
   - SETI
+  - Science
   - Opinion
 ---
 In 1975, astrophysicist Michael Hart released a [paper](http://adsabs.harvard.edu/full/1975QJRAS..16..128H "Read Michael Hart's paper.") suggesting that the most plausible reason we haven’t found life elsewhere — or been visited by life from somewhere else — is that it simply doesn’t exist. 

@@ -9,8 +9,8 @@ feed: false
 title: The psychiatrist problem
 date: 2020-05-18T09:20:00.000Z
 tags:
-  - Personal
   - Mental Health
+  - Personal
   - Disquisition
   - Psychology
 ---

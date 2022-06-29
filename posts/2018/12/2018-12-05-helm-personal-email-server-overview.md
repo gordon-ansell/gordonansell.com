@@ -11,8 +11,8 @@ title: Helm Personal Email Server overview
 date: 2018-12-05T12:05:00.000Z
 inline: true
 tags:
-  - Tech
   - Email
+  - Tech
   - Citation
 externalLink: >-
   https://arstechnica.com/gadgets/2018/12/review-helm-personal-server-gets-email-self-hosting-almost-exactly-right/

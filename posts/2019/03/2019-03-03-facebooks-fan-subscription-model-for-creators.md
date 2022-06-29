@@ -10,8 +10,8 @@ description: >-
 title: Facebook's fan subscription model for creators
 date: 2019-03-03T07:30:00.000Z
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media

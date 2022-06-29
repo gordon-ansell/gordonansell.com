@@ -8,8 +8,8 @@ description: >-
 title: Harsh action proposed against Facebook
 date: 2020-12-10T06:30:00.000Z
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Social Media
 ---

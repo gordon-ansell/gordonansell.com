@@ -9,8 +9,8 @@ title: Prospect theory still holds
 date: 2020-05-22T12:10:00.000Z
 inline: true
 tags:
-  - Society
   - Mathematics
+  - Society
   - Science
   - News
   - Citation

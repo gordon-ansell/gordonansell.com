@@ -8,8 +8,8 @@ description: >-
 title: Five sigma — a simple explanation
 date: 2019-09-30T10:55:00.000Z
 tags:
-  - Science
   - Mathematics
+  - Science
   - Help
 excerptImage: /assets/images/posts/2019/09/2019-09-30-5sigma-icon.png
 ---

@@ -9,8 +9,9 @@ title: Ong’s Hat - a fascinating conspiracy game from the early internet
 date: 2019-02-22T08:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Nonsense
+  - Science
+  - Tech
   - Citation
 externalLink: >-
   http://www.gizmodo.co.uk/2019/02/ongs-hat-the-early-internet-conspiracy-game-that-got-too-real/

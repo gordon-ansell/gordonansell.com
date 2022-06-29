@@ -9,8 +9,8 @@ title: Ransom fees paid to hackers
 date: 2019-06-26T11:30:00.000Z
 inline: true
 tags:
-  - Tech
   - Hacking
+  - Tech
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/technology-48770128'

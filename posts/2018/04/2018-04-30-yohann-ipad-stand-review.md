@@ -15,8 +15,8 @@ leader: >-
   function. They accommodate the Apple Pencil too. Maybe just a little light if
   I had to pick a criticism.
 tags:
-  - Tech
   - iPad
+  - Tech
   - Review
 ratingStars: 4
 schema:

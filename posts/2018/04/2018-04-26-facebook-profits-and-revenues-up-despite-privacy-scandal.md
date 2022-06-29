@@ -9,8 +9,8 @@ title: Facebook profits and revenues up despite privacy scandal
 date: 2018-04-26T07:50:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media

@@ -8,8 +8,8 @@ description: >-
 title: Sonos and TuneIn radio
 date: 2019-02-20T10:35:00.000Z
 tags:
-  - Tech
   - Music
+  - Tech
   - Help
 ---
 Sonos hardware is pretty good but the software can sometimes have me tearing what’s left of my hair out. Rarely do I take a software update without something going wrong. Usually it fails to find either a speaker or my Connect (which drives Sonos stuff via my amp through my main speakers). I usually just faff around rebooting routers and Sonos devices for a few days until it decides to eventually find my devices.

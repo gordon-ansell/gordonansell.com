@@ -9,11 +9,11 @@ description: >-
 title: Panic to release Coda replacement
 date: 2019-03-15T10:00:00.000Z
 tags:
+  - macOS
   - Tech
   - News
   - Web Development
   - Apple
-  - macOS
   - iOS
 ---
 [Panic have announced](https://panic.com/next/) where they’re going next with their web development software, Coda.

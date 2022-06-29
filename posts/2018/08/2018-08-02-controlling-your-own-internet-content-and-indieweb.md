@@ -12,8 +12,8 @@ description: >-
 title: Controlling your own creative content and IndieWeb
 date: 2018-08-02T10:20:00.000Z
 tags:
-  - Tech
   - Blogging
+  - Tech
   - Opinion
   - Social Media
   - Web Development

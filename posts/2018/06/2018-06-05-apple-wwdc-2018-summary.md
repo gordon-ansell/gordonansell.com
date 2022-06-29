@@ -9,8 +9,8 @@ title: Apple WWDC 2018 summary
 date: 2018-06-05T11:09:00.000Z
 inline: true
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
   - Citation
   - iOS

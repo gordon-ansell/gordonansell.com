@@ -9,8 +9,8 @@ title: Zuckerberg suddenly embraces privacy
 date: 2019-03-07T16:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media

@@ -9,8 +9,8 @@ description: >-
 title: Apple AirTags — what do we know?
 date: 2020-02-25T08:40:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - iOS
 ---

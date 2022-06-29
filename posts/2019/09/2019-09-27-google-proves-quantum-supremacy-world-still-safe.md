@@ -9,8 +9,8 @@ title: Google proves quantum supremacy — world still safe
 date: 2019-09-27T16:30:00.000Z
 inline: true
 tags:
-  - Tech
   - Google
+  - Tech
   - News
   - Citation
   - Companies

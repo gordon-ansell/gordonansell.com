@@ -9,9 +9,9 @@ title: Today is World Egg Day
 date: 2019-10-11T09:15:00.000Z
 inline: true
 tags:
+  - Eggs
   - News
   - Nonsense
-  - Eggs
 ---
 ![A fried egg.](/assets/images/posts/2019/10/2019-10-11-fried-egg.jpg "class=s33 right|@itemprop=image")
 

@@ -11,6 +11,7 @@ description: >-
 title: Priti Patel pushes for weakened encryption
 date: 2019-08-02T08:50:00.000Z
 tags:
+  - Privacy
   - Tech
   - Security
   - News

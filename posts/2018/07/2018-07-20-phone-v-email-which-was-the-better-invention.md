@@ -6,8 +6,8 @@ description: >-
 title: Phone v email - which was the better invention?
 date: 2018-07-20T06:44:00.000Z
 tags:
-  - Tech
   - Email
+  - Tech
   - Opinion
 ---
 I’m told I have a strange relationship with phones. Apparently most people have an automatic compulsion to answer a phone that’s ringing, whereas my automatic compulsion is to ignore it. Unless I’m expecting a particularly important or scheduled call, I generally don’t answer the phone. That’s true even if it’s a recognisable number  from a friend.

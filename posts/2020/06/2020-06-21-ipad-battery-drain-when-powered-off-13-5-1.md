@@ -6,8 +6,8 @@ description: >-
 title: 'iPad battery drain when powered off (iPadOS 13.5.1, maybe)'
 date: 2020-06-21T09:15:00.000Z
 tags:
-  - Tech
   - iPad
+  - Tech
   - Opinion
   - iPadOS
   - Apple

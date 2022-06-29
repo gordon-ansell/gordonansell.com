@@ -12,8 +12,8 @@ leader: >-
   entertainment.
 date: 2019-10-14T10:30:00.000Z
 tags:
-  - Review
   - Local
+  - Review
 ratingStars: 4
 schema:
   product:

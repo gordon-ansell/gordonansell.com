@@ -9,8 +9,8 @@ description: >-
 title: 'Apple’s 2019 WWDC — iPadOS, Apple ID and macOS Catalina'
 date: 2019-06-13T05:15:00.000Z
 tags:
-  - News
   - Apple
+  - News
   - macOS
   - iPadOS
   - iOS

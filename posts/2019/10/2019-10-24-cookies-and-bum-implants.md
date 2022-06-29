@@ -9,9 +9,9 @@ title: Cookies and bum implants
 date: 2019-10-24T09:00:00.000Z
 inline: true
 tags:
+  - Privacy
   - Tech
   - Nonsense
-  - Privacy
 ---
 ## Cookie monsters
 

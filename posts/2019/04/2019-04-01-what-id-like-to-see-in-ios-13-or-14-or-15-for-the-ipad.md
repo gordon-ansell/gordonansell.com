@@ -9,8 +9,8 @@ description: >-
 title: What I’d like to see in iOS 13 (or 14 or 15) for the iPad
 date: 2019-04-01T11:55:00.000Z
 tags:
-  - Tech
   - iOS
+  - Tech
   - Opinion
   - iPad
   - Apple

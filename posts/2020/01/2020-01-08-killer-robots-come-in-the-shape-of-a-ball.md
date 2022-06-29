@@ -9,8 +9,8 @@ title: Killer robots come in the shape of a ball
 date: 2020-01-08T10:10:00.000Z
 inline: true
 tags:
-  - Tech
   - Gadgets
+  - Tech
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/technology-51003392'

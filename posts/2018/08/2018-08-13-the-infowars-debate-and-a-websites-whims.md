@@ -10,8 +10,8 @@ description: >-
 title: The Infowars debate and a website's whims
 date: 2018-08-13T07:30:00.000Z
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Opinion
 ---
 I’m a bit bemused by some aspects of the Infowars debate. Many sites have of course pulled the plug on Infowars but [Twitter seems to be holding out on free speech grounds](https://www.bbc.co.uk/news/technology-45144098).

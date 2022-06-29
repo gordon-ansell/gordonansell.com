@@ -10,8 +10,8 @@ title: Today is Pi Day
 date: 2019-03-14T10:30:00.000Z
 inline: true
 tags:
-  - Tech
   - Mathematics
+  - Tech
   - Science
   - News
   - Citation

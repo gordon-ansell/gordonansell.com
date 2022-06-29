@@ -9,8 +9,8 @@ title: Donkey Kong court case
 date: 2019-09-13T09:00:00.000Z
 inline: true
 tags:
-  - Tech
   - Games
+  - Tech
   - News
   - Citation
 externalLink: >-

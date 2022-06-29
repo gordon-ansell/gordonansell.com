@@ -12,10 +12,10 @@ description: >-
 title: Switching from a MacBook Pro to an iPad Pro
 date: 2018-03-19T10:00:00.000Z
 tags:
+  - iPad
   - Tech
   - MacBook
   - Opinion
-  - iPad
   - Apple
 ---
 Since the release of iOS 11 and the 2017 generation of iPad Pros I’ve been wondering about making the move to an iPad as my ‘main’ computing device. I currently have an early 2013 MacBook Pro and, whilst it has been awesome for 99.9% of the time, I did have a few keyboard issues last year. Those issues cleared up but it did make me consider the possibility that I’d need a new computer at some point, so I’ve spent the last six months or so thinking about it, and in particular thinking about whether an iPad is suitable as a primary computer.

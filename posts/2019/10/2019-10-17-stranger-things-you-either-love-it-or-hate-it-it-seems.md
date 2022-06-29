@@ -13,8 +13,8 @@ leader: >-
   feel of it — it becomes very addictive.
 date: 2019-10-17T05:55:00.000Z
 tags:
-  - Entertainment
   - TV
+  - Entertainment
   - Review
 ratingStars: 4.5
 schema:

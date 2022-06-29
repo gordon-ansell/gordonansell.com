@@ -9,8 +9,8 @@ title: Avoid big tech silos for your services
 date: 2019-02-16T08:45:00.000Z
 inline: true
 tags:
-  - Tech
   - Social Media
+  - Tech
   - News
   - Citation
 externalLink: 'http://cdevroe.com/2019/02/13/kafka-verizon/'

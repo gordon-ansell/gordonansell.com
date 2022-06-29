@@ -9,8 +9,8 @@ description: >-
 title: Brexit demystified
 date: 2019-04-03T10:10:00.000Z
 tags:
-  - Society
   - Politics
+  - Society
   - Opinion
 ---
 **Disclaimer**: I’m basing this post on maybe 15-20 friends whose 2016 referendum voting patterns and Brexit opinions I know. It’s not a huge sample size of course but it is roughly split between Leavers and Remainers.

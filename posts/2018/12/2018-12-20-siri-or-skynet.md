@@ -10,10 +10,10 @@ description: >-
 title: Siri or Skynet?
 date: 2018-12-20T06:20:00.000Z
 tags:
+  - HomePod
   - Tech
   - Apple
   - Opinion
-  - HomePod
 ---
 A few months ago I bought a HomePod, more out of curiosity than to fulfil any particular use case I had in mind. From my research ahead of buying, I think Amazon’s Alexa is ahead of Apple at the moment, having a greater number of devices to integrate with and a brain that’s a bit more intelligent, but all my IT infrastructure at home is Apple-based and I’d back Apple to catch up with Amazon eventually.
 

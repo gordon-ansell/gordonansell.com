@@ -9,8 +9,8 @@ description: >-
 title: Will hacking one day be an act of war?
 date: 2020-09-25T09:25:00.000Z
 tags:
-  - Society
   - Hacking
+  - Society
   - Opinion
 ---
 The BBC has a video about the potential effects of a cyber-attack (see below). The video addresses the idea that cyber-attackers could be murderers, and they refer to a case in Germany where a hospital patient died due to a cyber attack. 

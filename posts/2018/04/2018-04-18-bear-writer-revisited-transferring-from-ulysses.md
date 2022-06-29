@@ -9,8 +9,8 @@ description: >-
 title: Bear Writer revisited - transferring from Ulysses
 date: 2018-04-18T05:32:00.000Z
 tags:
-  - Tech
   - Bear
+  - Tech
   - Ulysses
   - Apple
   - GTD

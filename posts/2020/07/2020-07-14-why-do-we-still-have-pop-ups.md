@@ -9,10 +9,10 @@ description: >-
 title: Why do we still have pop-ups?
 date: 2020-07-14T08:45:00.000Z
 tags:
+  - Privacy
   - Tech
   - Internet
   - Opinion
-  - Privacy
 ---
 Imagine if you walked into a shop and the first thing you were confronted with was a sales rep with a placard asking if you wanted to sign up for their catalogue. Said sales rep blocks your path into the shop until you either say yes or no to them.
 

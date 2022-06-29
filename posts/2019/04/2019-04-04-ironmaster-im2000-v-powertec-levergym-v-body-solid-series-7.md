@@ -10,8 +10,8 @@ description: >-
 title: Ironmaster IM2000 v Powertec LeverGym v Body-Solid Series 7
 date: 2019-04-04T16:50:00.000Z
 tags:
-  - Weight Training
   - Ironmaster
+  - Weight Training
   - Opinion
   - IM2000
   - Smith Machine

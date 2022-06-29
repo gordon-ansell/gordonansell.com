@@ -12,8 +12,8 @@ description: >-
 title: Infernal Windows 10 updates
 date: 2018-06-04T11:33:00.000Z
 tags:
-  - Tech
   - Windows
+  - Tech
   - Opinion
   - Rant
 ---

@@ -9,8 +9,8 @@ title: BBC licence fee and banging MPs
 date: 2020-02-05T09:00:00.000Z
 inline: true
 tags:
-  - Society
   - TV
+  - Society
   - Entertainment
 ---
 ## BBC licence fee decriminalisation

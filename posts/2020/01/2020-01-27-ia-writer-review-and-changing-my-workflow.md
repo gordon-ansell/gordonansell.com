@@ -14,8 +14,8 @@ leader: >-
   distraction-free writing. There's little to criticise. More export options
   would be useful it's otherwise a fine application.
 tags:
-  - Tech
   - iA Writer
+  - Tech
   - Review
   - Apple
   - macOS

@@ -9,8 +9,8 @@ maths: true
 title: The 1927 Solvay Conference — perhaps the greatest ever meeting of minds
 date: 2019-07-18T08:20:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Disquisition
 ---
 Back in the late 19th century a lot of scientists thought physics was almost over. They thought most of the big stuff had been figured out and only a few details remained.

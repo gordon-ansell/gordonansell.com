@@ -13,8 +13,8 @@ leader: >-
   here. I can see little to recommend this film.
 date: 2019-04-22T12:40:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 excerptImage: /assets/images/posts/2019/04/2019-04-22-serpent-film.jpg
 ratingStars: 1.5

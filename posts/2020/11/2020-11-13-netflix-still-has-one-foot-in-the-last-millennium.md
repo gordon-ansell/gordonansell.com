@@ -9,10 +9,10 @@ description: >-
 title: Netflix still has one foot in the last millennium
 date: 2020-11-13T07:55:00.000Z
 tags:
+  - Netflix
   - Entertainment
   - TV
   - Opinion
-  - Netflix
 ---
 ![Netflix logo.](/assets/images/posts/2020/11/2020-11-13-netflix-logo.png "class=s33 right|@itemprop=image")
 The first thing I can remember watching on television was the test card, circa late 1960s. I can even remember the music that accompanied it, although I don't know its title. It went: dum dum du-du-du-du-dum, duh-dum dum du-duuum. I remember thinking the clown doll the girl on the test card was playing noughts and crosses against was quite horrific. I was not a simpleton who habitually watched test cards, I was waiting for Thunderbirds to start.

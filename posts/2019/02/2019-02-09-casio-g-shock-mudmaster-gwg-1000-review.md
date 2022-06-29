@@ -13,8 +13,8 @@ leader: >-
   watch from Casio. For me, it was let down by a pitiful alarm and smaller
   displays that were extremely difficult to read.
 tags:
-  - Review
   - Watches
+  - Review
 ratingStars: 3
 schema:
   product:

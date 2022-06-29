@@ -8,8 +8,8 @@ description: >-
 title: Title case v sentence case
 date: 2019-04-25T07:35:00.000Z
 tags:
-  - Opinion
   - Writing
+  - Opinion
   - Blogging
 excerptImage: /assets/images/posts/2019/04/2019-04-25-title-case-v-sentence-case.png
 ---

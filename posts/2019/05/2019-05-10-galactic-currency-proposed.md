@@ -9,9 +9,9 @@ title: Galactic currency proposed
 date: 2019-05-10T21:00:00.000Z
 inline: true
 tags:
+  - Science
   - Tech
   - Physics
-  - Science
   - News
   - Citation
 externalLink: >-

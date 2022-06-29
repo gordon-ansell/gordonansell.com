@@ -9,8 +9,8 @@ title: Why do films get mental health so wrong?
 date: 2019-08-04T09:55:00.000Z
 inline: true
 tags:
-  - Opinion
   - Mental Health
+  - Opinion
   - Citation
 externalLink: >-
   https://www.huffingtonpost.co.uk/entry/midsommar-slammed-for-villainising-bipolar-disorder-heres-why-its-problematic_uk_5d2709a8e4b0583e482c8699?utm_hp_ref=uk-mental-health

@@ -9,8 +9,8 @@ title: Why do bats live so long?
 date: 2019-06-10T17:00:00.000Z
 inline: true
 tags:
-  - Science
   - Zoology
+  - Science
   - News
   - Citation
 externalLink: >-

@@ -11,8 +11,8 @@ title: 'A 15,000 page mathematical proof'
 inline: true
 date: 2020-10-16T16:50:00.000Z
 tags:
-  - Science
   - Mathematics
+  - Science
 ---
 I clearly have too much time on my hands because I end up reading some strange things. The particular thing I’m talking about here is the *Classification Theorem of the Finite Simple Groups*, which I’m sure you’re familiar with. I mean, who isn’t?
 

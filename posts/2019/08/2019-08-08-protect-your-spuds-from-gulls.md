@@ -9,8 +9,8 @@ title: Protect your spuds from gulls
 date: 2019-08-08T08:15:00.000Z
 inline: true
 tags:
-  - Science
   - Zoology
+  - Science
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/uk-49261385'

@@ -9,8 +9,8 @@ title: ICANN under pressure over the sale of the .org top-level domain
 date: 2020-04-17T19:30:00.000Z
 inline: true
 tags:
-  - Tech
   - Internet
+  - Tech
   - News
   - Citation
 externalLink: >-

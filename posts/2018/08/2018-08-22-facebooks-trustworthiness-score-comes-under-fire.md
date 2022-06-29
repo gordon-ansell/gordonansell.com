@@ -9,8 +9,8 @@ title: Facebook’s ’trustworthiness’ score comes under fire
 date: 2018-08-22T08:05:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media

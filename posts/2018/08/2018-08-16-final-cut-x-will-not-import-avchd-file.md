@@ -9,9 +9,9 @@ description: >-
 title: Final Cut X will not import AVCHD file
 date: '2018-08-16 08:50:00 +0100'
 tags:
+  - Apple
   - Tech
   - macOS
-  - Apple
   - Error
   - Help
 ---

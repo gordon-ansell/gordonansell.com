@@ -9,8 +9,8 @@ title: 'Lies, damn lies and 36 alien civilisations'
 date: 2020-06-19T14:30:00.000Z
 inline: true
 tags:
-  - Science
   - SETI
+  - Science
   - News
   - Citation
 externalLink: 'https://www.wired.com/story/the-trouble-with-counting-aliens/'

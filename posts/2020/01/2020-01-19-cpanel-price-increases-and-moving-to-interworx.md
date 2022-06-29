@@ -8,8 +8,8 @@ description: >-
 title: cPanel’s price increases and moving to Interworx
 date: 2020-01-19T07:15:00.000Z
 tags:
-  - Tech
   - Interworx
+  - Tech
   - cPanel
   - Help
 ---

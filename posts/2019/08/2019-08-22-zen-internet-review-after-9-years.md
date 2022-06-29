@@ -13,9 +13,9 @@ leader: >-
 title: Zen Internet review after 9 years
 date: 2019-08-22T10:15:00.000Z
 tags:
+  - Internet
   - Tech
   - Review
-  - Internet
 excerptImage: /assets/images/posts/2019/08/2019-08-22-zen-logo-icon.png
 ratingStars: 4
 schema:

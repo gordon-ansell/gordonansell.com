@@ -9,8 +9,8 @@ title: People are nuts about Fortnite
 date: 2018-12-23T09:10:00.000Z
 inline: true
 tags:
-  - Tech
   - Games
+  - Tech
   - News
   - Citation
 externalLink: >-

@@ -11,8 +11,8 @@ description: >-
 title: Depression and the importance of trusting someone
 date: 2018-07-20T07:15:00.000Z
 tags:
-  - Personal
   - Mental Health
+  - Personal
   - Opinion
 ---
 [//]: # (@simpleimg | /assets/images/posts/2018/07/2018-07-20-depression.png | alt=Depression icon. | @itemprop=image )

@@ -5,8 +5,8 @@ title: Don’t trust your nadgers to the Internet of Things
 date: 2020-10-06T17:20:00.000Z
 inline: true
 tags:
-  - Tech
   - Nonsense
+  - Tech
 externalLink: >-
   https://www.theverge.com/2020/10/6/21504019/internet-enabled-male-chastity-cage-cellmate-qiui-security-flaw-remotely-locked
 citation:

@@ -17,8 +17,8 @@ leader: >-
   the Super Bench. I don't think it quite lives up to Ironmaster's usual quality
   and attention to detail though.
 tags:
-  - Weight Training
   - Ironmaster
+  - Weight Training
   - Review
 ratingStars: 3.5
 schema:

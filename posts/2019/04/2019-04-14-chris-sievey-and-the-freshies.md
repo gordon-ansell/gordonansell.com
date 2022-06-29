@@ -8,8 +8,8 @@ description: >-
 title: Chris Sievey and The Freshies
 date: 2019-04-14T20:30:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Opinion
 ---
 Not many people had heard of The Freshies back in the 70s and early 80s. 

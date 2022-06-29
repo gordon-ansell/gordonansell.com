@@ -16,10 +16,9 @@ leader: >-
   excellent and it would be hard to find better for the price. Some users might
   find prefer a bench with a fixed, adjustable seat.
 tags:
-  - Weight Training
   - Ironmaster
+  - Weight Training
   - Review
-  - Products
 ratingStars: 4
 schema:
   product:

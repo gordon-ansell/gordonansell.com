@@ -9,10 +9,10 @@ description: >-
 title: Why does nature bother having a universe?
 date: 2020-04-26T06:15:00.000Z
 tags:
+  - Physics
   - Science
   - Cosmology
   - Disquisition
-  - Physics
 ---
 Nature is symmetrical in many ways. Take for example your typical atom. You have negatively charged electrons orbiting positively charged protons. Could the opposite happen? Could you have positively charged electrons orbiting negatively charged protons? Yes, you could. A positively charged electron is called a *positron* and a negatively charged proton is called an *antiproton*. Put these two together and you get *antimatter*.
 

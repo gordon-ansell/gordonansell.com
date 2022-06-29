@@ -5,10 +5,10 @@ description: >-
   Why I chose to use Jekyll, a static blog generation app, to power this site
   rather than something like Wordpress.
 tags:
+  - Jekyll
   - Tech
   - Blogging
   - Opinion
-  - Jekyll
   - Web Development
 excerpt: >-
   __My reasoning behind using Jekyll to power this site__. I've used Wordpress

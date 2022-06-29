@@ -13,8 +13,8 @@ description: >-
 title: The Drake equation and the search for ET
 date: 2018-05-28T08:11:00.000Z
 tags:
-  - Science
   - SETI
+  - Science
   - Disquisition
 maths: true
 ---

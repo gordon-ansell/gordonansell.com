@@ -13,7 +13,6 @@ tags:
   - Philosophy
   - Science
   - Disquisition
-  - Conspiracy Theory
 ---
 I often worry that humanity is going backwards. We struggle to divest ourselves of superstition and misinformation and it sometimes looks as if that's getting worse.
 

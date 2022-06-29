@@ -9,8 +9,8 @@ title: Apple's 12 September 2018 event
 date: 2018-09-13T07:45:00.000Z
 inline: true
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
   - Citation
 externalLink: >-

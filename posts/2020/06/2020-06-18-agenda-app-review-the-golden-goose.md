@@ -14,7 +14,6 @@ leader: >-
   simply taking notes.
 tags:
   - Tech
-  - Agenda
   - Review
   - Apple
   - macOS

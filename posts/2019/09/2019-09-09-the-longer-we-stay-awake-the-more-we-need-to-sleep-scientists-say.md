@@ -9,8 +9,8 @@ title: 'The longer we stay awake, the more we need to sleep, scientists say'
 date: 2019-09-09T08:35:00.000Z
 inline: true
 tags:
-  - Science
   - Biology
+  - Science
   - Citation
 externalLink: >-
   https://www.quantamagazine.org/snipp-proteins-may-point-to-why-we-get-sleepy-20180821

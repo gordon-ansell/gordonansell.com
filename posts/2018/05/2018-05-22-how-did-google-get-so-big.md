@@ -9,8 +9,8 @@ title: How did Google get so big?
 date: 2018-05-22T09:16:00.000Z
 inline: true
 tags:
-  - Tech
   - Google
+  - Tech
   - Citation
   - Companies
 externalLink: 'https://www.cbsnews.com/news/how-did-google-get-so-big/'

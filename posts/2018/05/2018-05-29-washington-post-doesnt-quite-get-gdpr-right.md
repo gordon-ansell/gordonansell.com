@@ -12,8 +12,8 @@ description: >-
 title: Washington Post doesn’t quite get GDPR right
 date: 2018-05-29T09:38:00.000Z
 tags:
-  - Tech
   - Privacy
+  - Tech
   - Opinion
 ---
 If you live in the EU and you’ve blazed through the last few weeks without coming into contact with [GDPR](https://en.m.wikipedia.org/wiki/General_Data_Protection_Regulation) then you simply can’t be online. At all. Most of us with any sort of online life have been plagued with compliance emails leading up to May 25th when GDPR went live.

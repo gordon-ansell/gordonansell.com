@@ -10,8 +10,8 @@ excerptImage: /assets/images/posts/2018/03/2018-03-19-rebel-rebel.png
 title: Rebel Rebel - a fantastic recording by Bowie
 date: 2018-03-19T07:45:00.000Z
 tags:
-  - Entertainment
   - Music
+  - Entertainment
   - Review
 ratingStars: 5
 schema:

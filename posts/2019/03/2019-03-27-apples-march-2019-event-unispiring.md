@@ -9,8 +9,8 @@ description: >-
 title: Apple’s March 2019 event uninspiring
 date: 2019-03-27T05:45:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
 ---
 I tend to agree with [a post by Ben Lovejoy on 9To5Mac](https://9to5mac.com/2019/03/26/yesterdays-apple-event/). The announcements from Apple’s March 2019 event failed to excite me too.

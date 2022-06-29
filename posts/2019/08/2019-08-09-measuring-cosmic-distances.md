@@ -11,8 +11,8 @@ description: >-
 title: Measuring cosmic distances
 date: 2019-08-09T11:00:00.000Z
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Astronomy
 ---

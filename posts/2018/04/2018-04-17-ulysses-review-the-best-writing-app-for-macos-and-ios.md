@@ -15,8 +15,8 @@ leader: >-
   Markdown-based writing app it's second to none in my opinion and well worth
   the price of the subscription.
 tags:
-  - Tech
   - Ulysses
+  - Tech
   - Review
   - Apple
   - GTD

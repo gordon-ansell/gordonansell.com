@@ -9,11 +9,11 @@ title: The hellish Netflix work environment
 date: 2018-10-30T08:20:00.000Z
 inline: true
 tags:
+  - Netflix
   - Tech
   - Companies
   - News
   - Citation
-  - Netflix
 externalLink: 'http://www.gizmodo.co.uk/2018/10/working-at-netflix-sounds-like-hell/'
 citation:
   title: Working at Netflix Sounds Like Hell

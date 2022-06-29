@@ -8,6 +8,7 @@ description: >-
 title: Ring doorbell and third-party trackers
 date: 2020-01-31T08:20:00.000Z
 tags:
+  - Privacy
   - Tech
   - Companies
   - News

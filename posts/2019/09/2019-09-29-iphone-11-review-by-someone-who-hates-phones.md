@@ -14,8 +14,8 @@ leader: >-
   luxury, but a lovely one to own.
 ratingStars: 4.5
 tags:
-  - Tech
   - iPhone
+  - Tech
   - Review
   - Apple
 schema:

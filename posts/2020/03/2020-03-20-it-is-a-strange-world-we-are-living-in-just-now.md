@@ -6,8 +6,8 @@ description: Just some fairly pointless thoughts about the current coronavirus s
 title: It's a strange world we're living in just now
 date: 2020-03-20T19:00:00.000Z
 tags:
-  - Society
   - Coronavirus
+  - Society
   - Opinion
 ---
 It's a strange world we're living in just now. We're all sat around socially distancing from others and trying to avoid this coronavirus malarkey. As far as I understand it, it's a fairly mild illness if you're not in an at-risk group and certainly milder than standard flu. Flu, it seems, would have an equal or worse fatality rate if it wasn't for the flu jab. The problem is we don't have an antiviral for COVID-19. 

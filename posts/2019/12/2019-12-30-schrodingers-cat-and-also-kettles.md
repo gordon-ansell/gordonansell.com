@@ -10,8 +10,8 @@ description: >-
 title: Schrödinger's cat and also kettles
 date: 2019-12-30T09:00:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Disquisition
 ---
 This is a tricky one to explain simply.

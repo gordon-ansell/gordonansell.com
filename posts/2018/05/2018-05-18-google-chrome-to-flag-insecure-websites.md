@@ -9,6 +9,7 @@ title: Google Chrome to flag insecure websites
 date: 2018-05-18T12:10:00.000Z
 inline: true
 tags:
+  - Google
   - Tech
   - News
   - Citation

@@ -9,8 +9,8 @@ title: Twitter finally takes some (minimal) action against Infowars
 date: 2018-08-15T08:05:00.000Z
 inline: true
 tags:
-  - Tech
   - Twitter
+  - Tech
   - News
   - Citation
   - Social Media

@@ -9,8 +9,8 @@ title: Bond to premier on Apple TV or Netflix?
 date: 2020-10-23T18:40:00.000Z
 inline: true
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - News
   - TV
 ---

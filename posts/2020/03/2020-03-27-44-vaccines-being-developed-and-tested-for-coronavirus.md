@@ -9,8 +9,8 @@ title: 44 vaccines being developed and tested for coronavirus
 date: 2020-03-27T08:10:00.000Z
 inline: true
 tags:
-  - Society
   - Coronavirus
+  - Society
   - News
   - Citation
 externalLink: 'https://www.wired.co.uk/article/coronavirus-vaccine-trials'

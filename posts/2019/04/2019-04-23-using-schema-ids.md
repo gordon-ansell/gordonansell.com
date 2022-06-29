@@ -8,8 +8,8 @@ description: >-
 title: Using schema @IDs
 date: 2019-04-23T10:50:00.000Z
 tags:
-  - Tech
   - Web Development
+  - Tech
   - Structured Data
   - Help
 ---

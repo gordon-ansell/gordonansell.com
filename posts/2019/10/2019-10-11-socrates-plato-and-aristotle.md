@@ -9,8 +9,8 @@ description: >-
 title: 'Socrates, Plato and Aristotle'
 date: 2019-10-11T07:30:00.000Z
 tags:
-  - Disquisition
   - Philosophy
+  - Disquisition
 ---
 Out of nothing other than interest, I wanted to write an overview of Socrates, Plato and Aristotle, arguably the three most influential philosophers in history. 
 

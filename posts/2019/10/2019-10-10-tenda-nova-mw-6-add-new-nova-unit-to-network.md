@@ -9,7 +9,6 @@ title: Tenda Nova MW-6 — add new Nova unit to network
 date: 2019-10-10T17:15:00.000Z
 tags:
   - Tech
-  - Tenda Nova
   - Help
 ---
 In general, I like the Tenda Nova MW-6 wireless mesh system. It manages to get wi-fi into all the rooms in my flat even through fairly thick walls. It even powers our CCTV comms and the Nova unit for that is stuck inside a cupboard in the building’s foyer, a number of thick walls away from the base unit in my living room.

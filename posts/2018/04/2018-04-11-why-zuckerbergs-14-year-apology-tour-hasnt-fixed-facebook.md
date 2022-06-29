@@ -7,8 +7,8 @@ title: Why Zuckerberg's 14-Year apology tour hasn't fixed Facebook
 date: 2018-04-11T10:40:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media

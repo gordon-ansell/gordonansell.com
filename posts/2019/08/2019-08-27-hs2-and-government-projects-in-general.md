@@ -9,8 +9,8 @@ title: HS2 and government projects in general
 date: 2019-08-27T09:30:00.000Z
 inline: true
 tags:
-  - Society
   - Politics
+  - Society
   - Opinion
 ---
 Has there ever been a major government project that was overestimated in terms of time and budget? If there has, I can’t remember it. It seems to me government projects are always underestimated and I note the [HS2 project is now suffering the same fate](https://www.bbc.co.uk/news/business-49450297 "Read the BBC's article about HS2.").

@@ -9,8 +9,8 @@ title: Astronomers discover a star travelling at 3.7 million MPH
 date: 2019-11-14T18:50:00.000Z
 inline: true
 tags:
-  - Science
   - Astronomy
+  - Science
   - News
   - Citation
 externalLink: >-

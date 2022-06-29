@@ -6,7 +6,6 @@ description: >-
   Smith machine, high/low pulley, pec deck, bench and free weight gun-rack.
 tags:
   - Weight Training
-  - Products
   - Review
   - Smith Machine
   - Rack

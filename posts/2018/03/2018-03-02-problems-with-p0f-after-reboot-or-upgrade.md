@@ -6,8 +6,8 @@ description: >-
   How to fix the 'p0f appears to be down' message that sometimes occurs on
   cPanel systems after an upgrade or reboot.
 tags:
-  - Tech
   - cPanel
+  - Tech
   - Linux
   - Help
 leader: >-

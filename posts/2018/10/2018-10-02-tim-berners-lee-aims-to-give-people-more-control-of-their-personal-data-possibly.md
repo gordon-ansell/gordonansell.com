@@ -10,8 +10,8 @@ title: >-
   possibly
 date: 2018-10-02T19:40:00.000Z
 tags:
-  - Tech
   - Privacy
+  - Tech
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/technology-45706429'

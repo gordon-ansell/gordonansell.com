@@ -8,8 +8,8 @@ description: >-
 title: 'Trump, Twitter and Facebook'
 date: 2020-05-30T08:00:00.000Z
 tags:
-  - Society
   - Social Media
+  - Society
   - News
   - Twitter
   - Facebook

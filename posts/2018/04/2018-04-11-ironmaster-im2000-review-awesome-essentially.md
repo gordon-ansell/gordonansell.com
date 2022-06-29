@@ -16,8 +16,8 @@ leader: >-
   footprint yet it contains a Smith machine, pulley system and supports
   free-weight exercises. Great build quality too.
 tags:
-  - Weight Training
   - Ironmaster
+  - Weight Training
   - Review
   - IM2000
   - Smith Machine

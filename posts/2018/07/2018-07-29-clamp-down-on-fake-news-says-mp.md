@@ -9,9 +9,9 @@ title: 'Clamp down on fake news, says MP'
 date: 2018-07-29T10:45:00.000Z
 inline: true
 tags:
+  - Society
   - Tech
   - Social Media
-  - Society
   - News
   - Citation
   - Facebook

@@ -5,8 +5,8 @@ title: The law and banks
 date: 2020-07-13T09:00:00.000Z
 inline: true
 tags:
-  - Society
   - Companies
+  - Society
 ---
 ## The law is an ass
 
