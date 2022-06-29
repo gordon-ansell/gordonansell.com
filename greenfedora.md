@@ -1,5 +1,5 @@
 ---
-date: 2021-09-18 06:00
+date: 2021-09-18 06:00:00
 title: GreenFedora
 headline: GreenFedora Static Site Generator
 layout: page.njk
