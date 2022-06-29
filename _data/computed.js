@@ -1,4 +1,4 @@
-const { syslog } = require("../../js/greenfedora-utils")
+const { syslog } = require("greenfedora-utils")
 
 module.exports = function(config) {
 
