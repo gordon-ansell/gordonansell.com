@@ -9,10 +9,10 @@ title: How to stop cats hunting wildlife
 date: 2021-02-12T11:50:00.000Z
 inline: true
 tags:
+  - Cats
   - Science
   - Zoology
   - Citation
-  - Cats
 externalLink: 'https://cosmosmagazine.com/nature/animals/herding-cats/'
 citation:
   title: Herding Cats

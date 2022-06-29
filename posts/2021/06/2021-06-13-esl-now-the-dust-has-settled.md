@@ -9,8 +9,8 @@ description: >-
 title: 'The ESL, now the dust has settled'
 date: 2021-06-13T07:10:00.000Z
 tags:
-  - Opinion
   - Sport
+  - Opinion
   - News
 ---
 I have previously [vented my spleen about the European Super League (ESL)](/the-main-reason-the-european-super-league-stinks/), and I didn't have much good to say about our existing football authorities either. Now the season's over it's worth reflecting on how the English rebel clubs have been punished for trying to break away.

@@ -8,8 +8,8 @@ description: >-
 title: Time travel's paradoxes resolved
 date: 2021-01-26T09:05:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Citation
 externalLink: >-
   https://www.uq.edu.au/news/article/2020/09/young-physicist-squares-numbers’-time-travel

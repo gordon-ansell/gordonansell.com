@@ -8,8 +8,8 @@ description: >-
 title: User reviews are broken
 date: 2021-05-27T06:45:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - Amazon
 ---

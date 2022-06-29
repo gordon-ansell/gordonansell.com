@@ -10,12 +10,11 @@ description: >-
 title: What the FLoC is going on?
 date: 2021-04-18T09:50:00.000Z
 tags:
+  - Privacy
   - Tech
   - Google
   - Opinion
   - News
-  - Privacy
-  - Advertising
 ---
 Web browsers are increasingly blocking third-party cookies. 
 

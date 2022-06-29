@@ -9,10 +9,10 @@ title: ABI tries to explain why it helps fund crime
 date: 2021-01-27T06:30:00.000Z
 inline: true
 tags:
+  - Hacking
   - Tech
   - Security
   - News
-  - Hacking
 ---
 In a few of my previous articles I've railed against the idea of paying off ransomware criminals. As far as I can see, it rewards them for their criminal exploits and funds further ransomware attacks. I still struggle to believe it's legal.
 

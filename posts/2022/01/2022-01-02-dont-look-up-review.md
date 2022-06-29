@@ -8,8 +8,8 @@ description: >-
   reflects many of society's ills.
 date: 2022-01-02T07:15:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 ratingStars: 4
 schema:

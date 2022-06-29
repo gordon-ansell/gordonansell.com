@@ -13,8 +13,8 @@ leader: >-
   loss. Either way, they are good as ear buds for listening to music.
 date: 2021-09-08T11:15:00.000Z
 tags:
-  - Review
   - Hearing
+  - Review
 ratingStars: 2.5
 schema:
   product:

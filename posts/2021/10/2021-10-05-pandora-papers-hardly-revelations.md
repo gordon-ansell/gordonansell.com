@@ -7,8 +7,8 @@ title: Pandora Papers — hardly a revelation
 date: 2021-10-05T10:55:00.000Z
 inline: true
 tags:
-  - Society
   - Politics
+  - Society
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/uk-58792393'

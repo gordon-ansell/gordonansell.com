@@ -9,8 +9,8 @@ description: >-
   had at the hands of mental health professionals.
 inline: true
 tags:
-  - Personal
   - Mental Health
+  - Personal
   - Opinion
   - Citation
 externalLink: >-

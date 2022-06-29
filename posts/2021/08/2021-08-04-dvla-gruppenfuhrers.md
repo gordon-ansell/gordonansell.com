@@ -9,8 +9,8 @@ title: DVLA Gruppenführers
 date: 2021-08-04T17:50:00.000Z
 inline: true
 tags:
-  - Misc
   - Companies
+  - Misc
 ---
 I just wanted to take a moment to have a pop at the DVLA. I am on three-yearly eye tests due to an eye problem called retinitis pigmentosa. This can cause blindness, but in my case it won’t. My consultant said I have it in a minor way and acquired it late in life, so unless I live to 170 it won’t be a problem.
 

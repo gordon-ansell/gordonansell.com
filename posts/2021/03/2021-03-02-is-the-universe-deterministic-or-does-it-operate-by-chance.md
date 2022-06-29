@@ -8,8 +8,8 @@ description: >-
 title: Is the universe deterministic or does it operate by chance?
 date: 2021-03-02T15:00:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Opinion
   - Philosophy
 ---

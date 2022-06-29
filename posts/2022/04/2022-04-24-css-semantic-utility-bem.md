@@ -10,8 +10,8 @@ description: >-
 sendWebmentions:
   - 'https://www.browserlondon.com/blog/2019/06/10/functional-css-perils/'
 tags:
-  - Tech
   - CSS
+  - Tech
   - Opinion
 ---
 There's a lot of debate going on in the CSS world at the moment. For the uninitiated[^1], CSS stands for *Cascading Style Sheets*, which is how a designer changes the 'look' of a web page, with its structure being given by HTML.

@@ -9,8 +9,8 @@ description: >-
 title: Wallowing in routine
 date: 2021-03-01T23:59:00.000Z
 tags:
-  - Opinion
   - Personal
+  - Opinion
 ---
 I would have made an excellent airline pilot, other than having no coordination, no flying abilities, a rampant hate of airports and a fear of heights that kicks in from 7ft 2in upwards.
 

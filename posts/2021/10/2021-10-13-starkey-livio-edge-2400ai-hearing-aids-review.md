@@ -14,8 +14,8 @@ leader: >-
 title: Starkey Livio Edge 2400 AI hearing aids review
 date: 2021-10-13T04:30:00.000Z
 tags:
-  - Review
   - Hearing
+  - Review
 ratingStars: 4.5
 excerptImage: /assets/images/posts/2021/10/2021-10-13-starkey-icon.png
 schema:

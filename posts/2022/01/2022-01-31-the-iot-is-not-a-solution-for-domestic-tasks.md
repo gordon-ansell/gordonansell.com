@@ -8,8 +8,8 @@ description: >-
   My response to a Forbes article which claims the Internet of Things will
   facilitate home working by managing domestic tasks.
 tags:
-  - Tech
   - Internet
+  - Tech
   - Opinion
   - Citation
 externalLink: >-

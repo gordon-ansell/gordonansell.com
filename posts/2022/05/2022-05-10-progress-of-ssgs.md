@@ -9,8 +9,8 @@ description: >-
   How Static Site Generators (SSGs) are becoming dynamic site generators anyway.
   Is this necessary or desirable?
 tags:
-  - Web Development
   - SSG
+  - Web Development
   - Tech
 ---
 It is interesting the way Static Site Generators (SSGs) have progressed. Websites were all static in the beginning — you'd hand code some HTML in a text editor and upload it to a server. The process went something like this:[^1]

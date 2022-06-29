@@ -9,8 +9,8 @@ title: Is coding a language function or a mathematical function?
 date: 2021-03-23T07:45:00.000Z
 inline: true
 tags:
-  - Tech
   - Psychology
+  - Tech
   - Science
   - News
   - Citation

@@ -9,10 +9,10 @@ description: >-
   simple because Day One's export facilities are not that extensive.
 date: 2022-02-07T12:45:00.000Z
 tags:
+  - Apple Notes
   - Tech
   - Bear
   - OmniFocus
-  - Apple Notes
   - GTD
   - Help
 ---

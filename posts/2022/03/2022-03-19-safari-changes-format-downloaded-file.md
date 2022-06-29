@@ -9,8 +9,8 @@ description: >-
   can be switched off by a setting in safari preferences.
 inline: true
 tags:
-  - Tech
   - Safari
+  - Tech
   - macOS
   - Interworx
 ---

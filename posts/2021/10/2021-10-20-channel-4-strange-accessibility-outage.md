@@ -7,8 +7,8 @@ description: >-
   them from scratch. Eh? What?
 inline: true
 tags:
-  - Entertainment
   - TV
+  - Entertainment
   - News
   - Citation
 externalLink: 'https://www.bbc.co.uk/news/entertainment-arts-58965380'

@@ -9,9 +9,9 @@ description: >-
   experiment than most scientists.
 inline: true
 tags:
+  - Cats
   - Misc
   - Books
-  - Cats
 ---
 I quite like Terry Pratchett's take on the Schrodinger's Cat experiment, which, if you remember, suggests that a cat is held in a quantum superposition of being both alive and dead until the box is opened.
 

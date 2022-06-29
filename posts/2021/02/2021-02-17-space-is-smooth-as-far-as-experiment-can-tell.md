@@ -9,8 +9,8 @@ title: Spacetime is smooth as far as experiment can tell
 date: 2021-02-17T11:00:00.000Z
 inline: true
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Citation
   - Physics

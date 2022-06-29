@@ -11,8 +11,8 @@ leader: >-
   DC fans but partly missed the mark for me.
 date: 2021-03-04T23:59:00.000Z
 tags:
-  - Entertainment
   - TV
+  - Entertainment
   - Review
 ratingStars: 2.5
 schema:

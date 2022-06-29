@@ -7,8 +7,8 @@ description: >-
   quantum mechanics, proving Einstein wrong in the process.
 inline: true
 tags:
-  - Science
   - Physics
+  - Science
   - Citation
 externalLink: >-
   https://www.quantamagazine.org/how-bells-theorem-proved-spooky-action-at-a-distance-is-real-20210720/

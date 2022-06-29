@@ -9,8 +9,8 @@ title: As if one universe wasn't enough
 date: 2021-01-26T07:40:00.000Z
 inline: true
 tags:
-  - Science
   - Cosmology
+  - Science
   - News
   - Citation
 externalLink: >-

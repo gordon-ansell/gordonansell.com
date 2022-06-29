@@ -9,8 +9,8 @@ description: >-
 title: 'Independent, distributed social media'
 date: 2021-03-03T10:30:00.000Z
 tags:
-  - Tech
   - Social Media
+  - Tech
   - Opinion
   - Facebook
   - Twitter

@@ -8,8 +8,8 @@ description: >-
 title: 'Javascript, testing for the presence of a property in an object'
 date: 2021-09-26T09:30:00.000Z
 tags:
-  - Tech
   - Javascript
+  - Tech
   - Help
 ---
 I'm about to describe an obvious mistake, and better Javascript programmers than me — which is most of them — will roll their eyes. I keep making this mistake even though I know about it. This post is as much for me as anyone else; something to hammer it into my reluctant brain.

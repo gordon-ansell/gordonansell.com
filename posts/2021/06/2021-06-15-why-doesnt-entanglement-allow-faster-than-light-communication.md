@@ -10,8 +10,8 @@ description: >-
 title: Why doesn't entanglement allow faster than light communication?
 date: 2021-06-15T08:25:00.000Z
 tags:
-  - Science
   - Physics
+  - Science
   - Opinion
 ---
 The reason entanglement doesn't allow for faster than light communication is due to the subtleties of quantum mechanics. I'll try to explain that by using an analogy.

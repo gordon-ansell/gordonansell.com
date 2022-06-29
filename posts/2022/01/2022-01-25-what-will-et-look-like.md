@@ -9,8 +9,8 @@ description: >-
   look like and they gave a wide range of opinions.
 inline: true
 tags:
-  - Science
   - SETI
+  - Science
   - News
   - Citation
 externalLink: 'https://cosmosmagazine.com/space/astronomy/what-would-aliens-look-like/'

@@ -9,8 +9,8 @@ description: >-
   teach goldfish how to drive too.
 inline: true
 tags:
+  - Zoology
   - Science
-  - Biology
   - News
   - Citation
 externalLink: >-

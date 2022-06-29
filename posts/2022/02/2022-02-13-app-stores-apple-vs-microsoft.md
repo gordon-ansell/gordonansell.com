@@ -8,8 +8,8 @@ description: >-
   Microsoft has elected to take a different approach to Apple and Google with
   its own app store. Are they getting ahead of the game?
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
   - Opinion
   - Google

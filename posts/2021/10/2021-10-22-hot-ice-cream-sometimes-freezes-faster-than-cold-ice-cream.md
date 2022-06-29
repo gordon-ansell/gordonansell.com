@@ -7,8 +7,8 @@ description: >-
   The effect was so named when a teenager noticed it happening with ice cream.
 inline: true
 tags:
-  - Science
   - Physics
+  - Science
   - News
   - Citation
 externalLink: 'https://cosmosmagazine.com/science/physics/mpemba-effect-hot-water-freeze/'

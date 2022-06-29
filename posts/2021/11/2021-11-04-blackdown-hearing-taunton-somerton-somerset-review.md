@@ -8,10 +8,10 @@ description: >-
   Blackdown Hearing is an audiology service based in Somerset, UK. I highly
   recommend them if you need hearing aids and live in the locale.
 tags:
+  - Hearing
   - Review
   - Companies
   - Local
-  - Hearing
 ratingStars: 5
 schema:
   product:

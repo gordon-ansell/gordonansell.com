@@ -6,9 +6,9 @@ description: >-
 title: Using AI to find out if a cat's happy
 date: 2021-06-16T07:00:00.000Z
 tags:
+  - Cats
   - Tech
   - AI
-  - Cats
 ---
 Thanks to Schrodinger science has a long history of experimenting with cats, albeit only in thought experiments. Now tech is getting in on the act.
 

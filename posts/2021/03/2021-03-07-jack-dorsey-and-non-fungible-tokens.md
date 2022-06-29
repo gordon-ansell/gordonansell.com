@@ -9,8 +9,8 @@ title: Jack Dorsey and non-fungible tokens
 inline: true
 date: 2021-03-07T08:40:00.000Z
 tags:
-  - Tech
   - Twitter
+  - Tech
   - News
   - Citation
   - Social Media

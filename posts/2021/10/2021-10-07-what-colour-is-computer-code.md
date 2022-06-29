@@ -5,8 +5,8 @@ title: What colour is computer code?
 date: 2021-10-07T09:30:00.000Z
 inline: true
 tags:
-  - Tech
   - Nonsense
+  - Tech
 ---
 Somebody asked me why the code blocks in my articles are such an 'ugly' green, and why I didn't use one of the many Javascript plugins that style code blocks instead.
 

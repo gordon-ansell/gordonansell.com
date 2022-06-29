@@ -6,8 +6,8 @@ description: >-
 title: Nurses and ports
 date: 2021-01-23T07:30:00.000Z
 tags:
-  - Society
   - Politics
+  - Society
   - Opinion
 ---
 ![](/assets/images/posts/2021/01/2021-01-23-nurse-cartoon.png "class=s33 right|@itemprop=image")Having had a few spells in hospital in recent years, I wanted to mention the organised chaos that somehow works.

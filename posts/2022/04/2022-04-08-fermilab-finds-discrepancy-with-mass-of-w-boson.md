@@ -9,8 +9,8 @@ description: >-
   Fermilab discovers an 0.1% difference between the measured weight of the W
   boson particle and its weight as predicted by theory.
 tags:
-  - Science
   - Physics
+  - Science
   - News
 externalLink: 'https://www.bbc.co.uk/news/science-environment-60993523'
 citation:

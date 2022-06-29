@@ -6,6 +6,7 @@ description: >-
   Picking up on an article in Wired about alleged distractions that stop people
   seeing a film anywhere other than the cinema.
 tags:
+  - Films
   - Entertainment
   - Opinion
   - Citation

@@ -14,10 +14,9 @@ leader: >-
   On average it's 65% but that rises to 84% for smartphones where people will be
   concerned about their cellular data allowance.
 tags:
-  - Tech
   - Google
+  - Tech
   - Opinion
-  - Advertising
 ---
 I regularly rant about the amount of advertising we're subjected to. Based on my own pattern of behaviour, I struggle to see how it works for advertisers. I have ad blockers and an in-built brain filter for adverts that get through the blockers. I invariably haven't seen adverts I'm ever surveyed about. The surveys become ever more incredulous and keep throwing other adverts at me on the basis that I must have seen one of them, but usually it's a no.
 

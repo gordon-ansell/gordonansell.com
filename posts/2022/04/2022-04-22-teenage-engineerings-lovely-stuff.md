@@ -8,6 +8,7 @@ description: >-
   Teenage Engineering have released something called a TX-6. I don't know what
   it does, but I love it.
 tags:
+  - Gadgets
   - Tech
   - News
   - Misc

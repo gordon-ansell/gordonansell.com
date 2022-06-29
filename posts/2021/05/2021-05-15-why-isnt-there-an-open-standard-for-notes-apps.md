@@ -13,7 +13,6 @@ tags:
   - Tech
   - macOS
   - Javascript
-  - Agenda
   - Help
 ---
 There are a plethora of notes apps for macOS and iOS these days. I have a bunch of them myself. A single notes app should be enough, particularly as many of them have similar feature sets, but I struggle to settle on a single app. I tend to use just one app at a time because I like to have a go-to place where all my notes are, but after a while I’ll be tempted by another app and switch to that instead. Often I’ll go in a circle and use three or four different notes apps and end up back where I started.

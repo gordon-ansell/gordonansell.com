@@ -8,9 +8,9 @@ description: >-
 title: Wordpress and hooking into Contact Form 7
 date: 2021-07-18T06:30:00.000Z
 tags:
+  - Wordpress
   - Tech
   - PHP
-  - Wordpress
   - Help
 ---
 Whilst I spend more time with Static Site Generators these days, I still have my finger in a few Wordpress pies. One thing I wanted to do recently was intercept the mail from the Contact Form 7 (CF7) plugin before it is sent.

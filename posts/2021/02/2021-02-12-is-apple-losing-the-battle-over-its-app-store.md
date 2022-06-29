@@ -10,8 +10,8 @@ description: >-
 title: Is Apple losing the battle over its App Store?
 date: 2021-02-12T09:00:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - News
   - iOS
 excerptImage: /assets/images/posts/2021/02/2021-02-12-app-store-logo.png

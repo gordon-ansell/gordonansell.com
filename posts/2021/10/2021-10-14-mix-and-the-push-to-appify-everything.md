@@ -7,8 +7,8 @@ description: >-
   question the trend of doing that with everything these days.
 inline: true
 tags:
-  - Tech
   - Internet
+  - Tech
   - Opinion
 ---
 Mix.com was a site I used (sparingly) to save articles in collections for later referral. It was a quasi-social media site in the sense that you could share articles, comment on them and follow feeds.

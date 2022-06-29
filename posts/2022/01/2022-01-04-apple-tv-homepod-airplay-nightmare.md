@@ -9,11 +9,11 @@ description: >-
   9To5Mac beat me to the gripe I was going to write myself.
 inline: true
 tags:
+  - HomePod
   - Tech
   - Apple TV
   - Citation
   - Opinion
-  - HomePod
 externalLink: >-
   https://9to5mac.com/2022/01/03/apple-needs-to-address-airplay-issues-when-connecting-multiple-homepods/
 citation:

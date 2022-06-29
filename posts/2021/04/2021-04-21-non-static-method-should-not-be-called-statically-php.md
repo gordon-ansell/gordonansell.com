@@ -9,8 +9,8 @@ description: >-
 title: 'Non-static method … should not be called statically: PHP'
 date: 2021-04-21T07:45:00.000Z
 tags:
-  - Tech
   - PHP
+  - Tech
   - Web Development
   - Error
   - Help

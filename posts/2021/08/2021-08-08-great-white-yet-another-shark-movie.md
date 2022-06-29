@@ -10,8 +10,8 @@ leader: >-
   offers nothing new.
 date: 2021-08-08T11:40:00.000Z
 tags:
-  - Entertainment
   - Films
+  - Entertainment
   - Review
 ratingStars: 2
 schema:

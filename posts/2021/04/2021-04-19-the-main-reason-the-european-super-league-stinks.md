@@ -9,8 +9,8 @@ title: The main reason the European Super League stinks
 date: 2021-04-19T13:45:00.000Z
 inline: true
 tags:
-  - Opinion
   - Sport
+  - Opinion
   - News
 ---
 Let’s face it, football authorities seem to attract corruption. The successful prosecutions of Sepp Blatter and Michel Platini are probably just the tip of the iceberg. Then there was the strange decision to pick Qatar to host the 2022 World Cup. It was originally planned to be held during the summer, as it usually is, when it would be 40C in the shade. Even self-respecting camels erect a parasol when it’s that hot. I describe the decision as ‘strange’ because I wouldn’t want to publicly libel anyone by suggesting backhanders had a role in sealing the deal. I wouldn’t dream of doing that.

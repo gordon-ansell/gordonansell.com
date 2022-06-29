@@ -9,8 +9,8 @@ description: >-
 title: Three lemons from Apple
 date: 2021-05-06T08:30:00.000Z
 tags:
-  - Tech
   - Apple
+  - Tech
   - Opinion
   - iPad
   - iPadOS

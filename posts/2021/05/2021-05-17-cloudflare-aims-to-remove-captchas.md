@@ -11,8 +11,8 @@ title: Cloudflare aims to remove CAPTCHAs
 inline: true
 date: 2021-05-17T06:05:00.000Z
 tags:
-  - Tech
   - Security
+  - Tech
   - News
   - Citation
 externalLink: >-

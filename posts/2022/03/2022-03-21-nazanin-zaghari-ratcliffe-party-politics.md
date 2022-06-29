@@ -9,8 +9,8 @@ description: >-
   and on the Metropolitan Police's pursuit of the lockdown party-gate affair.
 inline: true
 tags:
-  - News
   - Politics
+  - News
   - Opinion
 ---
 I don't often pick random items of news to comment on, but I felt like doing so today.

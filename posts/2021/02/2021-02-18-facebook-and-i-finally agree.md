@@ -11,8 +11,8 @@ title: Facebook and I finally agree
 date: 2021-02-18T09:20:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Social Media
 ---

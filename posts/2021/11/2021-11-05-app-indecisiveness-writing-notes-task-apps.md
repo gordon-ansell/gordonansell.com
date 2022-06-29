@@ -13,7 +13,6 @@ tags:
   - Tech
   - Opinion
   - GTD
-  - Agenda
   - iA Writer
   - OmniFocus
   - Reminders

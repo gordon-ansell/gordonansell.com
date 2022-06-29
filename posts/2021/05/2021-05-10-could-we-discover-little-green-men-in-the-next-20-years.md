@@ -8,8 +8,8 @@ description: >-
 title: Could we discover Little Green Men in the next 20 years?
 date: 2021-05-10T09:15:00.000Z
 tags:
-  - Science
   - SETI
+  - Science
   - News
   - Citation
 externalLink: 'https://cosmosmagazine.com/space/exploration/are-there-aliens-out-there/'

@@ -9,12 +9,11 @@ title: Facebook Jeopardy
 date: 2021-05-18T08:15:00.000Z
 inline: true
 tags:
-  - Tech
   - Facebook
+  - Tech
   - News
   - Citation
   - Social Media
-  - Conspiracy Theory
 externalLink: >-
   https://www.nytimes.com/2021/05/16/business/media/jeopardy-hand-gesture-maga-conspiracy.html
 citation:

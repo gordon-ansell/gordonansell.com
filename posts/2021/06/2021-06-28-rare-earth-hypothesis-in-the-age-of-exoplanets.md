@@ -8,8 +8,8 @@ description: >-
 title: The Rare Earth hypothesis in the age of exoplanets
 date: 2021-06-28T11:15:00.000Z
 tags:
-  - Science
   - SETI
+  - Science
   - News
   - Citation
 externalLink: >-

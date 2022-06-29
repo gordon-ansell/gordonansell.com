@@ -9,11 +9,11 @@ title: 'Cats, dogs and human social cues'
 date: 2021-03-01T07:50:00.000Z
 inline: true
 tags:
+  - Cats
   - Science
   - Zoology
   - News
   - Citation
-  - Cats
 externalLink: >-
   https://www.sciencealert.com/your-disloyal-cat-wouldn-t-avoid-your-enemy-research-finds
 citation:

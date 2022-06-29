@@ -9,9 +9,9 @@ description: >-
 title: Rolling your own SSG
 date: 2021-01-22T11:10:00.000Z
 tags:
+  - SSG
   - Tech
   - Web Development
-  - SSG
   - Javascript
   - Node
   - Help

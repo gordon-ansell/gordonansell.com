@@ -9,8 +9,8 @@ description: >-
 title: 'The WallStreetBet, GameStop, RobinHood story'
 date: 2021-01-29T09:15:00.000Z
 tags:
-  - Society
   - Companies
+  - Society
   - News
 ---
 I've found this whole WallStreetBet/GameStop/RobinHood thing fascinating.

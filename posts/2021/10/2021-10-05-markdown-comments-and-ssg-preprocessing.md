@@ -6,10 +6,10 @@ description: Markdown has no official comment statement, but a 'null' link works
 title: Markdown comments and SSG preprocessing
 date: 2021-10-05 08:20:00
 tags:
+  - SSG
   - Tech
   - Javascript
   - How-To
-  - SSG
   - Web Development
 ---
 My preferred way to style my writing is via [Markdown](https://en.wikipedia.org/wiki/Markdown). Between Markdown and [front-matter](https://jekyllrb.com/docs/front-matter/) you can create a text file that contains your writing content, its formatting options and some instructions to tell your static site generator software how to process things.

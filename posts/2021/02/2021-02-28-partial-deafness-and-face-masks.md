@@ -8,10 +8,10 @@ description: >-
 title: Partial deafness and face masks
 date: 2021-02-28T07:30:00.000Z
 tags:
+  - Hearing
   - Society
   - Coronavirus
   - Opinion
-  - Hearing
 ---
 ![](/assets/images/posts/2021/02/2021-02-28-deaf-ear.png "class=s50 right|@itemprop=image")
 I'm partially deaf (and fully ignorant, my wife used to add). I cannot remember the exact results of my last hearing test, but it was more than 50% hearing loss in my right ear and about 30% hearing loss in my left.

@@ -9,8 +9,8 @@ description: >-
   platforms, allowing app developers to use their own payment systems.
 inline: true
 tags:
-  - News
   - Tech
+  - News
   - Apple
   - Google
 externalLink: 'https://www.bbc.co.uk/news/technology-60870287'
