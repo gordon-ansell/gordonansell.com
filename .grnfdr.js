@@ -33,7 +33,7 @@ module.exports = function(config) {
                 ssl: false
             },
             prod: {
-                hostname: "gordonansell.com",
+                host: "gordonansell.com",
                 ssl: true
             }
         },
