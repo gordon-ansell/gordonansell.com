@@ -26,6 +26,15 @@ module.exports = function(config) {
                 host: 'localhost',
                 port: 8081,
                 ssl: false
+            },
+            staging: {
+                host: "gordy.me.uk",
+                port: 8081,
+                ssl: false
+            },
+            prod: {
+                hostname: "gordonansell.com",
+                ssl: true
             }
         },
         allowInlinePosts: false,
