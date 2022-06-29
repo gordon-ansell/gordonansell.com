@@ -17,7 +17,6 @@ leader: >-
 tags:
   - Weight Training
   - Review
-  - Weight Plates
 ratingStars: 4
 schema:
   product:

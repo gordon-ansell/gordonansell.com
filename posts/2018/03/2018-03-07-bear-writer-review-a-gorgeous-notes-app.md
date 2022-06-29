@@ -8,7 +8,6 @@ tags:
   - Bear
   - Tech
   - Review
-  - Software
   - GTD
   - macOS
   - iOS

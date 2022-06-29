@@ -11,7 +11,6 @@ tags:
   - Society
   - Rant
   - Opinion
-  - Advertising
 ---
 I was recently reading an [article on the BBC](https://www.bbc.co.uk/news/uk-wales-48205725) about a base jumper who leapt off Snowdon and broke the record for the highest base jump in Wales.
 
