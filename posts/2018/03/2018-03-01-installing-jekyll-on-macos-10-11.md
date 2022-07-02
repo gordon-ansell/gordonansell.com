@@ -30,15 +30,21 @@ This is how I managed to install [Jekyll](https://jekyllrb.com). Your experience
 ## First Installation Attempt - Raw
 The prescribed way to install Jekyll on MacOS is via:
 
-`gem install jekyll bundler`
+```bash
+gem install jekyll bundler
+```
 
 But you might get an error along the lines of:
 
-`You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.`
+```plaintext
+You don't have write permissions for the /Library/Ruby/Gems/2.0.0 directory.
+```
 
 If you do get that error, you might be tempted to run the first command again with `sudo` on the front. You can certainly try that but you might then get the following error:
 
-`public_suffix requires Ruby version >= 2.1.`
+```plaintext
+public_suffix requires Ruby version >= 2.1.
+```
 
 Or, at least that’s the error I got.
 
@@ -55,7 +61,9 @@ It will tell you what it’s going to install, whereupon you need to press retur
 
 You can then try installing Ruby via:
 
-`brew install rbenv ruby-build`
+```bash
+brew install rbenv ruby-build
+```
 
 This stands a good chance of failing too, maybe with a message along the lines of:
 
@@ -72,7 +80,9 @@ I’d suggest a petulant stomp of the feet here but then go into the App Store a
 
 Once Xcode is downloaded, open it up and let it configure.  I’d then suggest installing Xcode’s command line tools with:
 
-`xcode-select --install`
+```bash
+xcode-select --install
+```
 
 This will present a GUI panel asking you to confirm the install. Just let it run — it takes about 5 minutes.
 
@@ -90,17 +100,23 @@ rbenv shell 2.4.1
 ## Fourth Installation Attempt - Shell Issues
 If any of the above commands fail, maybe with something like `rbenv shell command not found`, try the following:
 
-`pico ~/.bash_profile`
+```bash
+pico ~/.bash_profile
+```
 
 Add the following line:
 
-`eval "$(rbenv init -)"`
+```bash
+eval "$(rbenv init -)"
+```
 
 CTRL+X out of pico, restart your Terminal session and try again.
 
 If you’ve been lucky, you should now be at the point where you can try installing Jekyll again:
 
-`gem install jekyll bundler`
+```bash
+gem install jekyll bundler
+```
 
 If anything else has gone wrong that isn’t covered here I’m afraid you’re on your own, but this worked for me and I could then shut down the 964 Google Search windows I had open in my browser from looking all this stuff up.
 

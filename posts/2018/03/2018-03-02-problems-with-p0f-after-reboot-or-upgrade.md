@@ -28,9 +28,11 @@ About six months ago, I started getting the _p0f appears to be down_ message aft
 
 It’s a two step process as follows:
 
-First, edit _etc/yum.conf_ and add the following to the _excludes_:
+First, edit `etc/yum.conf` and add the following to the _excludes_:
 
-`p0f*.el7.*`
+```plaintext
+p0f*.el7.*
+```
 
 Then run the following sequence of commands:
 

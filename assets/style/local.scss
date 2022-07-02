@@ -388,6 +388,24 @@ body > header {
     }
 }
 
+/* Tweak pre/code for highlighting.
+   ========================================================================== */
+
+code[class*="language-"], pre[class*="language-"] {
+    font-size: 80% !important;
+    font-family: $typ-precode-font-family !important;
+}
+
+pre {
+    padding: 0;
+}
+
+code {
+    background-color: black;
+    color: white;
+    font-family: $typ-precode-font-family !important;
+    padding: 0.5em;
+}
 
 /* FOUC.
    ========================================================================== */
