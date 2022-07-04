@@ -36,7 +36,7 @@ layout: post-review.njk
 
 [Bear Writer](http://www.bear-writer.com) is a relatively new application by a company called [Shiny Frog](http://www.shinyfrog.net), which, as far as I can tell, consists of three software developers from Italy. They have a couple of other apps besides Bear Writer (which from now on I’ll simple call Bear) but I’d never heard of any of them.
 
-I came across Bear as a result of [reviewing my GTD (Getting Things Done) processes](my-gtd-getting-things-done-software-still-searching-for-the-holy-grail-of-gtd) where I set about trying to improve them.
+I came across Bear as a result of [reviewing my GTD (Getting Things Done) processes](/my-gtd-getting-things-done-software-still-searching-for-the-holy-grail-of-gtd) where I set about trying to improve them.
 
 Shiny Frog describe Bear as:
 
