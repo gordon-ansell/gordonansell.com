@@ -20,13 +20,16 @@ schema:
     '@id': /#product
     '@type': Event
     name: Chepstow Beer and Cider Festival
-    location: 'Drill Hall, Lower Church Street, Chepstow, Monmouthshire NP16 5HJ'
+    location: 
+        "@type": Place
+        name: Chepstow Beer and Cider Festival
+        address: 'Drill Hall, Lower Church Street, Chepstow, Monmouthshire NP16 5HJ'
     startDate: '2019-10-11T12:00'
     endDate: '2019-10-13T18:00'
     performer: Will Barnes Trio
     description: Real ale and cider festival in South Wales.
-    eventAttendanceMode: Offline
-    eventStatus: Scheduled
+    eventAttendanceMode: OfflineEventAttendanceMode
+    eventStatus: Finished
     organizer: 
         "@type": Organization
         name: Chepstow Real Ale and Cider Festival
