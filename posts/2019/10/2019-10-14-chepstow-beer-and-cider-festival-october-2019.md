@@ -25,8 +25,12 @@ schema:
     endDate: '2019-10-13T18:00'
     performer: Will Barnes Trio
     description: Real ale and cider festival in South Wales.
-    organizer: Chepstow Real Ale and Cider Festival
-    organizer_url: 'https://www.facebook.com/ChepstowBeerFestival/'
+    eventAttendanceMode: Offline
+    eventStatus: Scheduled
+    organizer: 
+        "@type": Organization
+        name: Chepstow Real Ale and Cider Festival
+        url: 'https://www.facebook.com/ChepstowBeerFestival/'
 layout: post-review.njk
 ---
  
