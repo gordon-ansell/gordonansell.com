@@ -4,8 +4,7 @@ excerpt: >-
   screwed and this is one of the products I looked at to find a solution. I
   believe they'd work for milder hearing loss, but they didn't work for me.
 description: >-
-  A review of the Body-Solid Series 7 Smith Master System, which includes a
-  Smith machine, high/low pulley, pec deck, bench and free weight gun-rack.
+  A review of the Nuheara IQBuds 2 Max to see if they are a genuine hearing aid replacement.
 title: Nuheara IQbuds Max review for the hard of hearing
 leader: >-
   These will work as hearing assistance devices if your hearing loss is mild to

@@ -41,7 +41,7 @@ computedLate:
     {% endif %}
     {% if (leader) %}
         <section class="leader p-summary">
-            {{ leader | safe }}
+            {{ leader | mdToHtml | safe }}
         </section>
     {% endif %}
     <section class="e-content">

@@ -7,11 +7,9 @@ description: >-
   to create safe, difficult to crack passwords.
 title: Creating safe passwords
 date: 2019-04-21T08:45:00.000Z
-leader:
+leader: |
   - Make all passwords 12+ characters
-  - >-
-    Add complexity via non a-z characters, but only as a secondary consideration
-    to length
+  - Add complexity via non a-z characters, but only as a secondary consideration to length
   - Avoid 'idiot' passwords
   - Avoid personal information
   - Avoid writing passwords down in plain text

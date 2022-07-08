@@ -58,14 +58,14 @@ computedLate:
                         </a>
                     </div>
                 </footer>
-            {% elif post.extracted.excerpt %}
+            {% elif post.excerpt %}
                 <section class="excerpt p-summary entry-summary">
                     {% if (post.excerptImage) %}
                         <a href="{{post.permalink | url}}" title="Read this post." class="excerpt-image-link">
                             {% simpleimg post.excerptImage, alt=post.title, class="excerpt-image fixed" %}
                         </a>
                     {% endif %}
-                    {{ post.extracted.excerpt | safe }}
+                    {{ post.excerpt | mdToHtml | safe }}
                 </section>
             {% elif post.description %}
                 <section class="excerpt p-summary entry-summary">
