@@ -20,7 +20,7 @@ module.exports = function(config) {
     config.addJustCopy('assets/images/webmention/');
 
     return {
-        level: 'notice',
+        level: 'log',
         modehost: {
             dev: {
                 host: 'localhost',
