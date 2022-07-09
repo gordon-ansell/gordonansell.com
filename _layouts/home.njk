@@ -43,7 +43,7 @@ computedLate:
             {% endif %}
             {% if post.inline and post.allowInlinePosts %}
                 <section class="e-content embedded-headers">
-                    {{ post.extracted.content | safe }}
+                    {{ post.content | safe }}
                 </section>
                 {% if post.citation %}
                     <div class-"citation-block">

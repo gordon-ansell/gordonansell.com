@@ -61,7 +61,7 @@ computed:
                 <guid isPermaLink="true">{{ post.permalink | absoluteUrl(hostname) }}</guid>
                 <description>{{ post.description | safe }}</description>
                 <content:encoded>
-                    <![CDATA[<noscript><style type="text/css">.lazyload {display: none;}</style></noscript>{{  post.extracted.content | htmlAbsUrl(hostname, true) | safe }}
+                    <![CDATA[<noscript><style type="text/css">.lazyload {display: none;}</style></noscript>{{  post.content | htmlAbsUrl(hostname, true) | safe }}
                     <hr />
                     <a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{post.title}}" title="Contact me about this post.">
                         Contact me about this post.
