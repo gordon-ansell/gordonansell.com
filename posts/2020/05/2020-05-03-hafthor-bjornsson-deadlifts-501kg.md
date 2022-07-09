@@ -16,5 +16,5 @@ The 6ft9in, 205kg Icelandic behemoth and Game of Thrones actor won World's Stron
 
 He looked like he lifted it fairly comfortably too. I reckon he had 510kg+ in him.
 
-[//]: # (@videolink | youtube | type=youtube | id=2kEC7X1FUIg | name=501kg deadlift. | description=Hafthor Bjornsson deadlifts 501kg. | uploadDate=Sat May 02 2020 01:00:00 GMT+0100 (British Summer Time) | @itemprop=video )
+{% videolink "youtube", type="youtube", id="2kEC7X1FUIg", name="501kg deadlift.", description="Hafthor Bjornsson deadlifts 501kg.", uploadDate="Sat May 02 2020 01:00:00 GMT+0100 (British Summer Time)", @itemprop="video" %}
 

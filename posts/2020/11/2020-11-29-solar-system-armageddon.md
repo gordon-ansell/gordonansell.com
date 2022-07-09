@@ -28,7 +28,7 @@ What you need to model this sort of thing is a computer, and the more powerful i
 
 You can model an entire galaxy quite nicely by making many assumptions and using statistics. This is how they might produce something like this:
 
-[//]: # (@videolink | youtube | type=youtube | id=2KYb_l8wr0c | name=Rotating galaxies. | description=Demonstration of two galaxies rotating. | uploadDate=Wed Mar 15 2017 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", type="youtube", id="2KYb_l8wr0c", name="Rotating galaxies.", description="Demonstration of two galaxies rotating.", uploadDate="Wed Mar 15 2017 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 
 But modelling specifics — such as what will happen to Jupiter — is far harder. The authors of the paper note that their conclusions are contingent upon many assumptions based on current observations.
 

@@ -136,7 +136,7 @@ What you’re left with a score that allows you to compare yourself fairly again
 
 This is how, at 132lbs, Jennifer Thompson is one of the best lifters in the world.
 
-[//]: # (@videolink | youtube | id=Mldhcedp0Lc | name=Jennifer Thompson, powerlifter. | uploadDate=2018-01-09 | caption=Jennifer Thomson working out. )
+{% videolink "youtube", id="Mldhcedp0Lc", name="Jennifer Thompson, powerlifter.", uploadDate="2018-01-09", caption="Jennifer Thomson working out." %}
 
 
 

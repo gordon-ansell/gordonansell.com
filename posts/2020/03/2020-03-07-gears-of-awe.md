@@ -18,5 +18,5 @@ The gadget has 100 gears and each gear drives the next with a ratio of 10-1, whi
 
 This particular gadget is just a prototype and it wouldn't run anywhere near long enough to turn the last gear once, but Daniel is going to create a version that could run for much longer. This proves he's completely bonkers, which is a quality I respect.
 
-[//]: # (@videolink | youtube | type=youtube | id=nFslB0AcVmM | name=Daniel de Bruin's 100 gears. | description=To turn the last gear once, the first must turn 1 googol times. | uploadDate=2020-03-01 | @itemprop=video )
+{% videolink "youtube", type="youtube", id="nFslB0AcVmM", name="Daniel de Bruin's 100 gears.", description="To turn the last gear once, the first must turn 1 googol times.", uploadDate="2020-03-01", @itemprop="video" %}
 

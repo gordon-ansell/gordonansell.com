@@ -19,7 +19,7 @@ A woman was on her way to hospital in an ambulance, but the hospital in question
 
 Quite right too, and I wonder how long it will be before state-sponsored hacking is considered an act of war, as surely as if bombs had been dropped.
 
-[//]: # (@videolink | bbc | name=How worried should we be about deadly cyber-attacks? | description=BBC video about the impact of cyber-attacks. | id=p08sgpsm/54269045 | section=news | uploadDate=Fri Sep 25 2020 01:00:00 GMT+0100 (British Summer Time) | url=https://www.bbc.co.uk/news/av/technology-54269045 | caption=Credit: BBC News. | @itemprop=video )
+{% videolink "bbc", name="How worried should we be about deadly cyber-attacks?", description="BBC video about the impact of cyber-attacks.", id="p08sgpsm/54269045", section="news", uploadDate="Fri Sep 25 2020 01:00:00 GMT+0100 (British Summer Time)", url="https://www.bbc.co.uk/news/av/technology-54269045", caption="Credit: BBC News.", @itemprop="video" %}
 
 One bit I'm not so keen on, though, is the suggestion that CEOs of companies who haven't protected adequately enough against cyber-attacks could be liable for any deaths that occur due to such an attack. As an analogy, if I forget to lock my door and someone comes in and murders me, does that make me responsible for my own death? It might be the sort of thing where you'd say I was *partly* responsible or whatever, but I'd argue against these sorts of 'mitigations' for murderers (or any criminals).
 

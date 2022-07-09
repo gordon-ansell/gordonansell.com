@@ -28,7 +28,7 @@ layout: post-review.njk
 ---
 
 
-[//]: # (@simpleimg | /assets/images/posts/2018/03/2018-03-08-fate-of-furious.jpg | alt=Fate of the Furious poster. | class=s25 right|@itemprop=image )
+{% simpleimg "/assets/images/posts/2018/03/2018-03-08-fate-of-furious.jpg", alt="Fate of the Furious poster.", class="s25 right" %}
 
 I had seen snippets of various films in the ‘The Fast and The Furious’ franchise before — half an hour here, 10 minutes there — but I’ll freely admit this sort of thing doesn’t generally float my boat and I’ve never watched a whole film from the series before.
 

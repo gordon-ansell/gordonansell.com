@@ -15,7 +15,7 @@ tags:
 ---
 [Teenage Engineering](https://teenage.engineering) are doing it again. They produce lots of devices that mix sound. I don't need such a device because I haven't a clue how to mix sound — I can barely mix a salad. But they're such good-looking devices that I want them anyway. Their latest is the TX-6, which does many things, I'm sure. I want it on my wall somewhere.
 
-[//]: # (@videolink | youtube | id=UJoBJtBTMKk | name=Teenage Engineering TX-6. | uploadDate=2022-04-21 | caption=Teenage Engineering TX-6.)
+{% videolink "youtube", id="UJoBJtBTMKk", name="Teenage Engineering TX-6.", uploadDate="2022-04-21", caption="Teenage Engineering TX-6." %}
 
 ![Teenage Engineering Pocket Operator.](/assets/images/posts/2022/04/2022-04-22-ta-po.png "@itemprop=image|class=s40 right|caption=Pocket Operator")
 

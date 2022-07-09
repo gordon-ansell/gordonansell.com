@@ -152,37 +152,37 @@ But I don’t think the Ironmaster IM2000 is a purchase you’ll ever regret (as
 
  
 
-[//]: # (@faqpage | Ironmaster IM2000 )
+{% faqpage "Ironmaster IM2000" %}
 
 ## Ironmaster IM2000 - Frequently Asked Questions
-[//]: # (@faqqa | 1 | q=Is the Ironmaster IM2000 easy to assemble? )
+{% faqqa "1", q="Is the Ironmaster IM2000 easy to assemble?" %}
 Sort of. The instructions are very good and you should have no trouble following them. Some of the parts are heavy, though, and they can be tricky to lift on your own. It's far easier to assemble with two people.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 2 | q=Can I perform free weight exercises on the Ironmaster IM2000? )
+{% faqqa "2", q="Can I perform free weight exercises on the Ironmaster IM2000?" %}
 Yes you can, but you'll need to purchase the J-hooks from Ironmaster to accommodate an Olympic barbell. I *highly* recommend you purchase the spotter bars too.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 3 | q=What else do I need with the Ironmaster IM2000? )
+{% faqqa "3", q="What else do I need with the Ironmaster IM2000?" %}
 Some weight plates and a bench if you want to do presses. The IM2000 comes with a 'Smith' bar and pulley system.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 4 | q=Is it safe to train alone on the Ironmaster IM2000? )
+{% faqqa "4", q="Is it safe to train alone on the Ironmaster IM2000?" %}
 Always take care when training alone, but the 'Smith' bar on the IM2000 locks in place with a simple twist of the bar and that should help you train safely.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 5 | q=How much space do I need for the Ironmaster IM2000? )
+{% faqqa "5", q="How much space do I need for the Ironmaster IM2000?" %}
 The footprint of the IM2000 is 48 inches x 48 inches and it's 85 inches high. The 'Smith' lifting bar is 73 inches long. Over all, to use the machine effectively and be able to get around it, **I think you need 100 inches x 100 inches** of floor space.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 6 | q=Is the Ironmaster IM2000 worth the money? )
+{% faqqa "6", q="Is the Ironmaster IM2000 worth the money?" %}
 Absolutely, as far as I'm concerned. It's constructed to a high standard and should last you a lifetime. The movements of the 'Smith' bar and the cable system are smooth, and it's very compact for something with so many features.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 7 | q=What attachments do I need for the Ironmaster IM2000? )
+{% faqqa "7", q="What attachments do I need for the Ironmaster IM2000?" %}
 You don't *need* any attachments. It comes with enough kit to get you started. If you want to used free weights with the IM2000 then you'll need the J-hooks, spotter bars and an Olympic barbell. Optionally, you might want some additional bars for the cable machine or perhaps the pull-up attachment.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@endfaqpage)
+{% endfaqpage %}
 
 

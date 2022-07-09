@@ -40,7 +40,7 @@ layout: post-review.njk
 
 I have previously reviewed the [Ironmaster Super Bench](/ironmaster-super-bench-review) and I purchased mine with a number of attachments. I thought I’d do a short review of each of these attachments and in this article I’m going to review the Ironmaster Super Bench Leg Attachment.
 
-[//]: # (@simpleimg | /assets/images/posts/2018/08/2018-08-25-ironmaster-leg-attachment2.jpg | alt=Ironmaster leg attachment. | @itemprop=image )
+{% simpleimg "/assets/images/posts/2018/08/2018-08-25-ironmaster-leg-attachment2.jpg", alt="Ironmaster leg attachment.", @itemprop="image" %}
 
 There is a slot at the front of the [Ironmaster Super Bench](/ironmaster-super-bench-review) which all the attachments fit into and it’s easy enough to use. You just unscrew the knob, pull it out (it’s spring-loaded), slot the attachment into the the bench and then release the knob and tighten it up as necessary.
 

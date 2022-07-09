@@ -39,5 +39,5 @@ It amazes me that astronomers might listen for signals from a tiny dot trillions
 
 I always worry about what aliens might make of us after observing us for a while:
 
-[//]: # (@videolink | youtube | type=youtube | id=uKt-KR1TsRg | name=Cadbury's Smash advert. | description=For mash get smash advert. | uploadDate=Wed Sep 06 2006 01:00:00 GMT+0100 (British Summer Time) | @itemprop=video )
+{% videolink "youtube", type="youtube", id="uKt-KR1TsRg", name="Cadbury's Smash advert.", description="For mash get smash advert.", uploadDate="Wed Sep 06 2006 01:00:00 GMT+0100 (British Summer Time)", @itemprop="video" %}
 

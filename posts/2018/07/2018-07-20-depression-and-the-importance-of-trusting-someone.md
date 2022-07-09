@@ -15,7 +15,7 @@ tags:
   - Personal
   - Opinion
 ---
-[//]: # (@simpleimg | /assets/images/posts/2018/07/2018-07-20-depression.png | alt=Depression icon. | @itemprop=image )
+{% simpleimg "/assets/images/posts/2018/07/2018-07-20-depression.png", alt="Depression icon.", @itemprop="image" %}
 
 Depression is something I will probably talk about from time-to-time here. It’s a subject that’s been hidden away in society for too long. A recent episode spurred me to write this post.
 

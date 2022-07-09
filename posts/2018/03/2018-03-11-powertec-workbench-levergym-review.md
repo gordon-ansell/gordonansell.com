@@ -34,7 +34,7 @@ layout: post-faqreview.njk
 ---
 
 
-[//]: # (@simpleimg | /assets/images/posts/2018/03/2018-03-11-powertec-levergym-icon.jpg | alt=Powertec LeverGym | class=s33 left|@itemprop=image )
+{% simpleimg "/assets/images/posts/2018/03/2018-03-11-powertec-levergym-icon.jpg", alt="Powertec LeverGym", class="s33 left" %}
 
 In early 2016 I moved to a two-bedroom, ground floor flat, so space was at a premium and I no longer had room for the [Body-Solid Series 7 Smith Machine](body-solid-series-7-smith-master-system-review) I was using. I love my weight training but the quality and quantity of good gyms where I live leaves a lot to be desired. Besides, there's nothing like the convenience of having your gym in your home.
 
@@ -140,28 +140,28 @@ However, there is an important point to make. It would be remiss of me not to ad
 
 
 
-[//]: # (@faqpage | Powertec Workbench LeverGym )
+{% faqpage "Powertec Workbench LeverGym" %}
 
 ## Powertec Workbench LeverGym - Frequently Asked Questions
-[//]: # (@faqqa | 1 | q=Who is the Powertec Workbench LeverGym suitable for? )
+{% faqqa "1", q="Who is the Powertec Workbench LeverGym suitable for?" %}
 Anyone who wants to keep fit and build muscle but doesn't have much room for gym equipment. If it's your only kit, it probably _wouldn't_ suit a dedicated bodybuilder, powerlifter or weightlifter as they would miss free weight exercises.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 2 | q=How much room does the Powertec Workbench LeverGym need? )
+{% faqqa "2", q="How much room does the Powertec Workbench LeverGym need?" %}
 The footprint is 81.5 inches x 57.5 inches but you need to add space to get around the machine and load plates. I'd suggest 110 inches by 75 inches (9ft 2 x 6ft 3) at a minimum. 
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 3 | q=What exercises can I do on the Powertec Workbench LeverGym? )
+{% faqqa "3", q="What exercises can I do on the Powertec Workbench LeverGym?" %}
 It's very good for presses (bench, shoulder etc.) and cable work (lat pulldowns, rows, triceps pressdowns etc.). Not so good for squats and deadlifts.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 4 | q=What else do I need with the Powertec Workbench LeverGym? )
+{% faqqa "4", q="What else do I need with the Powertec Workbench LeverGym?" %}
 You will need some free weight plates. The LeverGym does not have stacks like some machines, it uses free weight plates.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 5 | q=Is the Powertec Workbench LeverGym smooth to use? )
+{% faqqa "5", q="Is the Powertec Workbench LeverGym smooth to use?" %}
 Yes, both the pressing lever and the cable lever operate smoothly.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@endfaqpage)
+{% endfaqpage %}
 

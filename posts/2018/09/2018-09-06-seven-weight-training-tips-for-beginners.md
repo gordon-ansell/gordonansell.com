@@ -14,7 +14,7 @@ tags:
   - Weight Training
   - Help
 ---
-[//]: # (@simpleimg | /assets/images/posts/2018/09/2018-09-06-dumbbell-rack-1.jpg | alt=Image of a dumbbell rack. | class=s33 left|@itemprop=image )
+{% simpleimg "/assets/images/posts/2018/09/2018-09-06-dumbbell-rack-1.jpg", alt="Image of a dumbbell rack.", class="s33 left" %}
 I’ve had two spells of weight-training in my life. I started in 1982 at the age of 18 and trained solidly for seven years until I was 25. I was a skinny teen and I was training to bulk up a bit and gain some strength. I never became phenomenally strong and I wasn’t interested in bodybuilding as such, although getting in reasonable shape was a beneficial side-effect of regular workouts.
 
 At my peak I could squat 495lbs (225kg), bench 335lbs (152kg) and deadlift 505lbs (230kg). Those could only be described as ‘reasonable’ lifts in global terms, but they were pretty good in the small, provincial gyms I was training in.

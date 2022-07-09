@@ -26,7 +26,7 @@ If I wanted to be arty I’d mention the changing meter from a 4/4 to a 3/4 in _
 
 Instead, let’s just play it.
 
-[//]: # (@videolink | youtube | id=WGU_4-5RaxU | name=Parallel Lines by Blondie | description=Parallel Lines by Blondie | uploadDate=Tue Feb 24 2009 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", id="WGU_4-5RaxU", name="Parallel Lines by Blondie", description="Parallel Lines by Blondie", uploadDate="Tue Feb 24 2009 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 
 That definitely still stirs some hormones, 40 years on from my mid-teens.
 

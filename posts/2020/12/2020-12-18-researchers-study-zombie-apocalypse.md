@@ -41,7 +41,7 @@ I can't wait.
 
 Whilst I'm suggesting survival techniques, I found this video interesting (and rather more useful that surviving zombies). It's how to survive falling through ice. Props to the presenter for actually demonstrating the techniques twice.
 
-[//]: # (@videolink | youtube | type=youtube | id=7PA-GzpcgIA | name=Escape falling through ice. | description=How to escape falling through the ice. | uploadDate=Wed Feb 19 2014 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", type="youtube", id="7PA-GzpcgIA", name="Escape falling through ice.", description="How to escape falling through the ice.", uploadDate="Wed Feb 19 2014 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 
 
 

@@ -57,11 +57,11 @@ date: 05 October 2021
 ---
 Here is some content.
 
-[//]: # (-@block-this)
+[//]: # (@block-this)
 
 Some text inside a styled block.
 
-[//]: # (-@endblock-this)
+[//]: # (@endblock-this)
 
 More content.
 ```

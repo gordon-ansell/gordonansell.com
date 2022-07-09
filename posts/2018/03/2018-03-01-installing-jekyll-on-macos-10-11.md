@@ -23,7 +23,7 @@ excerpt: >-
   outdated*' and '*rbenv shell command not found*'. It was a bit of a nightmare,
   but I got there in the end.
 ---
-[//]: # (@simpleimg | /assets/images/posts/2018/03/2018-03-03-jekyll-site-ss.png | alt=Jekyll icon. | class=s25 left|@itemprop=image )
+{% simpleimg "/assets/images/posts/2018/03/2018-03-03-jekyll-site-ss.png", alt="Jekyll icon.", class="s25 left" %}
 
 This is how I managed to install [Jekyll](https://jekyllrb.com). Your experiences may differ but you might find this article useful if you encounter the same problems I did. I’m not going to bother explaining this stuff in detail — such as what every Terminal command is actually doing — because (a) I doubt you care and (b) I’m not entirely sure myself. I’ll just tell you what commands I issued at Terminal and what happened when I did so.
 

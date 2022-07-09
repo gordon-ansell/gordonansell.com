@@ -19,7 +19,7 @@ LiDAR stands for **Li**ght **D**etection **a**nd **R**anging and it uses lasers 
 
 If you're interesting in learning a bit more about LiDAR, have a look at the following video:
 
-[//]: # (@videolink | youtube | type=youtube | id=eBUCGxZq_xg | uploadDate=Fri Feb 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time) | name=LiDAR explained. | description=Director of Remote Sensing Amar Nayegandhi explains the science and technology behind Light Detection and Ranging (LiDAR) services. | @itemprop=video )
+{% videolink "youtube", type="youtube", id="eBUCGxZq_xg", uploadDate="Fri Feb 28 2014 00:00:00 GMT+0000 (Greenwich Mean Time)", name="LiDAR explained.", description="Director of Remote Sensing Amar Nayegandhi explains the science and technology behind Light Detection and Ranging (LiDAR) services.", @itemprop="video" %}
 
 ## Why is Apple interested in LiDAR?
 
@@ -54,5 +54,5 @@ The internet is full of articles about the latest iPad release but I couldn't fi
 
 Apple's latest advert for the new iPad has a short segment about the LiDAR scanner (30 seconds in).
 
-[//]: # (@videolink | youtube | type=youtube | id=09_QxCcBEyU | uploadDate=Wed Mar 18 2020 00:00:00 GMT+0000 (Greenwich Mean Time) | name=Apple iPad advert. | description=iPad Pro — Your next computer is not a computer — Apple. | @itemprop=video )
+{% videolink "youtube", type="youtube", id="09_QxCcBEyU", uploadDate="Wed Mar 18 2020 00:00:00 GMT+0000 (Greenwich Mean Time)", name="Apple iPad advert.", description="iPad Pro — Your next computer is not a computer — Apple.", @itemprop="video" %}
 

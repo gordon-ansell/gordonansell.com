@@ -56,7 +56,7 @@ The main organisational features of OmniFocus are _inbox_, _projects_ and _conte
 
 The general idea is that, as you go about your day, you sling stuff in the _inbox_ to be properly sorted out later. When you have some time you then either complete an item in the _inbox_ or move it into a _project_.
 
-[//]: # (@simpleimg | /assets/images/posts/2018/08/2018-08-05-omnifocus2.png | alt=An OmniFocus action with sub-actions on macOS. | caption=An OmniFocus action with sub-actions on macOS.|title=An OmniFocus action with sub-actions on macOS.|@itemprop=image|class=s50 left )
+{% simpleimg "/assets/images/posts/2018/08/2018-08-05-omnifocus2.png", alt="An OmniFocus action with sub-actions on macOS.", caption="An OmniFocus action with sub-actions on macOS.", title="An OmniFocus action with sub-actions on macOS.", class="s50 left" %}
 A _project_ consists of _actions_ and these can be hierarchically organised such that any _action_ can act as a container to store _sub-actions_. This allows you to break a _project_ down into chunks of related _actions_ and _sub-actions_.
 
 _Contexts_ provide give you another way to look at your _projects_. A _context_ can be applied to a _project_ as a whole and all the _actions_ in that _project_ will inherit that _context_, or it can be applied to individual _actions_. You can name _contexts_ as you see fit and one common use is to base them on a location such as _Home_ or _Work_. You can even be more specific with things like _At My PC_ or _In The Kitchen_. There are no hard-coded rules though; you can use things like _Errands_, _Must Do Soon_, _Urgent_, _When I Next See Peter_ or whatever you like as _contexts_.

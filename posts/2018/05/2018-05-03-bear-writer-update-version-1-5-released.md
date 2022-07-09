@@ -18,7 +18,7 @@ tags:
 ---
 [Bear Writer](http://www.bear-writer.com) is now my go-to application for virtually all my writing (the main exception being letters, where I use Apple’s Pages instead). I [reviewed Bear Writer back in March](/bear-writer-review-a-gorgeous-notes-app) but, despite the generally favourable review I gave it, I went with Ulysses instead.
 
-[//]: # (@simpleimg | /assets/images/posts/2018/05/2018-05-03-bear-update-1.png | alt=Bear Writer icon.)
+{% simpleimg "/assets/images/posts/2018/05/2018-05-03-bear-update-1.png", alt="Bear Writer icon." %}
 I then encountered a [problem with iCloud that affected Ulysses](/bear-writer-revisited-transferring-from-ulysses) (which is still outstanding and being investigated by Apple). The problem was not Ulysses’ fault but I switched back to Bear Writer at that point because it wasn’t affected by the particular iCloud problem I was getting.
 
 Ulysses was an unfortunate victim of circumstance here but I wasn’t too stressed about going back to Bear because it’s a gorgeous app that’s a joy to use. I merely felt it lacked some of the whistles and bells that Ulysses had.
@@ -29,7 +29,7 @@ The main bits of the update are as follows:
 
 ### TagCons
 
-[//]: # (@simpleimg | /assets/images/posts/2018/05/2018-05-03-bear-update-2.png | alt=Bear Writer 1.5.)
+{% simpleimg "/assets/images/posts/2018/05/2018-05-03-bear-update-2.png", alt="Bear Writer 1.5." %}
 This is what the Bear team call the little icons next to tags in the left pane of the Bear window. Bear used to pick the icon for you but you can now pick the icon yourself. All you do is long press the tag in the left pane and then select “_Change Tag Icon..._”. You can then select the icon you want from the pop-up window that follows.
 
 ### Archive Notes

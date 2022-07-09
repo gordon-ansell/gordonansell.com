@@ -168,30 +168,30 @@ None of this distracts from my admiration of the app and how it's perfectly suit
 
  
 
-[//]: # (@faqpage | Agenda )
+{% faqpage "Agenda" %}
 
 ## Agenda - Frequently Asked Questions
-[//]: # (@faqqa | 1 | q=Is Agenda app a Markdown editor? )
+{% faqqa "1", q="Is Agenda app a Markdown editor?" %}
 No, it's a rich text editor, but you can both copy and export Agenda notes as Markdown. You can also import Markdown files.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 2 | q=Is Agenda app suitable for keeping a journal? )
+{% faqqa "2", q="Is Agenda app suitable for keeping a journal?" %}
 It isn't a dedicated journalling app, but its date-based design makes it suitable for keeping journals. It's easy to associate agenda notes with dates.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 3 | q=Is Agenda a project management application? )
+{% faqqa "3", q="Is Agenda a project management application?" %}
 No, not strictly speaking. There are better apps if project management is your singular goal. However, Agenda can be used as a 'lite' project management app and it's ideal for to-do lists.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 4 | q=What do I get by upgrading to Agenda Premium? )
+{% faqqa "4", q="What do I get by upgrading to Agenda Premium?" %}
 You get any premium features available at the time and any that are released in the next year. They are yours forever and you only need to pay gain if you want premium features that are released after a year.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 5 | q=Is Agenda a subscription app? ) 
+{% faqqa "5", q="Is Agenda a subscription app?" %} 
 No. You can make an in-app purchase to get the premium features and any new premium features released in the next year. There is no requirement to renew that, it just means you won't get new premium features after that year.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@endfaqpage)
+{% endfaqpage %}
 
 
 

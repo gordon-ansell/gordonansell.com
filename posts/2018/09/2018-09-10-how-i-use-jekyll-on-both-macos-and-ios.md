@@ -19,7 +19,7 @@ tags:
   - Web Development
   - Help
 ---
-[//]: # (@simpleimg | /assets/images/posts/2018/09/2018-09-10-jekyll-macos-ios-2.png | alt=Jekyll on iOS. | class=s33 left|@itemprop=image )
+{% simpleimg "/assets/images/posts/2018/09/2018-09-10-jekyll-macos-ios-2.png", alt="Jekyll on iOS.", class="s33 left" %}
 ## Bear Writer
 I do virtually all my writing in [Bear Writer](https://bear.app) these days: blog articles, journals, notes and just about everything else. That means I write in [Markdown](https://daringfireball.net/projects/markdown/syntax) as a matter of course, which is handy because Jekyll likes Markdown too.
 

@@ -3,6 +3,7 @@ title: Gordy's Discourse RSS Feed
 parse: last
 sitemap: false
 feed: false
+isRss: true
 computed:
     permalink: /feed.xml
     permalinkIsFile: true
@@ -59,25 +60,14 @@ computed:
                 <pubDate>{{ post.date | utcDateTime }}</pubDate>
                 <guid isPermaLink="true">{{ post.permalink | absoluteUrl(hostname) }}</guid>
                 <description>{{ post.description | safe }}</description>
-                {% if (buildSeparateRssContent and post.extracted.content_rss) %}
-                    <content:encoded>
-                        <![CDATA[{{  post.extracted.content_rss | htmlAbsUrl(hostname, true) | safe }}
-                        <hr />
-                        <a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{post.title}}" title="Contact me about this post.">
-                            Contact me about this post.
-                        </a>
-                        ]]>
-                    </content:encoded>
-                {% else %}
-                    <content:encoded>
-                        <![CDATA[{{  post.extracted.content | htmlAbsUrl(hostname, true) | safe }}
-                        <hr />
-                        <p><a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{post.title}}" title="Contact me about this post.">
-                            Contact me about this post.
-                        </a></p>
-                        ]]>
-                    </content:encoded>
-                {% endif %}
+                <content:encoded>
+                    <![CDATA[<noscript><style type="text/css">.lazyload {display: none;}</style></noscript>{{  post.extracted.content | htmlAbsUrl(hostname, true) | safe }}
+                    <hr />
+                    <a href="&#109;ailto&#58;con&#37;&#55;4act&#64;gor&#37;64%6&#70;na%6&#69;sell&#46;%&#54;3om?subject=Contact: {{post.title}}" title="Contact me about this post.">
+                        Contact me about this post.
+                    </a>
+                    ]]>
+                </content:encoded>
             </item>
         {% endif %}
     {% endfor %}

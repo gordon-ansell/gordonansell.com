@@ -28,7 +28,7 @@ The prospect of sudden death bothers me, not because I will in fact be dead but 
 
 I mention all this by way of explaining why I like GTD (Getting Things Done) processes; they give my life structure and structure makes me feel all warm and fuzzy inside.
 
-[//]: # (@simpleimg | /assets/images/posts/2018/03/2018-03-04-time-manager-page.jpg | alt=Time manager diary page. | class=s33 left )
+{% simpleimg "/assets/images/posts/2018/03/2018-03-04-time-manager-page.jpg", alt="Time manager diary page.", class="s33 left" %}
 
 I am forever searching for the Holy Grail of GTD too. I want one product I can use for everything I might reasonably need to do to organise my life, and back in the 1980s I found just such a thing. It was called a [Time Manager](https://shop.timemanager.com/shop/uk/frontpage.html "Visit the Time Manager site.") and as far as I was concerned it was the best invention since the wheel. Within it’s binder you had diaries, schedules, planners, tasks, activities, contacts, finances and notes. It was a revelation or organisation way beyond the Filofaxes that were all the rage back then. I gave my life over to this thing and all was well.
 

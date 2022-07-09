@@ -22,7 +22,7 @@ I think he was a bit mad.
 
 I _had_ heard of The Freshies back in early 80s thanks to a John Peel show on Radio 1 during which he played _My Tape’s Gone_.
 
-[//]: # (@videolink | youtube | id=SRSleS7sTEU | name=My Tape's Gone by The Freshies | description=My Tape's Gone by The Freshies | uploadDate=Fri Oct 26 2012 01:00:00 GMT+0100 (British Summer Time) | @itemprop=video )
+{% videolink "youtube", id="SRSleS7sTEU", name="My Tape's Gone by The Freshies", description="My Tape's Gone by The Freshies", uploadDate="Fri Oct 26 2012 01:00:00 GMT+0100 (British Summer Time)", @itemprop="video" %}
 
 I liked their Punk/Post-Punk/Pop-Punk/New Wave (or whatever you want to call it) sound and tried my best to follow them. This wasn’t always easy in pre-internet, pre-digital days.
 
@@ -64,5 +64,5 @@ It barely touched the charts, only reaching number 54 in the UK Singles Chart an
 
 I think it’s a properly good song and The Freshies never received enough recognition as a band.
 
-[//]: # (@videolink | youtube | id=VvV465SHJBg | name=I'm In Love With A Girl On Certain Manchester Megastore Checkout Desk by The Freshies | description=I'm In Love With A Girl On Certain Manchester Megastore Checkout Desk by The Freshies | uploadDate=Mon Aug 16 2010 01:00:00 GMT+0100 (British Summer Time) | @itemprop=video )
+{% videolink "youtube", id="VvV465SHJBg", name="I'm In Love With A Girl On Certain Manchester Megastore Checkout Desk by The Freshies", description="I'm In Love With A Girl On Certain Manchester Megastore Checkout Desk by The Freshies", uploadDate="Mon Aug 16 2010 01:00:00 GMT+0100 (British Summer Time)", @itemprop="video" %}
 

@@ -29,7 +29,7 @@ layout: post-review.njk
 ---
  
 
-[//]: # (@simpleimg | /assets/images/posts/2019/03/2019-03-26-equalizer-2-film.jpg | alt=Equalizer 2 | caption=Equalizer 2 poster|@itemprop=image|class=s33 left )
+{% simpleimg "/assets/images/posts/2019/03/2019-03-26-equalizer-2-film.jpg", alt="Equalizer 2", caption="Equalizer 2 poster", class="s33 left" %}
 
 I watched Equalizer 1 (2014) a few years ago with a friend of mine and quite enjoyed it, so when the same friend visited last weekend we decided to watch Equalizer 2.
 

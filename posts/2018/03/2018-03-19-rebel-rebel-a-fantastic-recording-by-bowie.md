@@ -45,7 +45,7 @@ Every once in a while you hear a song that you already think is awesome and you 
 
 Anyway, enough of me waxing lyrical about this. Here’s the song. Enjoy.
 
-[//]: # (@videolink | youtube | id=fICcfY3r7YE | name=Rebel Rebel by David Bowie. | uploadDate=2010-03-07 | caption=A version of Rebel Rebel I hadn't heard until recently. )
+{% videolink "youtube", id="fICcfY3r7YE", name="Rebel Rebel by David Bowie.", uploadDate="2010-03-07", caption="A version of Rebel Rebel I hadn't heard until recently." %}
 
 
 

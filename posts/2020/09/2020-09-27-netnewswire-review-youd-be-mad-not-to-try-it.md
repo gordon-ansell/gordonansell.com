@@ -72,25 +72,25 @@ In summary, if you need a feed reader app you’d be absolutely bonkers not to g
 
  
 
-[//]: # (@faqpage | NetNewsWire )
+{% faqpage "NetNewsWire" %}
 ## NetNewsWire - Frequently Asked Questions
-[//]: # (@faqqa | 1 | q=What feed services does NetNewsWire sync with? )
+{% faqqa "1", q="What feed services does NetNewsWire sync with?" %}
 Feedbin, Feedly, Inoreader, BazQux, Inoreader, NewsBlur, The Old Reader, and FreshRSS. You can of course read feeds locally without using a specific service.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 2 | q=What is Reader View on NetNewsWire? )
+{% faqqa "2", q="What is Reader View on NetNewsWire?" %}
 Some feeds only serve partial results; a sort of teaser that encourages you to visit the website for the full article. *Reader View* will attempt to load the full article regardless so that you don't need to click out of NetNewsWire to read it.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@faqqa | 3 | q=How do I activate Reader View on NetNewsWire? )
-Activate *Reader View* by clicking the appropriate icon: [//]: # (@simpleimg | /assets/images/posts/2020/09/2020-09-27-nnw-reader-icon.png | alt=NetNewsWire Reader View icon | class=s3 ). NetNewsWire will then try to pull the whole article. If it cannot pull the whole article you'll see an exclamation mark in the icon.
-[//]: # (@endfaqqa)
+{% faqqa "3", q="How do I activate Reader View on NetNewsWire?" %}
+Activate *Reader View* by clicking the appropriate icon: {% simpleimg "/assets/images/posts/2020/09/2020-09-27-nnw-reader-icon.png", alt="NetNewsWire Reader View icon", class="s3" %}. NetNewsWire will then try to pull the whole article. If it cannot pull the whole article you'll see an exclamation mark in the icon.
+{% endfaqqa %}
 
-[//]: # (@faqqa | 4 | q=NetNewsWire is free and open source. Is it as good as commercial feed readers? ) 
+{% faqqa "4", q="NetNewsWire is free and open source. Is it as good as commercial feed readers?" %} 
 Absolutely. In fact it's better than most of them.
-[//]: # (@endfaqqa)
+{% endfaqqa %}
 
-[//]: # (@endfaqpage)
+{% endfaqpage %}
 
 
 

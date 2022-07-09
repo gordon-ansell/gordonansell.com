@@ -19,7 +19,7 @@ I have some pictures on the wall of course, but most things I own need to do som
 
 I love this device, for example: 
 
-[//]: # (@videolink | youtube | type=youtube | id=nFslB0AcVmM | name=Daniel de Bruin's 100 gears. | description=To turn the last gear once, the first must turn 1 googol times. | uploadDate=2020-03-01 | @itemprop=video )
+{% videolink "youtube", type="youtube", id="nFslB0AcVmM", name="Daniel de Bruin's 100 gears.", description="To turn the last gear once, the first must turn 1 googol times.", uploadDate="2020-03-01", @itemprop="video" %}
 
 The first gear on this device would have to turn 1 googol times in order to turn the last gear once. It's utterly pointless, but I like it nevertheless. I'm a strange dichotomy in that respect; a pointless ornament in my sightline in the living room would soon find itself in the bin, but a pointless gears device would command pride of place.
 

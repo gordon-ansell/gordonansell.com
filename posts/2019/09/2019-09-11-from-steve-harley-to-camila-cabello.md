@@ -52,9 +52,9 @@ A completely pointless exercise but one I enjoyed nevertheless.
 
 Anyway, here are some videos from the start and end of my journey. First up it’s Steve Harley and Cockney Rebel with _Make Me Smile (Come Up and See Me)_. I like the red coat and bowler hat arrangement, which I should perhaps investigate as resident fashion leader hereabouts.
 
-[//]: # (@videolink | youtube | id=ptFegqTOYYc | name=Make Me Smile (Come Up and See Me) | description=Make Me Smile by Steve Harley and Cockney Rebel | uploadDate=Mon Nov 16 2015 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", id="ptFegqTOYYc", name="Make Me Smile (Come Up and See Me)", description="Make Me Smile by Steve Harley and Cockney Rebel", uploadDate="Mon Nov 16 2015 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 
 And now the vastly less good but not entirely bad _Havana_ by Camila Cabello featuring Young Thug.
 
-[//]: # (@videolink | youtube | id=pz95u3UVpaM | name=Havana | description=Havana by Camila Cabello ft Young Thug | uploadDate=Fri Nov 10 2017 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", id="pz95u3UVpaM", name="Havana", description="Havana by Camila Cabello ft Young Thug", uploadDate="Fri Nov 10 2017 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 

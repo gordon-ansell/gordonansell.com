@@ -23,5 +23,5 @@ Once I’d remembered the band I remembered a song by them called _No Government
 
 I present it for your delectation here but, be warned, it’s quite hardcore punk and probably not to the tastes of those of you who only like the namby-pamby softcore stuff.
 
-[//]: # (@videolink | youtube | id=wDf1Cykxtcw | name=No Government by Anti-Pasti. | description=No Government by Anti-Pasti | uploadDate=Mon Dec 13 2010 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", id="wDf1Cykxtcw", name="No Government by Anti-Pasti.", description="No Government by Anti-Pasti", uploadDate="Mon Dec 13 2010 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 

@@ -17,6 +17,6 @@ I can't say I blame them. If anyone was coming after my particulars with a pair 
 
 "*I never signed a consent form*," said the irate baboon, crossing his legs tightly.
 
-[//]: # (@videolink | bbc | name=Baboons object to vascetomy | description=Baboons run away when they hear they're getting their goolies severed. | section=news | id=p084s9p2/51639676 | uploadDate=2020-03-26 | url=https://www.bbc.co.uk/news/av/world-australia-51639676/sydney-baboons-go-on-the-run-before-vasectomy | @itemprop=video )
+{% videolink "bbc", name="Baboons object to vascetomy", description="Baboons run away when they hear they're getting their goolies severed.", section="news", id="p084s9p2/51639676", uploadDate="2020-03-26", url="https://www.bbc.co.uk/news/av/world-australia-51639676/sydney-baboons-go-on-the-run-before-vasectomy", @itemprop="video" %}
 
 

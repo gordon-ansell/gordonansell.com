@@ -75,7 +75,7 @@ The hearing aid has no on/off switch. It is on when the battery is inserted and 
 
 Inserting the hearing aid is easy enough. You push it fairly deep into the ear and there’s a clear plastic ‘coil’ that sits in the outer ear to help keep it in place. The easiest thing to do is to watch the video Hearing Direct provide:
 
-[//]: # (@videolink | youtube | id=Oc6Lsn8pej0 | name=HD500 Hearing Aid Insertion and Removal | description=How to use the HD500 hearing aid. | uploadDate=Mon Dec 19 2016 00:00:00 GMT+0000 (Greenwich Mean Time) | @itemprop=video )
+{% videolink "youtube", id="Oc6Lsn8pej0", name="HD500 Hearing Aid Insertion and Removal", description="How to use the HD500 hearing aid.", uploadDate="Mon Dec 19 2016 00:00:00 GMT+0000 (Greenwich Mean Time)", @itemprop="video" %}
 
 ## Volume
 

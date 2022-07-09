@@ -19,7 +19,7 @@ tags:
   - Web Development
   - Internet
 ---
-[//]: # (@simpleimg | /assets/images/posts/2018/08/2018-08-02-indiewebcamp.png | alt=IndieWeb icon. | @itemprop=image )I have occasionally pointed out that I believe you are far better off publishing to your own website than using a third party to publish. By ‘third party’ I mean sites like Blogger, Tumblr, Facebook, Medium, Google+ and similar.
+{% simpleimg "/assets/images/posts/2018/08/2018-08-02-indiewebcamp.png", alt="IndieWeb icon.", @itemprop="image" %}I have occasionally pointed out that I believe you are far better off publishing to your own website than using a third party to publish. By ‘third party’ I mean sites like Blogger, Tumblr, Facebook, Medium, Google+ and similar.
 
 The reason I say this is because if you use a third party you’re entirely at their whim. You could get caught up in a change to their terms and conditions or they simply may go out of business or they may delete your account for spurious reasons.
 
